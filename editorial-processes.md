@@ -37,6 +37,10 @@ Wo Alternativen möglich sind.
 
 ## Editing as a component of content strategy
 
+> As their content specialists, the more we know about solid editorial practices, the better we can help our clients with the transition to the new world of distributed online publishing. p. 21
+
+##
+
 > Editorial work is so closely related to content strategy that questions about the difference between the two often arise. From the outside, content strategy can look quite a lot like the sort of editing found in magazines and newspapers. The editorial world, and that of publishing in general, has a lot to offer us. Kissane p.16
 
 ## Die Relevanz der Redaktion, Redakteur:innen als Vertreter:innen der Lesenden
@@ -67,9 +71,44 @@ Wo Alternativen möglich sind.
 
 > If you rely on internal experts without a dedicated editor and approval process, you’re courting trouble. Kissane p. 66
 
+# Editing as necessary skill and craft
+
+> But the truth is, none of these tools can replace a skilled in-house editor. If your client will be creating and managing more than a few dozen pages of content, they’ll need an editor or internal content strategist to keep things running smoothly. Kissane p. 69
+
 ## Editing is about authority and leadership
 
 > Content creation encompasses writing, illustration, information visualization, metadata and text-equivalent production, and interface writing, and is supported by creative direction and old-fashioned editorial leadership. Kissane, p. 62
+
+## Editing as continuous handling of complex situations with unexpected components
+
+> The essence of editorial work lies not in style guides and arguments about grammar, but in the ability to cultivate relationships, manage chaos, and serve readers. It’s not a profession to be learned from books, but these three very different takes will help. Kissane p. 78
+
+##
+
+> But real-world editing is much more about crack organizational skills, a habit of developing practical communication ideas, and the ability to deal firmly and diplomatically with the whole crew of people involved in getting a book, newspaper, or website from concept to delivery. Kissane p. 17
+
+## Tasks of editors and editorial teams
+
+* maintaining consistency (often with style guides)
+* correct language
+* passion for getting the story
+* development of themes and narrative arcs
+* reactions to outside events
+* managing writers and creators
+* maintaining balanced variety
+
+## Editors as advocates of the readers
+
+> Editors worth their salt work not for writers or publishers, but for readers. Kissane p. 17
+
+> Paradoxically, it’s only by working tirelessly for our readers that we can genuinely serve our clients and employers Kissane p. 18
+
+> Acting as a user advocate doesn’t make you an impractical idealist. As we’ve learned from our editorial colleagues, if your content doesn’t work for the user, you’ve already failed. User advocacy is simply a way of ensuring that a project achieves business goals. •	 Kissane p. 47
+
+## Storytelling as a focus for editors
+
+> Whatever corner of the publishing world they come from, editors know how to help other people tell the best, most engaging stories they can tell. Content people with backgrounds in journalism or publishing usually have the basics of storytelling down cold, but the rest of us can learn from the storytelling principles of these fields—from the basics like building a lead that hooks the reader (and supporting it with facts and quotations) to sophisticated techniques for layering in secondary narratives. Kissane p. 18
+
 
 ## Web editing as a root of content strategy
 
@@ -78,6 +117,7 @@ Wo Alternativen möglich sind.
 
 Plotnik, The Elements of Editing
 
+## Discussion: Editing for print and digital
 
 # Editing, authority and power
 
@@ -120,6 +160,22 @@ Plotnik, The Elements of Editing
 
 [Roles and Responsibilities Matrix by Megan Casey](docs/Tool_14.1_Roles_And_Responsibilities_Matrix.docx)
 
+# Editorial/content planning tasks
+
+* Regularly scheduled editorial reviews of all content
+* Ongoing traffic and findability analysis
+* Community moderation and oversight, including comment-wrangling and social media interactions
+* Editorial planning sessions to define changes in theme and to introduce new campaigns
+* Ongoing translation and localization efforts Kissane p. 69
+
+## Editorial processes
+
+> you need an editorial process that will support creation, review and revision, publication, performance tracking, and ongoing maintenance. (You’re also going to need resources, primarily in the form of time, which gets paid for with money.) kissane p.21
+
+## Editorial Tools
+
+> Tools such as: •	 clearly documented editorial workflows, including approval processes and thorough quality checks; •	 editorial calendars including content campaigns and themes planned well in advance; and •	 content custom-tuned for specific channels and audiences. kissane p.21
+
 ## Roles
 
 ## Koordination, Abstimmung
@@ -133,69 +189,6 @@ Plotnik, The Elements of Editing
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# Editing as necessary skill and craft
-
-> But the truth is, none of these tools can replace a skilled in-house editor. If your client will be creating and managing more than a few dozen pages of content, they’ll need an editor or internal content strategist to keep things running smoothly. Kissane p. 69
-
-# Planning/production planning
-
-> Common content management tasks include: • Regularly scheduled editorial reviews of all content • Ongoing traffic and findability analysis • Community moderation and oversight, including comment-wrangling and social media interactions • Editorial planning sessions to define changes in theme and to introduce new campaigns • Ongoing translation and localization efforts Kissane p. 69
-
-# Editing as continuous handling of complex situations with unexpected components
-
-> The essence of editorial work lies not in style guides and arguments about grammar, but in the ability to cultivate relationships, manage chaos, and serve readers. It’s not a profession to be learned from books, but these three very different takes will help. Kissane p. 78
-
-# 1. Relevance of editing - discussion: editing for print/digital
-# 2. Editorial teams and their tasks
-# 3. Editing and governance
-
-Sicherung von Konsistenz (oft mit Styleguides)
-* correct language
-* passion for getting the story
-* development of themes and narrative arcs
-* reactions to outside events
-*  managing writers and creators
-*  maintaining balanced variety
-
-> But real-world editing is much more about crack organizational skills, a habit of developing practical communication ideas, and the ability to deal firmly and diplomatically with the whole crew of people involved in getting a book, newspaper, or website from concept to delivery. Kissane p. 17
-
-## Anwältinnen der reader
-
-> Editors worth their salt work not for writers or publishers, but for readers. Kissane p. 17
-
-Plotnik, Elements of Editing:
-
-> Editors worth their salt work not for writers or publishers, but for readers.
-
-> Paradoxically, it’s only by working tirelessly for our readers that we can genuinely serve our clients and employers Kissane p. 18
-
-> Acting as a user advocate doesn’t make you an impractical idealist. As we’ve learned from our editorial colleagues, if your content doesn’t work for the user, you’ve already failed. User advocacy is simply a way of ensuring that a project achieves business goals. •	 Kissane p. 47
-
-# Storytelling
-
-> Whatever corner of the publishing world they come from, editors know how to help other people tell the best, most engaging stories they can tell. Content people with backgrounds in journalism or publishing usually have the basics of storytelling down cold, but the rest of us can learn from the storytelling principles of these fields—from the basics like building a lead that hooks the reader (and supporting it with facts and quotations) to sophisticated techniques for layering in secondary narratives. Kissane p. 18
-
-## Contentstrategie und Webredaktion
-
-
-# Redaktionelle Prozesse
-
-> you need an editorial process that will support creation, review and revision, publication, performance tracking, and ongoing maintenance. (You’re also going to need resources, primarily in the form of time, which gets paid for with money.) kissane p.21
-
-> Tools such as: •	 clearly documented editorial workflows, including approval processes and thorough quality checks; •	 editorial calendars including content campaigns and themes planned well in advance; and •	 content custom-tuned for specific channels and audiences. kissane p.21
-
-> As their content specialists, the more we know about solid editorial practices, the better we can help our clients with the transition to the new world of distributed online publishing. p. 21
 
 ----
 
