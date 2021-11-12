@@ -149,6 +149,37 @@ Plotnik, The Elements of Editing
 
 ## Redaktionsforschung, Redaktionen im Journalismus
 
+## Editorial programs
+
+1. Classification by rubrics/ressorts/departmentsio
+2. Presentation of information
+3. Generation and collection of information (sourcing, reporting etc.)
+4. Selection of information by routines for decision and actions
+5. Fact checking/verification
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+## ROI as limiting factor for editorial quality and credibility
+
+- Example: private radio and tv station
+- Conflicts between journalistic ambition and content marketing
+
+## Research about coordination
+
+One-to-one conversation as the most frequent form of coordination within editorial teams
+
+## Defined eequirements and need for editorial coordination
+
+The number of coordinating actions increases, when rules and guidelines decrease
+
+## Coordination is required
+
+Journalistic practice is not possible without coordination. Usually coordination is not institutionalized except staff conferences (Redaktionskonferenzen)
+
+## Finegrained structures get out of use
+
+> Altmeppen notes that at the level of organizational programs, differentiated structures are being replaced by roughly structured ones. This makes journalists' work more flexible; they can no longer rely on assignments to fixed departments and roles.
+
 ## Definition der Realität als Aufgabe von Redaktionen
 
 ## Macht und Konflikte
@@ -196,21 +227,9 @@ editorial teams, power and the construction of reality
 
 [Redaktionsorganisation | Journalistikon](https://journalistikon.de/category/redaktionsorganisation/ "Redaktionsorganisation | Journalistikon")
 
-"user" : "heinzwittenbrink", "url" : "https://www.grin.com/document/107147", "max" : "50", "addQuoteContext" : "false", "groupName" : "Public"
 
-annotations 24, replies 0
 
-▼  24  Redaktionsforschung - Theorie und Praxis einer Übung im Grundstudium www.grin.com
-HeinzWittenbrink   10.11.2021 08:59:02   in Public
-Im Journalismus differenzieren sich fünf Programmtypen aus: 1. Rubriken und Ressorts als Ordnungseinheiten, die den Informationsfluss kanalisieren. Dieser interne Differenzierungsvorgang bündelt die Informationen in grobe Einheiten. 2. Programme zur Darstellung von Informationen. Diese Darstellungsprogramme sind Textformen und Techniken der Präsentation. 3. Programme zur Generierung und Sammlung von Informationen. Sie erschließen Quel- len und dienen der Umweltbeobachtung. 4. Selektionsprogramme, die in Form von Entscheidungs- und Handlungsroutinen, mit denen Informationen bearbeitet werden Sie steuern die Auswahl der Informationen. 5. Prüfprogramme, die eng mit den Selektionsprogrammen zusammenhängen. Sie prü- fen Informationen nach dem Kriterium „richtig/falsch“.44 @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:58:22   in Public
-Die wirtschaftliche Rentabilität ist das „Drehbuch“41der privaten Rundfunksender, das den Fehler enthält, dass eine journalistische Leistung nicht eben nur eine ökonomische, sondern auch eine kulturelle Leistung sein sollte. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:57:40   in Public
-Die häufigste Form der Koordination ist das Einzelgespräch. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:57:32   in Public
-Wenn die Vorgaben für journalistisches Handeln abnehmen, nimmt der Anteil der koordinie- renden Handlungen zu. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:57:22   in Public
-Ohne Koordination ist journalistisches Handeln nicht möglich, sie sind - mit Ausnahme der Redaktionskonferenz- nicht institutionalisiert. @kuhrtRedaktionsforschungTheorieUnd2002
+
 HeinzWittenbrink   10.11.2021 08:57:12   in Public
 Altmeppen stellt fest, dass auf der Ebene der Organisationsprogramme differenzierte Strukturen durch grobgliederige abgelöst werden. So wird die Arbeit der Journalisten flexibler, sie können sich nicht mehr auf die Zuordnungen zu festen Ressorts und Rollen verlassen. @kuhrtRedaktionsforschungTheorieUnd2002
 HeinzWittenbrink   10.11.2021 08:56:47   in Public
