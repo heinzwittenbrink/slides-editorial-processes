@@ -173,11 +173,17 @@ link-citations: true
 
 
 
-title: Editorial Processes
+title: Editorial Processes (for \cos20)
 author: Heinz Wittenbrink
 date: 2021-11-13
 
 ---
+
+# Preface
+
+## Github repository
+
+[heinzwittenbrink/slides-editorial-processes](https://github.com/heinzwittenbrink/slides-editorial-processes "heinzwittenbrink/slides-editorial-processes")
 
 # Goals and plan of the course
 
