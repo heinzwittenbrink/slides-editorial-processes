@@ -185,6 +185,7 @@ date: 2021-11-13
 
 [heinzwittenbrink/slides-editorial-processes](https://github.com/heinzwittenbrink/slides-editorial-processes "heinzwittenbrink/slides-editorial-processes")
 
+
 # Goals and plan of the course
 
 ##
