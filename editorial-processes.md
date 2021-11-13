@@ -173,7 +173,7 @@ link-citations: true
 
 
 
-title: Editorial Processes (for \cos20)
+title: Editorial Processes (for cos20)
 author: Heinz Wittenbrink
 date: 2021-11-13
 
