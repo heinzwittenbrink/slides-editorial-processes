@@ -496,10 +496,10 @@ Constructivist approach (Stefan Weber)
 - Describe the editorial team you are working in or one you know
 - Focus on roles, authority and decision finding, work force, allocation of resources
 - Name problems and learnings
-- Condense your insights and present them in the whole group 
+- Condense your insights and present them in the whole group
 
 
-- 
+-
 
 
 # Setting up an editorial team and workflows
@@ -865,7 +865,7 @@ content strategy skillset - tool 15.1
 
 # Governance
 
-## 
+##
 
 [Managing Chaos: Digital Governance by Design | Flickr](https://www.flickr.com/photos/rosenfeldmedia/albums/72157650408729568/ )
 ##
@@ -1005,13 +1005,13 @@ Es geht auch hier um Rollen, das ist die Verbindung zu redaktionellen Prozessen.
 
 ##
 
- > A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives. A digital governance framework isn’t bureaucratic and ineffective. 
+ > A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives. A digital governance framework isn’t bureaucratic and ineffective.
 
-Properly designed, a digital governance framework can make your online business machine sing. The proof is out there. Wikipedia is, arguably, one of the most substantively and collaboratively governed websites on the Web, but it is also perceived as a site that fosters a high degree of freedom of expression. 
+> Properly designed, a digital governance framework can make your online business machine sing. The proof is out there. Wikipedia is, arguably, one of the most substantively and collaboratively governed websites on the Web, but it is also perceived as a site that fosters a high degree of freedom of expression.
 
-The well-defined open standards of the World Wide Web Consortium (W3C) enable the World Wide Web to exist, as it is—without which we would not even be having this conversation. And the multiplicity of purpose and diversity apparent on the World Wide Web speaks for itself. Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. In addition, it needs to intentionally design its digital team so that it can work efficiently and productively. And that’s the work of a digital governance framework. This is your chance to establish the foundational framework that will influence the direction of digital in your organization for years to come. Business leaders and senior digital leaders need to get together and establish how to govern and manage digital effectively in their organizations. Now. Through Managing Chaos, you will learn how to free your organization from debate-stalled stagnation around digital development and establish an environment where an entire organization can work together to successfully leverage all that digital has to offer. What Is Digital Governance? 
+The well-defined open standards of the World Wide Web Consortium (W3C) enable the World Wide Web to exist, as it is—without which we would not even be having this conversation. And the multiplicity of purpose and diversity apparent on the World Wide Web speaks for itself. Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. In addition, it needs to intentionally design its digital team so that it can work efficiently and productively. And that’s the work of a digital governance framework. This is your chance to establish the foundational framework that will influence the direction of digital in your organization for years to come. Business leaders and senior digital leaders need to get together and establish how to govern and manage digital effectively in their organizations. Now. Through Managing Chaos, you will learn how to free your organization from debate-stalled stagnation around digital development and establish an environment where an entire organization can work together to successfully leverage all that digital has to offer. What Is Digital Governance?
 
-Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services. Having a well-designed digital governance framework minimizes the number of tactical debates regarding the nature and management of an organization’s digital presence by making clear who on your digital team has decision-making authority for these areas: • 
+Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services. Having a well-designed digital governance framework minimizes the number of tactical debates regarding the nature and management of an organization’s digital presence by making clear who on your digital team has decision-making authority for these areas: •
 
 
 ## Strategy - Policies - Standards
@@ -1021,54 +1021,50 @@ Digital governance is a framework for establishing accountability, roles, and de
 
 ##
 
-    • Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do
+    > Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do
 
 
 ##
 
-    Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services.
+    > Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services.
 
 
 ##
 
-    Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. I
+    > Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. I
 
 
 ##
 
-    A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives
+    > A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives
 
 ##
 
-    fact, I’d argue that “bureaucratic and ineffective” describe how digital development works in your organizations right now—with no governance.
-
-
-##
-
-    and it’s a call from an organization that is having trouble managing its Web presence
-
-##
-
-    wasn’t that we couldn’t make a decision because we weren’t sure about what the right solution was; we couldn’t make a decision because no one really knew whose job it was to say “yes” or “no.”
-
-##
-
-    actually determining what type of functionality needed to be implemented, but on who got to decide what functionality would be implemented.
+    > fact, I’d argue that “bureaucratic and ineffective” describe how digital development works in your organizations right now—with no governance.
 
 
 ##
 
-    t who (the marketing team or the technology team) ought to be selecting and implementing key website technologies
+    > and it’s a call from an organization that is having trouble managing its Web presence wasn’t that we couldn’t make a decision because we weren’t sure about what the right solution was; we couldn’t make a decision because no one really knew whose job it was to say “yes” or “no.”
+
+##
+
+    > actually determining what type of functionality needed to be implemented, but on who got to decide what functionality would be implemented.
 
 
 ##
 
-    debates over homepage real estate
+    > who (the marketing team or the technology team) ought to be selecting and implementing key website technologies
 
 
 ##
 
-    Cisco as a company was serious about using the Web as a business tool.
+>  debates over homepage real estate
+
+
+##
+
+>    Cisco as a company was serious about using the Web as a business tool.
 
 
 ##
@@ -1126,4 +1122,3 @@ Please work in the same groups as for exercise 1!
 ##
 
 The exercise 2 is the task for this part of the course in this semester. Grading will be done on the base of this task and a short oral exam on the literature mentioned in this presentation and one additional text chosen by the students individually.
-
