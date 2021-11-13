@@ -434,20 +434,27 @@ Verbindung von Governance und Content Management. Rollen werden in Bezug auf bei
 
 ## Role of the editing team
 
- >     that’s left is to create the content that will bring your strategy to life, maintain it over time, and make smart content decisions moving forward.
+ > that’s left is to create the content that will bring your strategy to life, maintain it over time, and make smart content decisions moving forward.
 
 ## Content owner
 
  >The content owner is the person responsible for ensuring that specific content is accurate and updated.
 
+##
 
-## Reviewers
+ > this very important responsibility.
 
- >  Reviewer is a blanket term for anyone besides SMEs and the editors who need to review content before it goes live.
+> product owners frequently spend quite a bit of time reviewing website content or other materials, participating in SME interviews, or making sure published content is still accurate. Rarely have I seen a product-owner job description that include ...
+
 
 ## Editors
 
- > The editor is ultimately accountable for the strategic and brand integrity of the content. Depending on your site and content management model, you may have one or more editors. Common responsibilities include:
+ > The editor is ultimately accountable for the strategic and brand integrity of the content. Depending on your site and content management model, you may have one or more editors.
+
+
+## Reviewers
+
+  >  Reviewer is a blanket term for anyone besides SMEs and the editors who need to review content before it goes live.
 
 
 ## Editorial processes and content responsibilities
@@ -463,30 +470,10 @@ Verbindung von Governance und Content Management. Rollen werden in Bezug auf bei
 @caseyContentStrategyToolkit2015
 
 
-
-
-
-
-
 ## Editorial processes
 
 > you need an editorial process that will support creation, review and revision, publication, performance tracking, and ongoing maintenance. (You’re also going to need resources, primarily in the form of time, which gets paid for with money.) Kissane p.21
 
-## Workflow and workflow communication
-
-#
-
-> What matters is that the workflow is communicated to everyone involved with content (and their bosses), the expectations are clear, and the documentation is complete.
-
-![](pics/high-level-workflow-diagram.png)
-
-> Once you define the steps necessary, you can add some detail. When I provide workflow recommendations for my clients, I am sure to cover, in some fashion, the following information:
- What each step is (covered in the diagram) and what happens before and after it. For example, “Proof editor-reviewed and revised content before it is submitted for publishing.”
- Why the step is important to the process to ensure that you communicate its objective and that you don’t over-engineer your process.
- Who is completing the tasks associated with each step and who is informed or consulted (if applicable).
- When the task will be completed, which can refer to the order in which steps occur and how long they take to complete.
- How the task will be completed, which refers to the technology used, such as whether content will be drafted in a Word document or within the CMS. It also refers to the tools and guidelines used to complete the task (which are up next in this chapter).
-You can communicate this information as part of the workflow diagram, similar to how Chapter 9 documented the workflow. Or, you can include it as narrative that accompanies the workflow diagram. And really, you don’t need a diagram at all if you’d rather just write out the steps and tasks. The example in Table 14.1 takes the second step from the diagram (Create) and adds detail about each of the tasks (represented by the boxes in the diagram).
 
 
 ## Editorial Tools
@@ -498,12 +485,57 @@ Tools such as:
 
  kissane p.21
 
+## Tools and guidelines
+
+ > To decide what kinds of tools you need, assess team member familiarity with the editorial process and writing best practices, the complexity of your content, the use of outside resources, and your content management model.
+
+
+## Tools: Workflows
+
+ > Workflow refers to the steps people and teams go through to get the work done. Workflows can be wrought with problems for a lot of reasons. The problems usually involve how the processes are engineered...
+
+## Workflow and workflow communication
+
+ > What matters is that the workflow is communicated to everyone involved with content (and their bosses), the expectations are clear, and the documentation is complete.
+
+
+##
+
+ ![](pics/high-level-workflow-diagram.png)
+
+##
+> Once you define the steps necessary, you can add some detail. When I provide workflow recommendations for my clients, I am sure to cover, in some fashion, the following information:
+
+##
+
+> What each step is (covered in the diagram) and what happens before and after it. For example, “Proof editor-reviewed and revised content before it is submitted for publishing.”
+
+##
+
+> Why the step is important to the process to ensure that you communicate its objective and that you don’t over-engineer your process.
+
+##
+
+> Who is completing the tasks associated with each step and who is informed or consulted (if applicable).
+
+##
+
+> When the task will be completed, which can refer to the order in which steps occur and how long they take to complete.
+
+##
+
+> How the task will be completed, which refers to the technology used, such as whether content will be drafted in a Word document or within the CMS. It also refers to the tools and guidelines used to complete the task (which are up next in this chapter).
+
+##
+
+> You can communicate this information as part of the workflow diagram,... Or, you can include it as narrative that accompanies the workflow diagram. And really, you don’t need a diagram at all if you’d rather just write out the steps and tasks.
+
 
 ## Tools: process documentation
 
  ![](pics/example-process-documentation.png)
 
-## Tools: editorial calendars
+## Tools: Editorial calendars
 
  time based character of publishing:
 
@@ -523,6 +555,8 @@ Tools such as:
 ## Analyzing and Discovering Problems
 
 ## Typical problems
+
+ >  You have a strategy without a decision-making framework to support it
 
 >  No checks and balances exist to make sure content requests are on-strategy, so the web team is expected to follow through on every request that comes in
 
@@ -595,21 +629,15 @@ Tools such as:
 
 > As such, it needs to involve people in more strategic positions. So gather them up. You’ll want to bring in people from marketing, product development, business intelligence, customer insights, creative, user experience, technology, and so on. I recommend you bring this group together at least twice a year to revisit your content strategy. Once you’ve reviewed the strategy and what you’ve been doing related to content,
 
-# Skills and competences
+## Skills and competences
 
 content strategy skillset - tool 15.1
 
-# Tools and guidelines
 
-> To decide what kinds of tools you need, assess team member familiarity with the editorial process and writing best practices, the complexity of your content, the use of outside resources, and your content management model.
 
-#     content playbook
+##     content playbook
 
-## Workflows
 
-> Workflow refers to the steps people and teams go through to get the work done. Workflows can be wrought with problems for a lot of reasons. The problems usually involve how the processes are engineered...
-
->     ou have a strategy without a decision-making framework to support it
 
 
 
@@ -619,11 +647,6 @@ content strategy skillset - tool 15.1
 
 
 
-    this very important responsibility.
-
-
-
-    product owners frequently spend quite a bit of time reviewing website content or other materials, participating in SME interviews, or making sure published content is still accurate. Rarely have I seen a product-owner job description that include
 
 
 
@@ -682,196 +705,120 @@ content strategy skillset - tool 15.1
 
 # Governance
 
-    Annotations from Marvin for iOS
-Managing Chaos
-
-Yellow:
-Untitled section 12
+##
 
     but the more obscure but essential digital functions like taxonomy, component content modeling, user experience, and digital analytics development are left without support
 
 
-(10. November 2021 21:58)
-
-Yellow:
-Untitled section 12
+##
 
     Program management is the administrative side of digital. Its function is to enable the digital process by ensuring that the digital team is properly resourced, which includes the management of staff, vendors, and capital expenditures
 
 
-(10. November 2021 21:56)
-
-Yellow:
-Untitled section 12
+##
 
     core team has many responsibilities that can be distilled into two functions: program management and product management.
 
 
-(10. November 2021 21:55)
-
-Yellow:
-Untitled section 12
+##
 
     product of digital team disorganization is redundancy of effort, which can lead to things like a bad user experience
 
-
-(10. November 2021 21:38)
-
-Yellow:
-Untitled section 12
+##
 
     Well-organized, effective digital teams usually produce a well-organized and effective digital presence.
 
 
-(10. November 2021 21:38)
-
-Yellow:
-Untitled section 12
+##
 
     Once these aspects are clearly understood, you will have established a clear resource field upon which to place decision-making authority.
 
 
-(10. November 2021 21:38)
-
-Yellow:
-Untitled section 12
+##
 
     This narrow view of the digital team reinforces the idea that digital is a tactical function and not a strategic one that requires planning and resource management.
 
 
-(10. November 2021 21:36)
-
-Yellow:
-Untitled section 12
+##
 
     Clearly defined roles and authority are much more important than the organizational placement of your core team.
 
 
-(10. November 2021 21:36)
-
-Yellow:
-Untitled section 12
+##
 
     Your digital team is the full set of resources required to keep the digital process functioning for your organization.
 
 
-(10. November 2021 21:35)
-
-Yellow:
-Untitled section 12
-Problem of scale
+##
 
     there are many different types of digital team configurations. Your job is to discover which configuration will work best for your organization so that you have an appropriate canvas upon which to execute your digital governance design work
 
 
-(10. November 2021 21:34)
-
-Yellow:
-Untitled section 11
+##
 
     Just as websites grow organically and without much of a plan, so do digital teams.
 
 
-(10. November 2021 21:10)
-
-Yellow:
-Untitled section 11
+##
 
     probably find that your organization is at different levels of maturity for different aspects of the framework
 
 
-(10. November 2021 21:08)
-
-Yellow:
-Untitled section 11
+##
 
     Understand where you are on the digital maturity curve
 
 
-(10. November 2021 21:06)
-
-Yellow:
-Untitled section 11
+##
 
     The digital governance framework accountability grid. When this effective decentralization of production happens, two important things occur: • The workload and expense of digital developing is shared throughout the organization. • The organization can leverage the knowledge assets of their entire organization to inform and support its digital portfolio.
 
 
-(10. November 2021 21:05)
-
-Yellow:
-Untitled section 11
+##
 
     digital development back into balance by separating day-to-day digital production functions and decision making for strategy, policy, and standards.
 
 
-(10. November 2021 21:05)
-
-Yellow:
-Untitled section 11
+##
 
     experience, most digital stakeholders are so disinterested in doing the day-to-day grunt work of digital that a relatively small, central digital team is completely overburdened by tactical development tasks, while an army of digital stakeholders (who want to put little or no resources, fiscal or human, and effort into ensuring the work gets done) use their organizational authority to dictate how websites should look,
 
 
-(10. November 2021 20:46)
-
-Yellow:
-Untitled section 11
+##
 
     What a digital governance framework does is specify who has the authority to make those decisions. This explicit separation of production processes from decision-making authority for standards is what gives the framework its power.
 
 
-(10. November 2021 20:45)
-
-Yellow:
-Untitled section 11
+##
 
     digital governance framework is a system that delegates authority for digital decision-making about particular digital products and services from the organizational core to other aspects of the organization
 
 
-(10. November 2021 20:45)
-
-Yellow:
-Untitled section 11
+##
 
     Make sure that you document the full range of digital standards, which includes design, editorial, publishing and development, and network and server standards. Often, digital workers just focus on editorial and design standards and neglect the other categories.
 
 
-(10. November 2021 20:44)
-
-Yellow:
-Untitled section 11
+##
 
     how to assign stewardship and authorship to standards.
 
 
-(10. November 2021 20:43)
-
-Yellow:
-Untitled section 11
+##
 
     Standards articulate the exact nature of an organization’s digital portfolio.
 
 
-(10. November 2021 20:14)
-
-Yellow:
-Untitled section 11
+##
 
     digital governance framework ought to designate a policy steward who is accountable for ensuring that all digital policy issues are addressed.
 
 
-(10. November 2021 20:09)
-
-Yellow:
-Untitled section 11
+##
 
     That scenario occurs because organizations often conflate policy and standards; however, the two areas are not the same. Policies exist to protect the organization. They do not address online quality and how to achieve it—that is the role of standards.
 
-
-(10. November 2021 20:09)
-
-Yellow:
-Untitled section 11
+##
 
     substance of digital policy should influence the behavior of employees when they are developing material for online channels.
 
@@ -884,197 +831,115 @@ Untitled section 11
     So when you are identifying who should establish digital strategy for your organization, it is especially important to include the right set of resources
 
 
-(10. November 2021 20:06)
-
-Yellow:
-Untitled section 11
+##
 
     A digital strategy has two facets: guiding principles and performance objectives. • Guiding principles provide stakeholders with a streamlined, qualitative expression of your organization’s high-level digital business intent and values. • Performance objectives quantitatively define what digital success means for an organization.
 
 
-(10. November 2021 20:05)
+##
 
-Yellow:
-Untitled section 11
 Es geht auch hier um Rollen, das ist die Verbindung zu redaktionellen Prozessen.
 
     The work of the framework is to clarify who the decision makers are, but in order to understand who should decide matters related to strategy, policy, and standards, it’s important first to understand what these things are.
 
 
-(10. November 2021 20:03)
-
-Yellow:
-Untitled section 11
+##
 
     websites. A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives. A digital governance framework isn’t bureaucratic and ineffective. Properly designed, a digital governance framework can make your online business machine sing. The proof is out there. Wikipedia is, arguably, one of the most substantively and collaboratively governed websites on the Web, but it is also perceived as a site that fosters a high degree of freedom of expression. The well-defined open standards of the World Wide Web Consortium (W3C) enable the World Wide Web to exist, as it is—without which we would not even be having this conversation. And the multiplicity of purpose and diversity apparent on the World Wide Web speaks for itself. Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. In addition, it needs to intentionally design its digital team so that it can work efficiently and productively. And that’s the work of a digital governance framework. This is your chance to establish the foundational framework that will influence the direction of digital in your organization for years to come. Business leaders and senior digital leaders need to get together and establish how to govern and manage digital effectively in their organizations. Now. Through Managing Chaos, you will learn how to free your organization from debate-stalled stagnation around digital development and establish an environment where an entire organization can work together to successfully leverage all that digital has to offer. What Is Digital Governance? Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services. Having a well-designed digital governance framework minimizes the number of tactical debates regarding the nature and management of an organization’s digital presence by making clear who on your digital team has decision-making authority for these areas: • Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do online? • Digital standards: Who decides the nature of your digital portfolio?
 
 
-(10. November 2021 20:03)
-
-Yellow:
-Untitled section 11
-
-    online?
-
-
-(10. November 2021 20:02)
-
-Yellow:
-Untitled section 11
+##
 
     • Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do
 
 
-(10. November 2021 20:02)
-
-Yellow:
-Untitled section 11
+##
 
     Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services.
 
 
-(10. November 2021 20:02)
-
-Yellow:
-Untitled section 11
+##
 
     Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. I
 
 
-(10. November 2021 20:01)
-
-Yellow:
-Untitled section 11
+##
 
     A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives
 
-
-(10. November 2021 20:00)
-
-Yellow:
-Untitled section 11
+##
 
     fact, I’d argue that “bureaucratic and ineffective” describe how digital development works in your organizations right now—with no governance.
 
 
-(10. November 2021 19:59)
-
-Yellow:
-Untitled section 11
+##
 
     and it’s a call from an organization that is having trouble managing its Web presence
 
-
-(10. November 2021 19:55)
-
-Yellow:
-Untitled section 11
+##
 
     wasn’t that we couldn’t make a decision because we weren’t sure about what the right solution was; we couldn’t make a decision because no one really knew whose job it was to say “yes” or “no.”
 
-
-(10. November 2021 19:54)
-
-Yellow:
-Untitled section 11
+##
 
     actually determining what type of functionality needed to be implemented, but on who got to decide what functionality would be implemented.
 
 
-(10. November 2021 19:51)
-
-Yellow:
-Untitled section 11
+##
 
     t who (the marketing team or the technology team) ought to be selecting and implementing key website technologies
 
 
-(10. November 2021 19:51)
-
-Yellow:
-Untitled section 11
+##
 
     debates over homepage real estate
 
 
-(10. November 2021 19:50)
-
-Yellow:
-Untitled section 11
+##
 
     Cisco as a company was serious about using the Web as a business tool.
 
 
-(10. November 2021 19:50)
-
-Yellow:
-INTRODUCTION
+##
 
     That means that organizations need to put into place governing principles that maximize the good things that happen and minimize the bad.
 
 
-(10. November 2021 19:20)
-
-Yellow:
-INTRODUCTION
+##
 
     Digital will never be “simple.” The very nature of the digital beast implies complexity—complexity in delivery and complexity in the teams that innovate, develop, and manage digital functionality.
 
 
-(10. November 2021 19:20)
-
-Yellow:
-INTRODUCTION
+##
 
     manifestation of digital governance problems can lead to complicated outcomes like power struggles and other negative competitive behavior in organizations.
 
 
-(10. November 2021 19:19)
-
-Yellow:
-FOREWORD
+##
 
     was chaos, and it became clear that top-down, cross-functional and international coordination was needed to effectively deliver on the promise of the Web. And so we began to experiment with governance models, ultimately landing upon a lead “business council” with supporting cross-functional teams at various levels to help our work be more effective.
 
 
-(10. November 2021 19:18)
-
-Yellow:
-Untitled section 6
+##
 
     No, standards can enable innovation and creativity. Standards are the bedrock upon which the Internet and World Wide Web rest.
 
 
-(10. November 2021 19:14)
-
-Yellow:
-Untitled section 6
+##
 
     Standards are focused on establishing development parameters for digital practitioners
 
 
-(10. November 2021 19:14)
-
-Yellow:
-Untitled section 6
+##
 
     Policies and standards are not the same thing. Policies are organizationally focused high-level statements established to manage risk inside an organization
 
 
-(10. November 2021 19:14)
-
-Yellow:
-Untitled section 6
+##
 
     If you think about it, agile software methodology itself is highly structured with well-defined roles and responsibilities. That’s why it works so well in the right organizational applications.
 
 
-(10. November 2021 19:13)
-
-Yellow:
-Untitled section 6
+##
 
     Digital governance is a discipline that focuses on establishing clear accountability for digital strategy, policy, and standards. A digital governance framework, when effectively designed and implemented, helps to streamline digital development and dampen debates around digital channel “ownership
-
-
-(10. November 2021 19:12)
