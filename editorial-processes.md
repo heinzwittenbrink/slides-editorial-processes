@@ -199,6 +199,29 @@ Plotnik, The Elements of Editing
 @kuhrtRedaktionsforschungTheorieUnd2002
 
 
+## Research about coordination
+
+One-to-one conversation as the most frequent form of coordination within editorial teams
+
+## Defined eequirements and need for editorial coordination
+
+The number of coordinating actions increases, when rules and guidelines decrease
+
+## Coordination is required
+
+Journalistic practice is not possible without coordination. Usually coordination is not institutionalized except staff conferences (Redaktionskonferenzen)
+
+
+## Editorial programs and decision making
+
+1. Classification by rubrics/ressorts/departments
+2. Presentation of information
+3. Generation and collection of information (sourcing, reporting etc.)
+4. Selection of information by routines for decision and actions
+5. Fact checking/verification
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
 ##
 
 > Another structure-forming process within the editorial office is the "decision-making action" which can be analytically divided into three phases: the collection, the selection and the condensation of information.
@@ -253,7 +276,8 @@ Constructivist approach (Stefan Weber)
 
 > In his study on "Editorial Offices as Coordination Centers," Altmeppen examines the so-called "organizational-dispositive" activities of journalists, i.e., the coordination of journalistic work
 
-##
+## Finegrained structures get out of use
+
 
 > Altmeppen notes that at the level of organizational programs, differentiated structures are being replaced by roughly structured ones. This makes journalists' work more flexible; they can no longer rely on assignments to fixed departments and roles.
 
@@ -276,6 +300,11 @@ Constructivist approach (Stefan Weber)
 
 @schutzenederNeujustierungJournalistikJournalismusforschung2020
 
+## ROI as limiting factor for editorial quality and credibility
+
+- Example: private radio and tv station
+- Conflicts between journalistic ambition and content marketing
+
 ## Research topics/points for discussion
 
 - Editorial teams in commercial organizations
@@ -283,50 +312,18 @@ Constructivist approach (Stefan Weber)
 - Content strategy as an alternative to traditional forms of describing the "programs" of editorial teams and news rooms
 
 
-
-## Editorial programs
-
-1. Classification by rubrics/ressorts/departments
-2. Presentation of information
-3. Generation and collection of information (sourcing, reporting etc.)
-4. Selection of information by routines for decision and actions
-5. Fact checking/verification
-
-@kuhrtRedaktionsforschungTheorieUnd2002
-
-## ROI as limiting factor for editorial quality and credibility
-
-- Example: private radio and tv station
-- Conflicts between journalistic ambition and content marketing
-
-## Research about coordination
-
-One-to-one conversation as the most frequent form of coordination within editorial teams
-
-## Defined eequirements and need for editorial coordination
-
-The number of coordinating actions increases, when rules and guidelines decrease
-
-## Coordination is required
-
-Journalistic practice is not possible without coordination. Usually coordination is not institutionalized except staff conferences (Redaktionskonferenzen)
-
-## Finegrained structures get out of use
-
-> Altmeppen notes that at the level of organizational programs, differentiated structures are being replaced by roughly structured ones. This makes journalists' work more flexible; they can no longer rely on assignments to fixed departments and roles.
-
-## Definition der Realität als Aufgabe von Redaktionen
-
-## Macht und Konflikte
-
-
 # Setting up an editorial team and workflows
 
-## Roles and Responsibilities
 
-[Roles and Responsibilities Matrix by Megan Casey](docs/Tool_14.1_Roles_And_Responsibilities_Matrix.docx)
+## Product planning and editorial planning
 
-# Editorial/content planning tasks
+>  Editorial planning helps you publish or share content at the right times for the right people.
+
+> planning breaks down into two types or categories: content product and editorial.
+
+@caseyContentStrategyToolkit2015
+
+## Editorial/content planning tasks
 
 * Regularly scheduled editorial reviews of all content
 * Ongoing traffic and findability analysis
@@ -334,15 +331,220 @@ Journalistic practice is not possible without coordination. Usually coordination
 * Editorial planning sessions to define changes in theme and to introduce new campaigns
 * Ongoing translation and localization efforts Kissane p. 69
 
+## Handling of unplanned content
+
+> Unplanned Content Update Request
+
+> Use this form to send content change requests to the web team
+
+@caseyContentStrategyToolkit2015
+
+## Changes of situation
+
+> especially as your business model or priorities change, new competitors come on the scene, or your target audience shifts. When any of these happen, you can use what you learned from this book to do your discovery and adjust your strategy.
+
+@caseyContentStrategyToolkit2015
+
+## Reviewing content
+
+>   reviewing content as part of your measurement plan
+
+>  a minimum, review each piece of content once a year. You can review everything at once or conduct rolling audits in which a portion of the content is reviewed every month or quarter.
+
+@caseyContentStrategyToolkit2015
+
+## Roles and Responsibilities
+
+[Roles and Responsibilities Matrix by Megan Casey](docs/Tool_14.1_Roles_And_Responsibilities_Matrix.docx)
+
+
+## Content/editorial roles
+
+> You need a certain base set of content roles and responsibilities to create content that helps you achieve your content strategy. (These roles are focused on written content, but you can apply them to visual content, such as videos and infographics, as well.)     
+
+@caseyContentStrategyToolkit2015
+
+
+
+## Content management model
+
+    > Before you go too far down the path of process and role definition, you need to determine your content management model:
+
+    @caseyContentStrategyToolkit2015
+
+::: notes
+
+Verbindung von Governance und Content Management. Rollen werden in Bezug auf beides definiert. Siehe auch Lisa Welchman zum Team und distribuiertem Teams. Frage: Gibt es nicht immer auch ein erweitertes Team?
+
+:::
+
+## Centralized, decentralidecentralized and mixed models
+
+> Decentralized models pose more risks to keeping your content consistent and on-strategy, whereas centralized ones allow you to run a tighter content ship. Which model is right for your organization depends on several factors, including the usability of your CMS,
+
+@caseyContentStrategyToolkit2015
+
+
+## Roles: Strategic and implementation authority
+
+## Strategic authority roles and responsibilities
+
+> . Strategic authority belongs to the person who ultimately is responsible for the site objectives, resources and budgeting, and content planning.
+
+> Strategic authority is given to the person who is ultimately responsible for achieving the content strategy and demonstrating its success. This person needs the authority to tell even the CMO “no” if she comes to the table with a cool idea with no ROI
+
+##
+
+> Now for a sample of this person’s responsibilities:
+ * Leads efforts to evaluate and evolve the content strategy as business goals and priorities change
+ * Prepares the budget for annual content efforts
+ * Determines the staff resources necessary to achieve the strategy
+
+ ##
+ >
+ * Manages the process of creating and aligning on the content road map and communicates decisions to business partners
+ * Ensures that content tools, standards, and guidelines are in place to support content creators, reviewers, and publishers
+
+ ##
+ >
+ * Defines content success metrics, ensures that content effectiveness is measured, and proposes content-improvement projects based on measurement efforts
+ * Serves as the content advocate and liaison in discussions about web operations, interactive marketing, technology enhancements, and so on
+
+@caseyContentStrategyToolkit2015
+
+## implementation authority
+
+> Without implementation authority, the strategic vision and related content guidelines don’t get enforced.
+
+> Examples of implementation authority responsibilities include:
+
+
+##
+>
+ * Manages content requests from business partners and communicates decisions
+ * Schedules and facilitates day-to-day content creation, review, and publishing
+ * Reviews content before publishing and provides feedback to content creators
+
+##
+>
+ * Mentors business partners on content best-practices guidelines
+ * Develops and maintains editorial calendars for the homepage and other prime-content real estate
+ * Manages the content-maintenance process and trains business partners to audit their own content
+
+
+## Role of the editing team
+
+ >     that’s left is to create the content that will bring your strategy to life, maintain it over time, and make smart content decisions moving forward.
+
+## Content owner
+
+ >The content owner is the person responsible for ensuring that specific content is accurate and updated.
+
+
+## Reviewers
+
+ >  Reviewer is a blanket term for anyone besides SMEs and the editors who need to review content before it goes live.
+
+## Editors
+
+ > The editor is ultimately accountable for the strategic and brand integrity of the content. Depending on your site and content management model, you may have one or more editors. Common responsibilities include:
+
+
+## Editorial processes and content responsibilities
+
+> Now, let’s define the optimal process for your organization to create and publish on-strategy content. The steps in the process emerge pretty clearly when you document the roles and responsibilities.
+
+@caseyContentStrategyToolkit2015
+
+##
+
+> In lots of organizations, people are asked to take on content responsibilities that aren’t officially part of their jobs. That’s when content work gets pushed to the bottom of the list. Advocate to get this work added to job descriptions so they have permission to prioritize it.
+
+@caseyContentStrategyToolkit2015
+
+
+
+
+
+
+
 ## Editorial processes
 
-> you need an editorial process that will support creation, review and revision, publication, performance tracking, and ongoing maintenance. (You’re also going to need resources, primarily in the form of time, which gets paid for with money.) kissane p.21
+> you need an editorial process that will support creation, review and revision, publication, performance tracking, and ongoing maintenance. (You’re also going to need resources, primarily in the form of time, which gets paid for with money.) Kissane p.21
+
+## Workflow and workflow communication
+
+#
+
+> What matters is that the workflow is communicated to everyone involved with content (and their bosses), the expectations are clear, and the documentation is complete.
+
+![](pics/high-level-workflow-diagram.png)
+
+> Once you define the steps necessary, you can add some detail. When I provide workflow recommendations for my clients, I am sure to cover, in some fashion, the following information:
+ What each step is (covered in the diagram) and what happens before and after it. For example, “Proof editor-reviewed and revised content before it is submitted for publishing.”
+ Why the step is important to the process to ensure that you communicate its objective and that you don’t over-engineer your process.
+ Who is completing the tasks associated with each step and who is informed or consulted (if applicable).
+ When the task will be completed, which can refer to the order in which steps occur and how long they take to complete.
+ How the task will be completed, which refers to the technology used, such as whether content will be drafted in a Word document or within the CMS. It also refers to the tools and guidelines used to complete the task (which are up next in this chapter).
+You can communicate this information as part of the workflow diagram, similar to how Chapter 9 documented the workflow. Or, you can include it as narrative that accompanies the workflow diagram. And really, you don’t need a diagram at all if you’d rather just write out the steps and tasks. The example in Table 14.1 takes the second step from the diagram (Create) and adds detail about each of the tasks (represented by the boxes in the diagram).
+
 
 ## Editorial Tools
 
-> Tools such as: •	 clearly documented editorial workflows, including approval processes and thorough quality checks; •	 editorial calendars including content campaigns and themes planned well in advance; and •	 content custom-tuned for specific channels and audiences. kissane p.21
+Tools such as:
+ * clearly documented editorial workflows, including approval processes and thorough quality checks;
+ * editorial calendars including content campaigns and themes planned well in advance; and
+ * content custom-tuned for specific channels and audiences.
 
-## Roles
+ kissane p.21
+
+
+## Tools: process documentation
+
+ ![](pics/example-process-documentation.png)
+
+## Tools: editorial calendars
+
+ time based character of publishing:
+
+ >     They create and publish content based on the time of year or season, projected trends, timely topics, and so on. Your organization likely does the same.
+
+> And Content Strategy Tool 15.2 is a collection of editorial calendar templates developed for real clients.
+
+## Tools: tracking editorial information
+
+ > You probably need to track other information, such as who is creating the content and when it’s due. I recommend doing that in a separate sheet so the calendar view is clean and clear.
+
+## Tools: content production inventory
+
+ >     The content production inventory is really just your content inventory repurposed to track content creation from assignment to publishing. I
+
+
+## Analyzing and Discovering Problems
+
+## Typical problems
+
+>  No checks and balances exist to make sure content requests are on-strategy, so the web team is expected to follow through on every request that comes in
+
+##
+
+> Most people are surprised at how little time they really have to do their work because they are spending so much time in unproductive meetings or helping with unplanned requests.
+
+##
+
+> What causes the scenarios I just described? The problems I’ve seen most often relate to decision-making and factors related to the workflows in place to produce and publish content.
+
+## Discovering problems with job descriptions
+
+> job descriptions for key roles across the organization
+
+> method of reviewing roles and responsibilities
+
+> options for uncovering problems with roles and responsibilities. I usually start stakeholder interviews by asking a few questions to help understand what people do day-to-day and how that work is assigned and prioritized
+
+## Problems: work overload
+
+> Sometimes people and teams have way more work than they can realistically accomplish in a 40-hour work week. This problem can occur when organizations completely underestimate how long content work can take or w
 
 ## Koordination, Abstimmung
 
@@ -378,89 +580,18 @@ Journalistic practice is not possible without coordination. Usually coordination
 
 
 
-> Gebunden sind die redaktionellen Einheiten aber nach wie vor an Medienunternehmen oder Medienhäuser @schutzenederNeujustierungJournalistikJournalismusforschung2020
+
 
 ---
 
-## editorial planning
-
->     Editorial planning helps you publish or share content at the right times for the right people.
-
->     authority and maintenance, planning breaks down into two types or categories: content product and editorial.
-
-## handling of unplanned content
-
-> Unplanned Content Update Request Use this form to send content change requests to the web team
-
-## changes of situation
-
-> especially as your business model or priorities change, new competitors come on the scene, or your target audience shifts. When any of these happen, you can use what you learned from this book to do your discovery and adjust your strategy.
-
-## Reviewing content
-
->   reviewing content as part of your measurement plan
-
->  a minimum, review each piece of content once a year. You can review everything at once or conduct rolling audits in which a portion of the content is reviewed every month or quarter.
-
-## strategic authority roles and responsibilities
-
-> Strategic authority is given to the person who is ultimately responsible for achieving the content strategy and demonstrating its success. This person needs the authority to tell even the CMO “no” if she comes to the table with a cool idea with no ROI
-
-Now for a sample of this person’s responsibilities:
- * Leads efforts to evaluate and evolve the content strategy as business goals and priorities change
- * Prepares the budget for annual content efforts
- * Determines the staff resources necessary to achieve the strategy
- * Manages the process of creating and aligning on the content road map and communicates decisions to business partners
- * Ensures that content tools, standards, and guidelines are in place to support content creators, reviewers, and publishers
- * Defines content success metrics, ensures that content effectiveness is measured, and proposes content-improvement projects based on measurement efforts
- * Serves as the content advocate and liaison in discussions about web operations, interactive marketing, technology enhancements, and so on
-
-
-## implementation authority
-
-    Without implementation authority, the strategic vision and related content guidelines don’t get enforced.
 
 
 
 
-    . Strategic authority belongs to the person who ultimately is responsible for the site objectives, resources and budgeting, and content planning.
-
-
-
-    two types of authority regarding content: strategic and implementation. Both are important.
-
-Examples of implementation authority responsibilities include:
- * Manages content requests from business partners and communicates decisions
- * Schedules and facilitates day-to-day content creation, review, and publishing
- * Reviews content before publishing and provides feedback to content creators
- * Mentors business partners on content best-practices guidelines
- * Develops and maintains editorial calendars for the homepage and other prime-content real estate
- * Manages the content-maintenance process and trains business partners to audit their own content
-
-
-## process documentation
-
-![](pics/example-process-documentation.png)
-
-## editorial calendars
-
-time based character of publishing:
-
->     They create and publish content based on the time of year or season, projected trends, timely topics, and so on. Your organization likely does the same.
-
-    And Content Strategy Tool 15.2 is a collection of editorial calendar templates developed for real clients.
-
-## tracking editorial information
-
-> You probably need to track other information, such as who is creating the content and when it’s due. I recommend doing that in a separate sheet so the calendar view is clean and clear.
-
-## content production inventory
-
->     The content production inventory is really just your content inventory repurposed to track content creation from assignment to publishing. I
 
 ## communication
 
-strategic meetings
+## strategic meetings
 
 > As such, it needs to involve people in more strategic positions. So gather them up. You’ll want to bring in people from marketing, product development, business intelligence, customer insights, creative, user experience, technology, and so on. I recommend you bring this group together at least twice a year to revisit your content strategy. Once you’ve reviewed the strategy and what you’ve been doing related to content,
 
@@ -474,22 +605,15 @@ content strategy skillset - tool 15.1
 
 #     content playbook
 
-# Workflows
+## Workflows
 
-> Workflow refers to the steps people and teams go through to get the work done. Workflows can be wrought with problems for a lot of reasons. The problems usually involve how the processes are engineered, the techn
+> Workflow refers to the steps people and teams go through to get the work done. Workflows can be wrought with problems for a lot of reasons. The problems usually involve how the processes are engineered...
 
 >     ou have a strategy without a decision-making framework to support it
 
-## Typical problems
-
-  >  No checks and balances exist to make sure content requests are on-strategy, so the web team is expected to follow through on every request that comes in
 
 
-    Most people are surprised at how little time they really have to do their work because they are spending so much time in unproductive meetings or helping with unplanned requests.
-
-    What causes the scenarios I just described? The problems I’ve seen most often relate to decision-making and factors related to the workflows in place to produce and publish content.
-
-# Task an job descriptions
+## Task and job descriptions
 
 >     I like to have content creators and publishers fill out a job time-study worksheet
 
@@ -501,116 +625,62 @@ content strategy skillset - tool 15.1
 
     product owners frequently spend quite a bit of time reviewing website content or other materials, participating in SME interviews, or making sure published content is still accurate. Rarely have I seen a product-owner job description that include
 
-## Discovering problems with job descriptions
-
-    job descriptions for key roles across the organization
 
 
 
 
-    method of reviewing roles and responsibilities
 
 
 
-    options for uncovering problems with roles and responsibilities. I usually start stakeholder interviews by asking a few questions to help understand what people do day-to-day and how that work is assigned and prioritized
-
-# work overload
-
-Sometimes people and teams have way more work than they can realistically accomplish in a 40-hour work week. This problem can occur when organizations completely underestimate how long content work can take or w
-
-# Kommunikation des Workflows
-
-> What matters is that the workflow is communicated to everyone involved with content (and their bosses), the expectations are clear, and the documentation is complete.
-
-![](high-level-workflow-diagram.png)
-
-> Once you define the steps necessary, you can add some detail. When I provide workflow recommendations for my clients, I am sure to cover, in some fashion, the following information:
- What each step is (covered in the diagram) and what happens before and after it. For example, “Proof editor-reviewed and revised content before it is submitted for publishing.”
- Why the step is important to the process to ensure that you communicate its objective and that you don’t over-engineer your process.
- Who is completing the tasks associated with each step and who is informed or consulted (if applicable).
- When the task will be completed, which can refer to the order in which steps occur and how long they take to complete.
- How the task will be completed, which refers to the technology used, such as whether content will be drafted in a Word document or within the CMS. It also refers to the tools and guidelines used to complete the task (which are up next in this chapter).
-You can communicate this information as part of the workflow diagram, similar to how Chapter 9 documented the workflow. Or, you can include it as narrative that accompanies the workflow diagram. And really, you don’t need a diagram at all if you’d rather just write out the steps and tasks. The example in Table 14.1 takes the second step from the diagram (Create) and adds detail about each of the tasks (represented by the boxes in the diagram).
-
-## Reviewers
-
->     Reviewer is a blanket term for anyone besides SMEs and the editors who need to review content before it goes live.
-
-## Editors
-
-The editor is ultimately accountable for the strategic and brand integrity of the content. Depending on your site and content management model, you may have one or more editors. Common responsibilities include:
-
-## Centralized, decentralidecentralized and mixed models
-
-> Decentralized models pose more risks to keeping your content consistent and on-strategy, whereas centralized ones allow you to run a tighter content ship. Which model is right for your organization depends on several factors, including the usability of your CMS,
-
-# Role of the editing team
-
->     that’s left is to create the content that will bring your strategy to life, maintain it over time, and make smart content decisions moving forward.
-
-# Mapping existing processes
+## Mapping existing processes
 
 > understand the workflows used for content work, I’ll facilitate an exercise to map out each step. You can do this at a very high level, a very granular level, or a combination of both, depending on who’s in your session and what you’d like to understand.
 
 > may end up doing this several times with several groups of people, depending on how complex your organization’s content processes are. After the exercise, document it electronically for reference and to call out areas of concern or opportunity. A very simple workflow might look something like this:
 
-# Problems in decision making
+##  How to Uncover and Document Problems
 
-    problems with decision-making, I use an exercise that requires clients and stakeholders to evaluate their recent decisions. It’s a scoring system they can use moving forward, employing whatever criteria makes sense for evaluating proposed content projects. Simply list the projects in the left column and the deciding criteria in the right columns. Then, devise a simple scoring system. I typically use scores
+> I typically rely on stakeholder interviews and collaborative exercises to dig into how decisions are made and what processes are employed.
+
+## Problems in decision making
+
+> problems with decision-making, I use an exercise that requires clients and stakeholders to evaluate their recent decisions. It’s a scoring system they can use moving forward, employing whatever criteria makes sense for evaluating proposed content projects. Simply list the projects in the left column and the deciding criteria in the right columns. Then, devise a simple scoring system. I typically use scores
+
+## Lack of authority
+
+> Decision-making and Authority Authority refers to who is empowered to make and enforce content decisions. More often than not, the problem with authority is when no one has any.
+
+## Not well-suited work
+
+> Another common problem is people doing work that’s not well-suited for their expertise level or defined roles.
+
+## Ill defined jobs and roles
+
+> task needs to be done that no one believes (or knows) is part of his job
+
+## role clarity issues
+
+> Some of the most common issues relate to role clarity, skillsets and experience, decision-making and authority, and work capacity.
+
+> Commonly, content problems are symptoms of a lack of clarity around what work to do, who should do it, and what is realistic to accomplish.
+
+## woman/man power
+
+> Just as important is ensuring you have the appropriate number of people with the necessary skillsets creating and sharing the right content through effective and efficient processes.
 
 
-(10. November 2021 11:07)
 
-Yellow:
-Untitled section 23
 
-    How to Uncover and Document Problems I typically rely on stakeholder interviews and collaborative exercises to dig into how decisions are made and what processes are employed.
 
-    # Lack of authority
 
-    > Decision-making and Authority Authority refers to who is empowered to make and enforce content decisions. More often than not, the problem with authority is when no one has any.
 
-# Not well-suited work
 
-    Another common problem is people doing work that’s not well-suited for their expertise level or defined roles.
 
-# Ill defined jobs and roles
 
-    task needs to be done that no one believes (or knows) is part of his job
 
-    # role clarity issues
 
-        Some of the most common issues relate to role clarity, skillsets and experience, decision-making and authority, and work capacity.
 
-    Commonly, content problems are symptoms of a lack of clarity around what work to do, who should do it, and what is realistic to accomplish.
-
-    # woman/man power
-
-    Just as important is ensuring you have the appropriate number of people with the necessary skillsets creating and sharing the right content through effective and efficient processes.
-
-    # Editorial processes and content responsibilities
-
-    Now, let’s define the optimal process for your organization to create and publish on-strategy content. The steps in the process emerge pretty clearly when you document the roles and responsibilities.
-
-    In lots of organizations, people are asked to take on content responsibilities that aren’t officially part of their jobs. That’s when content work gets pushed to the bottom of the list. Advocate to get this work added to job descriptions so they have permission to prioritize it.
-
-    # Content owner
-
-        Owner The content owner is the person responsible for ensuring that specific content is accurate and updated.
-
-    # Content/editorial roles
-
-    > You need a certain base set of content roles and responsibilities to create content that helps you achieve your content strategy. (These roles are focused on written content, but you can apply them to visual content, such as videos and infographics, as well.)
-
-# Content management model
-
-Verbindung von Governance und Content Management. Rollen werden in Bezug auf beides definiert. Siehe auch Lisa Welchman zum Team und distribuiertem Teams. Frage: Gibt es nicht immer auch ein erweitertes Team?
-
-    Before you go too far down the path of process and role definition, you need to determine your content management model:
-
-    ---
-
-    Governance
+# Governance
 
     Annotations from Marvin for iOS
 Managing Chaos
