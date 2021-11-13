@@ -144,20 +144,20 @@ date: 2021-11-13
 
 ::: notes
 
-Wir kennen diese Prozesse alle, und wir haben alle Erfahrungen mit redaktionellen Prozessen, die nicht optimal sind. Umgekehrt hängt gute Qualität auch mit gut aufgesetzten redaktionellen Prozessen zusammen. Wir wollen heute auch viel unserer Erfahrungen zusammentragen, und zwar mit den Fragen:
+We all know these processes, and we all have experience with editorial processes that are not optimal. Conversely, good quality is also related to well-established editorial processes. We also want to gather a lot of our experience today, with the questions:
 
-Welche Faktoren außerhalb der Redaktion eine relevante rolle spielen
-Wo Alternativen möglich sind.
+Which factors outside the editorial office play a relevant role.
+Where alternatives are possible.
 
 :::
 
 ## Plan today
 
-- Aktuelle redaktionelle Prozesse bei den Teilnehmer:innen
-- Rollen und Probleme
-- Pause
+- Current editorial processes of the participants
+- Roles and problems
+- Break
 - Workflows and Digital Governance
-- Übung: Redaktion und Workflow contentstrategy.at
+- Exercise: Editing and Workflow contentstrategy.at
 
 # Content strategy and editing
 
@@ -181,7 +181,7 @@ Wo Alternativen möglich sind.
 
 ## Example
 
-[Andere Kanäle „bedienen“ Sie auch?](https://www.fresh-content.at/content-strategie-im-oeffentlichen-bereich/ "Fresh Content Content Strategie im öffentlichen Bereich")
+[content strategist at the city of Leoben](https://www.fresh-content.at/content-strategie-im-oeffentlichen-bereich/ "Fresh Content Content Strategie im öffentlichen Bereich")
 
 ## Content strategies have to be translated into editorial decisions
 
