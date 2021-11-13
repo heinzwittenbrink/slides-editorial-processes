@@ -221,21 +221,21 @@ Where alternatives are possible.
 
 ## Editing as a component of content strategy
 
-> As their content specialists, the more we know about solid editorial practices, the better we can help our clients with the transition to the new world of distributed online publishing. p. 21
+> As their content specialists, the more we know about solid editorial practices, the better we can help our clients with the transition to the new world of distributed online publishing. @kissaneElementsContentStrategy2011 p. 21
 
 ##
 
-> Editorial work is so closely related to content strategy that questions about the difference between the two often arise. From the outside, content strategy can look quite a lot like the sort of editing found in magazines and newspapers. The editorial world, and that of publishing in general, has a lot to offer us. Kissane p.16
+> Editorial work is so closely related to content strategy that questions about the difference between the two often arise. From the outside, content strategy can look quite a lot like the sort of editing found in magazines and newspapers. The editorial world, and that of publishing in general, has a lot to offer us. @kissaneElementsContentStrategy2011 p.16
 
 ## Die Relevanz der Redaktion, Redakteur:innen als Vertreter:innen der Lesenden
 
 ## Roles of the content strategist and the editor in chief
 
-> They also need someone to decide how best to communicate it, who should make it, and so on—a sort of combination editor-in-chief and air traffic controller. They need a content strategist. Kissane, p.1
+> They also need someone to decide how best to communicate it, who should make it, and so on—a sort of combination editor-in-chief and air traffic controller. They need a content strategist. @kissaneElementsContentStrategy2011 p.1
 
 ##
 
-> Those who do content strategy work from within organizations tend to fill roles quite similar to those of a traditional managing editor: they plan and oversee the communication of new themes and ideas, manage schedules, and collaborate with writers and other content producers. Kissane p. 69
+> Those who do content strategy work from within organizations tend to fill roles quite similar to those of a traditional managing editor: they plan and oversee the communication of new themes and ideas, manage schedules, and collaborate with writers and other content producers. @kissaneElementsContentStrategy2011 p.69
 
 ## Example
 
@@ -249,15 +249,15 @@ Where alternatives are possible.
 
 ## Why editorial is important
 
-> In my experience, it is very easy for brilliant information architects (or UX people who do information architecture) to underestimate the importance of editorial planning, voice and tone, and detailed guidelines for content creation Kissane, p. 59
+> In my experience, it is very easy for brilliant information architects (or UX people who do information architecture) to underestimate the importance of editorial planning, voice and tone, and detailed guidelines for content creation @kissaneElementsContentStrategy2011 p. 59
 
 ## Editors cannot be replaced by specialists
 
-> If you rely on internal experts without a dedicated editor and approval process, you’re courting trouble. Kissane p. 66
+> If you rely on internal experts without a dedicated editor and approval process, you’re courting trouble. @kissaneElementsContentStrategy2011 p. 66
 
 ## Editing as necessary skill and craft
 
-> But the truth is, none of these tools can replace a skilled in-house editor. If your client will be creating and managing more than a few dozen pages of content, they’ll need an editor or internal content strategist to keep things running smoothly. Kissane p. 69
+> But the truth is, none of these tools can replace a skilled in-house editor. If your client will be creating and managing more than a few dozen pages of content, they’ll need an editor or internal content strategist to keep things running smoothly. @kissaneElementsContentStrategy2011 p. 69
 
 ## Editing is about authority and leadership
 
@@ -287,11 +287,11 @@ Where alternatives are possible.
 
 > Paradoxically, it’s only by working tirelessly for our readers that we can genuinely serve our clients and employers Kissane p. 18
 
-> Acting as a user advocate doesn’t make you an impractical idealist. As we’ve learned from our editorial colleagues, if your content doesn’t work for the user, you’ve already failed. User advocacy is simply a way of ensuring that a project achieves business goals. •	 Kissane p. 47
+> Acting as a user advocate doesn’t make you an impractical idealist. As we’ve learned from our editorial colleagues, if your content doesn’t work for the user, you’ve already failed. User advocacy is simply a way of ensuring that a project achieves business goals. •	 @kissaneElementsContentStrategy2011 p. 47
 
 ## Storytelling as a focus for editors
 
-> Whatever corner of the publishing world they come from, editors know how to help other people tell the best, most engaging stories they can tell. Content people with backgrounds in journalism or publishing usually have the basics of storytelling down cold, but the rest of us can learn from the storytelling principles of these fields—from the basics like building a lead that hooks the reader (and supporting it with facts and quotations) to sophisticated techniques for layering in secondary narratives. Kissane p. 18
+> Whatever corner of the publishing world they come from, editors know how to help other people tell the best, most engaging stories they can tell. Content people with backgrounds in journalism or publishing usually have the basics of storytelling down cold, but the rest of us can learn from the storytelling principles of these fields—from the basics like building a lead that hooks the reader (and supporting it with facts and quotations) to sophisticated techniques for layering in secondary narratives. @kissaneElementsContentStrategy2011 p. 18
 
 
 ## Web editing as a root of content strategy
@@ -512,9 +512,14 @@ Constructivist approach (Stefan Weber)
 # Setting up an editorial team and workflows
 
 
+## Editorial processes
+
+> you need an editorial process that will support creation, review and revision, publication, performance tracking, and ongoing maintenance. (You’re also going to need resources, primarily in the form of time, which gets paid for with money.) Kissane p.21
+
+
 ## Product planning and editorial planning
 
->  Editorial planning helps you publish or share content at the right times for the right people.
+> Editorial planning helps you publish or share content at the right times for the right people.
 
 > planning breaks down into two types or categories: content product and editorial.
 
@@ -561,8 +566,6 @@ Constructivist approach (Stefan Weber)
 
 @caseyContentStrategyToolkit2015
 
-
-
 ## Content management model
 
     > Before you go too far down the path of process and role definition, you need to determine your content management model:
@@ -587,6 +590,8 @@ Verbindung von Governance und Content Management. Rollen werden in Bezug auf bei
 ## Strategic authority roles and responsibilities
 
 > . Strategic authority belongs to the person who ultimately is responsible for the site objectives, resources and budgeting, and content planning.
+
+##
 
 > Strategic authority is given to the person who is ultimately responsible for achieving the content strategy and demonstrating its success. This person needs the authority to tell even the CMO “no” if she comes to the table with a cool idea with no ROI
 
@@ -639,8 +644,6 @@ Verbindung von Governance und Content Management. Rollen werden in Bezug auf bei
 
 ##
 
- > this very important responsibility.
-
 > product owners frequently spend quite a bit of time reviewing website content or other materials, participating in SME interviews, or making sure published content is still accurate. Rarely have I seen a product-owner job description that include ...
 
 
@@ -667,9 +670,6 @@ Verbindung von Governance und Content Management. Rollen werden in Bezug auf bei
 @caseyContentStrategyToolkit2015
 
 
-## Editorial processes
-
-> you need an editorial process that will support creation, review and revision, publication, performance tracking, and ongoing maintenance. (You’re also going to need resources, primarily in the form of time, which gets paid for with money.) Kissane p.21
 
 
 
@@ -751,6 +751,16 @@ Tools such as:
 
 ## Analyzing and Discovering Problems
 
+## Mapping existing processes
+
+> understand the workflows used for content work, I’ll facilitate an exercise to map out each step. You can do this at a very high level, a very granular level, or a combination of both, depending on who’s in your session and what you’d like to understand.
+
+> may end up doing this several times with several groups of people, depending on how complex your organization’s content processes are. After the exercise, document it electronically for reference and to call out areas of concern or opportunity. A very simple workflow might look something like this:
+
+##  How to Uncover and Document Problems
+
+> I typically rely on stakeholder interviews and collaborative exercises to dig into how decisions are made and what processes are employed.
+
 ## Typical problems
 
  >  You have a strategy without a decision-making framework to support it
@@ -765,6 +775,33 @@ Tools such as:
 
 > What causes the scenarios I just described? The problems I’ve seen most often relate to decision-making and factors related to the workflows in place to produce and publish content.
 
+
+## Problems in decision making
+
+> problems with decision-making, I use an exercise that requires clients and stakeholders to evaluate their recent decisions. It’s a scoring system they can use moving forward, employing whatever criteria makes sense for evaluating proposed content projects. Simply list the projects in the left column and the deciding criteria in the right columns. Then, devise a simple scoring system. I typically use scores
+
+## Lack of authority
+
+> Decision-making and Authority Authority refers to who is empowered to make and enforce content decisions. More often than not, the problem with authority is when no one has any.
+
+## Not well-suited work
+
+> Another common problem is people doing work that’s not well-suited for their expertise level or defined roles.
+
+## Ill defined jobs and roles
+
+> task needs to be done that no one believes (or knows) is part of his job
+
+## role clarity issues
+
+> Some of the most common issues relate to role clarity, skillsets and experience, decision-making and authority, and work capacity.
+
+> Commonly, content problems are symptoms of a lack of clarity around what work to do, who should do it, and what is realistic to accomplish.
+
+## woman/man power
+
+> Just as important is ensuring you have the appropriate number of people with the necessary skillsets creating and sharing the right content through effective and efficient processes.
+
 ## Discovering problems with job descriptions
 
 > job descriptions for key roles across the organization
@@ -777,7 +814,7 @@ Tools such as:
 
 > Sometimes people and teams have way more work than they can realistically accomplish in a 40-hour work week. This problem can occur when organizations completely underestimate how long content work can take or w
 
-## Koordination, Abstimmung
+## Coordination and internal communication
 
 ## Documentation of Decision Making and Workflows
 
@@ -833,41 +870,9 @@ content strategy skillset - tool 15.1
 >     I like to have content creators and publishers fill out a job time-study worksheet
 
 
-## Mapping existing processes
 
-> understand the workflows used for content work, I’ll facilitate an exercise to map out each step. You can do this at a very high level, a very granular level, or a combination of both, depending on who’s in your session and what you’d like to understand.
 
-> may end up doing this several times with several groups of people, depending on how complex your organization’s content processes are. After the exercise, document it electronically for reference and to call out areas of concern or opportunity. A very simple workflow might look something like this:
 
-##  How to Uncover and Document Problems
-
-> I typically rely on stakeholder interviews and collaborative exercises to dig into how decisions are made and what processes are employed.
-
-## Problems in decision making
-
-> problems with decision-making, I use an exercise that requires clients and stakeholders to evaluate their recent decisions. It’s a scoring system they can use moving forward, employing whatever criteria makes sense for evaluating proposed content projects. Simply list the projects in the left column and the deciding criteria in the right columns. Then, devise a simple scoring system. I typically use scores
-
-## Lack of authority
-
-> Decision-making and Authority Authority refers to who is empowered to make and enforce content decisions. More often than not, the problem with authority is when no one has any.
-
-## Not well-suited work
-
-> Another common problem is people doing work that’s not well-suited for their expertise level or defined roles.
-
-## Ill defined jobs and roles
-
-> task needs to be done that no one believes (or knows) is part of his job
-
-## role clarity issues
-
-> Some of the most common issues relate to role clarity, skillsets and experience, decision-making and authority, and work capacity.
-
-> Commonly, content problems are symptoms of a lack of clarity around what work to do, who should do it, and what is realistic to accomplish.
-
-## woman/man power
-
-> Just as important is ensuring you have the appropriate number of people with the necessary skillsets creating and sharing the right content through effective and efficient processes.
 
 
 # Governance
@@ -875,6 +880,38 @@ content strategy skillset - tool 15.1
 ##
 
 [Managing Chaos: Digital Governance by Design | Flickr](https://www.flickr.com/photos/rosenfeldmedia/albums/72157650408729568/ )
+
+
+
+##
+
+> Digital governance is a discipline that focuses on establishing clear accountability for digital strategy, policy, and standards. A digital governance framework, when effectively designed and implemented, helps to streamline digital development and dampen debates around digital channel “ownership
+
+##
+
+ > Digital will never be “simple.” The very nature of the digital beast implies complexity—complexity in delivery and complexity in the teams that innovate, develop, and manage digital functionality.
+
+##
+
+>  If you think about it, agile software methodology itself is highly structured with well-defined roles and responsibilities. That’s why it works so well in the right organizational applications.
+
+##
+
+> Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services.
+
+##
+
+> Having a well-designed digital governance framework minimizes the number of tactical debates regarding the nature and management of an organization’s digital presence by making clear who on your digital team has decision-making authority for these areas: •
+
+
+## Strategy - Policies - Standards
+
+> Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do online? • Digital standards: Who decides the nature of your digital portfolio?
+
+##
+
+>  Policies and standards are not the same thing. Policies are organizationally focused high-level statements established to manage risk inside an organization
+
 ##
 
 >  but the more obscure but essential digital functions like taxonomy, component content modeling, user experience, and digital analytics development are left without support
@@ -939,9 +976,9 @@ content strategy skillset - tool 15.1
 > Understand where you are on the digital maturity curve
 
 
-##
+## The digital governance framework accountability grid
 
-> The digital governance framework accountability grid. When this effective decentralization of production happens, two important things occur: • The workload and expense of digital developing is shared throughout the organization. • The organization can leverage the knowledge assets of their entire organization to inform and support its digital portfolio.
+>  When this effective decentralization of production happens, two important things occur: • The workload and expense of digital developing is shared throughout the organization. • The organization can leverage the knowledge assets of their entire organization to inform and support its digital portfolio.
 
 
 ##
@@ -1018,12 +1055,7 @@ Es geht auch hier um Rollen, das ist die Verbindung zu redaktionellen Prozessen.
 
 The well-defined open standards of the World Wide Web Consortium (W3C) enable the World Wide Web to exist, as it is—without which we would not even be having this conversation. And the multiplicity of purpose and diversity apparent on the World Wide Web speaks for itself. Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. In addition, it needs to intentionally design its digital team so that it can work efficiently and productively. And that’s the work of a digital governance framework. This is your chance to establish the foundational framework that will influence the direction of digital in your organization for years to come. Business leaders and senior digital leaders need to get together and establish how to govern and manage digital effectively in their organizations. Now. Through Managing Chaos, you will learn how to free your organization from debate-stalled stagnation around digital development and establish an environment where an entire organization can work together to successfully leverage all that digital has to offer. What Is Digital Governance?
 
-Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services. Having a well-designed digital governance framework minimizes the number of tactical debates regarding the nature and management of an organization’s digital presence by making clear who on your digital team has decision-making authority for these areas: •
 
-
-## Strategy - Policies - Standards
-
-> Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do online? • Digital standards: Who decides the nature of your digital portfolio?
 
 
 ##
@@ -1079,9 +1111,7 @@ Digital governance is a framework for establishing accountability, roles, and de
 > That means that organizations need to put into place governing principles that maximize the good things that happen and minimize the bad.
 
 
-##
 
- > Digital will never be “simple.” The very nature of the digital beast implies complexity—complexity in delivery and complexity in the teams that innovate, develop, and manage digital functionality.
 
 
 ##
@@ -1104,19 +1134,11 @@ Digital governance is a framework for establishing accountability, roles, and de
 >  Standards are focused on establishing development parameters for digital practitioners
 
 
-##
-
->  Policies and standards are not the same thing. Policies are organizationally focused high-level statements established to manage risk inside an organization
 
 
-##
-
->  If you think about it, agile software methodology itself is highly structured with well-defined roles and responsibilities. That’s why it works so well in the right organizational applications.
 
 
-##
 
-> Digital governance is a discipline that focuses on establishing clear accountability for digital strategy, policy, and standards. A digital governance framework, when effectively designed and implemented, helps to streamline digital development and dampen debates around digital channel “ownership
 
 ## Exercise 2: contentstrategy.at
 
