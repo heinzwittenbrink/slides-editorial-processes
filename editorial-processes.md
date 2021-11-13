@@ -852,6 +852,9 @@ content strategy skillset - tool 15.1
 
 # Governance
 
+## 
+
+[Managing Chaos: Digital Governance by Design | Flickr](https://www.flickr.com/photos/rosenfeldmedia/albums/72157650408729568/ )
 ##
 
 >  but the more obscure but essential digital functions like taxonomy, component content modeling, user experience, and digital analytics development are left without support
