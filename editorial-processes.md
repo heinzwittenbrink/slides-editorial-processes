@@ -489,6 +489,19 @@ Constructivist approach (Stefan Weber)
 - Content strategy as an alternative to traditional forms of describing the "programs" of editorial teams and news rooms
 
 
+## Exercise 1
+
+- Please form groups of 4-5 people (the same as for exercise 2)
+- Name a person to collect and report the results
+- Describe the editorial team you are working in or one you know
+- Focus on roles, authority and decision finding, work force, allocation of resources
+- Name problems and learnings
+- Condense your insights and present them in the whole group 
+
+
+- 
+
+
 # Setting up an editorial team and workflows
 
 
@@ -1101,3 +1114,16 @@ Digital governance is a framework for establishing accountability, roles, and de
 ##
 
 > Digital governance is a discipline that focuses on establishing clear accountability for digital strategy, policy, and standards. A digital governance framework, when effectively designed and implemented, helps to streamline digital development and dampen debates around digital channel “ownership
+
+## Exercise 2: contentstrategy.at
+
+Please work in the same groups as for exercise 1!
+
+- Describe the existing roles and workflow
+- List problems to be resolved
+- Define future roles and workflow and give reasons for your choices.
+
+##
+
+The exercise 2 is the task for this part of the course in this semester. Grading will be done on the base of this task and a short oral exam on the literature mentioned in this presentation and one additional text chosen by the students individually.
+
