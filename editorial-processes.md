@@ -87,6 +87,56 @@ references:
   type: article
   URL: https://www.grin.com/document/107147
 
+- id: schutzenederNeujustierungJournalistikJournalismusforschung2020
+  abstract: >-
+    Relevanz und Fülle der Journalismusforschung sind in den letzten Jahren
+    international enorm gestiegen. Dies hat einerseits mit dem Wandel durch die
+    Digitalisierung von Medien und Gesellschaft zu tun – und andererseits mit
+    der damit verbundenen Transformation und dem Bedeutungszuwachs ihres
+    Forschungsgegenstands. Die Journalismusforschung hat sich aus dem Korsett
+    „Kommunikatorforschung“ befreit, das ihr die allgemeine
+    Kommunikationswissenschaft einst zugeschrieben hat: Mit neuem
+    Selbstbewusstsein rückt sie einen ganzheitlichen Ansatz zur Erforschung und
+    Analyse des Journalismus in der Gesellschaft in den Mittelpunkt. Sie
+    entwickelt Theorien und Methoden weiter – und überdenkt ihr Verhältnis zum
+    Journalismus. Diese Entwicklungen werfen einen neuen Bedarf an
+    Selbstreflexion auf. Genau das hat die Fachgruppe
+    Journalistik/Journalismusforschung der DGPuK auf ihrer Jahrestagung im
+    September 2019 in Eichstätt getan. Unter dem Titel „Neujustierung der
+    Journalistik/Journalismusforschung in der digitalen Gesellschaft“ gab die
+    Eichstätter Tagung auch den Anstoß, ein Selbstverständnispapier zu
+    entwickeln. Dieser Beitrag diskutiert den größeren Kontext der Tagung und
+    führt in die Proceedings ein, in denen zentrale Tagungsbeiträge
+    veröffentlicht sind.
+  accessed:
+    - year: 2021
+      month: 11
+      day: 10
+  author:
+    - family: Schützeneder
+      given: Jonas
+    - family: Meier
+      given: Klaus
+    - family: Springer
+      given: Nina
+  DOI: 10.21241/SSOAR.70811
+  issued:
+    - year: 2020
+  language: de
+  publisher: SSOAR -   GESIS Leibniz Institute for the Social Sciences
+  source: DOI.org (Datacite)
+  title: >-
+    Neujustierung der Journalistik/Journalismusforschung in der digitalen
+    Gesellschaft: Proceedings zur Jahrestagung der Fachgruppe
+    Journalistik/Journalismusforschung der Deutschen Gesellschaft für
+    Publizistik- und Kommunikationswissenschaft 2019, Eichstätt
+  title-short: >-
+    Neujustierung der Journalistik/Journalismusforschung in der digitalen
+    Gesellschaft
+  type: article-journal
+  URL: https://www.ssoar.info/ssoar/handle/document/70811
+  version: 1.0.0
+
 - id: welchmanManagingChaosDigital2015
   abstract: >-
     Few organizations realize a return on their digital investment. They’re
@@ -116,11 +166,12 @@ references:
   URL: >-
     https://www.amazon.com/Managing-Chaos-Digital-Governance-Design-ebook/dp/B00TQ8DNHY/ref=sr_1_1?keywords=managing+chaos+welchman&qid=1566688179&s=books&sr=1-1
 
+
 csl: apa.csl
-filter: pandoc-citeproc
+
 link-citations: true
-suppress-bibliography: false
-reference-section-title: Nachweise
+
+
 
 title: Editorial Processes
 author: Heinz Wittenbrink
