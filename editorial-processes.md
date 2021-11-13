@@ -123,35 +123,170 @@ Plotnik, The Elements of Editing
 
 ## Auswirkungen der Redaktionsstruktur auf die Inhalte
 
-- Größe und Struktur der Redaktion wirken sich unmittelbar auf die Inhalte aus
-- Die Redaktion entscheidet darüber, was wie thematisiert wird und was nicht
-- Damit bestimmt sie, wie die Welt für die Rezipienten und auch die Organisation dargestellt wird
-- Die Machtverhältnisse in der Redaktion und die Macht über die Reaktion sind für die Inhalte sehr relevant
+- Size and structure of the editorial team have a direct impact on the content
+- The editorial team decides what is and what is not discussed.
+- It thus determines how the world is presented to the recipients and also to the organization
+- The power relations in the editorial office and the power over the reaction are very relevant for the content
 
-## spezielle Formen redaktioneller Organisation
+
+
+## Special forms of editorial organization
 
 ## Wikipedia/Community
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wikipedians_of_Unilorin_050.jpg/1600px-Wikipedians_of_Unilorin_050.jpg)
 
-* Newsroom
+## Newsroom
 
 ![](https://sturmer.at/wp-content/uploads/2018/11/2012-crossmediales-arbeiten-im-newsroom-bpb-600.png)
 
-* Corporate Newsroom
+## Corporate Newsroom
 
 ![](https://dirico.io/wp-content/uploads/2021/08/newsroom-modell-mcschindler.png)
 
-* Wissenschaft
+## Science
 
 ![](https://climateanalytics.org/blog/2018/authors-from-vulnerable-nations-in-ipcc-reports/index.php?rex_media_type=max&rex_media_file=1o5_ldc_2-01.png)
 
+## "Redaktionsforschung", Research about editorial teams in journalism
+- tradition in the "German" tradition of research on journalism
+- focus on changes induced by commercialization and digitization
+- translated into the organization of journalitic teams, especially news rooms
 
-## Redaktionsforschung, Redaktionen im Journalismus
+## Basic text for research of editorial teams
+
+- [„Die Zeitungsredaktion als organisiertes soziales System“](http://transfer.dgpuk.de/abstracts/die-zeitungsredaktion-als-organisiertes-soziales-system-ergebnisse-einer-redaktionsbeobachtung/ "„Die Zeitungsredaktion als organisiertes soziales System“ – Ergebnisse einer Redaktionsbeobachtung – transfer")
+ - [Manfred Rühl - Wikipedia](https://en.wikipedia.org/wiki/Manfred_R%C3%BChl "Manfred Rühl - Wikipedia")
+
+##
+
+> This social "system of editing" designed by Rühl assumes that the performance of this system consists in reducing the complexity of the environment in order to ensure its own continued existence. In doing so, he draws on the theory of Niklas Luhmann
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+##
+
+> By constructing the so-called "member role," Luhmann enables the researcher to examine, for example, the organizational component "power" for the gap between formal authority and actual power.
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+##
+
+> This is "a set of specific expectations, separate and distinct from all others". Recognition of this membership role is mandatory if membership is to be maintained.
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+##
+
+> ... the editor accepts his or her role upon joining the editorial team and commits to the purpose within the editorial team
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+##
+
+> At the same time, they also relieve the editor of personal responsibility, a fact that makes editorial action possible in the first place, says Rühl in a summary.
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+##
+
+> In addition to the member role, the editor simultaneously fills his work role, which is, however, closely related to the first role
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+> Another integration mechanism are the "intermediary systems". The editorial conference, for example, is such a system, as is the picture conference, and so on. Editors are interwoven into them in their work role as well as in their member role.
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+
+##
+
+> Another structure-forming process within the editorial office is the "decision-making action" which can be analytically divided into three phases: the collection, the selection and the condensation of information.
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+##
+
+> i.e. since it is never possible to obtain all the information on a subject, each editorial team must establish criteria according to which this information, incomplete in nature, can be evaluated as useful
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+
+##
+
+> This means that when certain causes or events occur, the editorial team reacts according to the premises it has previously set for them. Each subsystem thereby develops its own conditional program.
+
+##
+
+> The purpose program, on the other hand, is oriented to the effect that the information processed by the editorial staff has on the environment
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+##
+
+> Rühl cites the editorial deadlines as an internal editorial purpose program, while the orientation to the "common good" serves as an external editorial purpose program.
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+> In this context, the authority of the role holders is composed of personal influence, which is tied to the person of the editor, and authority, which is formalized by the editorial office and limited to each member of the editorial staff.
+
+##
+
+> Conflicts in the newsroom are guided by the formal membership rules, are played out within the newsroom, and are subject to the controls of the formal authority in the system, which, however, has the function of unifying the system at the same time.
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+
+##
+
+> Editorial structure leads to fighting for influence in the system, not against it
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+Constructivist approach (Stefan Weber)
+
+> The "topic recursivity" hypothesis states that journalistic topics are increasingly generated from journalistic sources. At the same time, citations are also increasingly used as references from journalistic sources.
+
+##
+
+@kuhrtRedaktionsforschungTheorieUnd2002
+
+> In his study on "Editorial Offices as Coordination Centers," Altmeppen examines the so-called "organizational-dispositive" activities of journalists, i.e., the coordination of journalistic work
+
+##
+
+> Altmeppen notes that at the level of organizational programs, differentiated structures are being replaced by roughly structured ones. This makes journalists' work more flexible; they can no longer rely on assignments to fixed departments and roles.
+
+
+##
+
+> Examples of the manifold aspects of change are the orientation of editorial structures and strategies to digital forms of publication
+
+@schutzenederNeujustierungJournalistikJournalismusforschung2020
+
+##
+
+> Juliane Lischka addresses an essential dilemma of editorial offerings in the digital context: The difficult compatibility of professional standards with economic goals.
+
+@schutzenederNeujustierungJournalistikJournalismusforschung2020
+
+##
+
+> However, the editorial units are still tied to media companies or media houses.
+
+@schutzenederNeujustierungJournalistikJournalismusforschung2020
+
+## Research topics/points for discussion
+
+- Editorial teams in commercial organizations
+- Editorial teams in non profit organizations
+- Content strategy as an alternative to traditional forms of describing the "programs" of editorial teams and news rooms
+
+
 
 ## Editorial programs
 
-1. Classification by rubrics/ressorts/departmentsio
+1. Classification by rubrics/ressorts/departments
 2. Presentation of information
 3. Generation and collection of information (sourcing, reporting etc.)
 4. Selection of information by routines for decision and actions
@@ -223,56 +358,25 @@ Journalistic practice is not possible without coordination. Usually coordination
 
 ----
 
-editorial teams, power and the construction of reality
-
-[Redaktionsorganisation | Journalistikon](https://journalistikon.de/category/redaktionsorganisation/ "Redaktionsorganisation | Journalistikon")
 
 
 
 
-HeinzWittenbrink   10.11.2021 08:57:12   in Public
-Altmeppen stellt fest, dass auf der Ebene der Organisationsprogramme differenzierte Strukturen durch grobgliederige abgelöst werden. So wird die Arbeit der Journalisten flexibler, sie können sich nicht mehr auf die Zuordnungen zu festen Ressorts und Rollen verlassen. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:56:47   in Public
-In seiner Studie über „Redaktionen als Koordinationszentren“35untersucht Altmeppen die so genannten „organisatorisch-dispositiven“36Tätigkeiten von Journalisten, also die Koordination journalistischer Arbeit @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:56:12   in Public
-Die Hypothese der „Themen-Rekursitivität“30besagt, dass sich journalistische Themen zunehmend aus journalistischen Quellen generieren. Gleichzeitig werden auch zunehmend Zitate als Referenzen aus journalistischen Quellen genutzt. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:55:40   in Public
-Redaktionsstruktur führt dazu, dass um Einfluss im System, und nicht gegen das System gekämpft wird. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:55:30   in Public
-Konflikte in der Redaktion orientieren sich an den formalen Mitgliedsregeln, werden innerhalb der Redaktion ausgetragen und unterliegen den Kontrollen durch die formale Autorität im System, die jedoch die Funktion hat, das System gleichzeitig zu einigen.2@kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:55:04   in Public
-5Die Autorität der Rollenträger setzt sich dabei aus dem persönlichen Einfluss, der an die Person des Redakteurs gebunden ist und aus der Autorität, die durch die Redaktion formalisiert und auf jedes Redak- tionsmitglied begrenzt ist, zusammen @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:54:16   in Public
-redaktionsinternes Zweckprogramm führt Rühl die Redaktionsschlusszeiten an, als redaktionsexternes Zweckprogramm dient die Orientierung am „Gemeinwohl“. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:54:01   in Public
-Das Zweckprogramm hingegen orientiert sich an der Wirkung, die die von der Redaktion bearbeiteten Informationen auf die Umwelt haben @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:53:55   in Public
-Das bedeutet, wenn bestimmte Ursachen oder Ereignisse auftreten, reagiert die Redaktion nach den Prämissen, die sie vorher dafür festgelegt hat.22Jedes Subsystem nimmt entwickelt dabei sein eigenes Kondi- tionalprogramm.
-HeinzWittenbrink   10.11.2021 08:53:29   in Public    @kuhrtRedaktionsforschungTheorieUnd2002
-d.h. das es nie- mals möglich ist, alle Informationen zu einem Thema zu erhalten, muss jede Redaktion Krite- rien erstellen, nach denen diese in ihrer Natur unvollständigen Informationen als brauchbar bewertet werden können
-HeinzWittenbrink   10.11.2021 08:53:06   in Public    @kuhrtRedaktionsforschungTheorieUnd2002
-Ein anderer strukturbildender Prozess innerhalb der Redaktion ist das „Entscheidungshan- deln“18, das sich analytisch in drei Phasen gliedern lässt: die Kollektion, die Selektion und die Kondensation von Informationen.
-HeinzWittenbrink   10.11.2021 08:52:51   in Public    @kuhrtRedaktionsforschungTheorieUnd2002
-Ein weiterer Integrationsmechanismus sind die „Intermediärsysteme“.17Die Redaktionskonferenz beispielsweise ist ein solches System, die Bilderkonferenz usw. In sie sind die Redakteure in ihrer Arbeits- als auch in ihrer Mitgliedsrolle verflochten.@kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:52:18   in Public
-Neben der Mitgliedsrolle füllt der Redakteur gleichzeitig seine Arbeitsrolle aus, die allerdings eng mit der ersten Rolle verbunden ist. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:52:07   in Public
-Gleichzeitig entlasten sie den Redakteur auch von persönlicher Verantwortung, eine Tatsache, di e redaktionelles Handeln überhaupt erst ermöglicht, so Rühl in einer Zusammenfassung. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:51:34   in Public
-der Redakteur seine Rolle mit Eintritt in die Redakti- on annimmt und sich zu der Zwecksetzung innerhalb der Redaktion bekennt @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:51:13   in Public
-Dabei handelt es sich um „einen Komplex spezi- fischer, von allen anderen abgesonderter und deutlich herausgehobener Erwartungen“.7 Die Anerkennung dieser Mitgliederrolle ist verpflichtend, wenn die Mitgliedschaft Aufrecht erhalten werden soll. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:50:53   in Public
-Durch die Konstruktion der so genannten „Mitgliedsrolle“5 versetzt Luhmann den Forscher in die Lage, etwa den Organisationsbestandteil „Herrschaft“ auf die Kluft zwischen formaler Autorität und tatsächlicher Macht hin zu untersuchen. @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:50:30   in Public
-Dieses von Rühl entworfene soziale „System der Redaktion“ geht davon aus, das die Leistung dieses Systems darin besteht, die Komplexität der Umwelt zu reduzieren, um seinen eigenen Fortbestand zu sichern.4Er greift dabei auf die Theorie von Niklas Luhmann zurück, @kuhrtRedaktionsforschungTheorieUnd2002
-HeinzWittenbrink   10.11.2021 08:49:23   in Public
-Am ausführlichsten wird die Studie von Manfred Rühl behandelt, da dessen Beitrag aus dem Jahre 1969 als eines der wichtigsten Werke zur Redaktionsforschung erschien, dass auch in späteren Beiträgen, wenn auch modifiziert, starke Beachtung fand und zur Weiterentwicklung neuer Forschungsideen diente. @kuhrtRedaktionsforschungTheorieUnd2002
 
 
-> Beispiele für die mannigfaltigen Aspekte des Wandels sind die Ausrichtung der Redaktionsstrukturen und -strategien auf digitale Publikationsformen (z. B. Hohlfeld 2018) @schutzenederNeujustierungJournalistikJournalismusforschung2020
 
-> Auf ein wesentliches Dilemma redaktioneller Angebote im digitalen Kontext geht Juliane Lischka ein: Der schwierigen Vereinbarkeit professioneller Normen mit ökonomischen Zielen. @schutzenederNeujustierungJournalistikJournalismusforschung2020
+
+
+
+
+
+
+
+
+
+
+
+
 
 > Gebunden sind die redaktionellen Einheiten aber nach wie vor an Medienunternehmen oder Medienhäuser @schutzenederNeujustierungJournalistikJournalismusforschung2020
 
