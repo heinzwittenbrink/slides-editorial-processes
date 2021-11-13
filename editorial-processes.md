@@ -1,5 +1,131 @@
 ---
-title: Redaktionelle Prozesse
+references:
+- id: blobaumRedaktionsorganisationJournalistikon
+  accessed:
+    - year: 2021
+      month: 11
+      day: 10
+  author:
+    - family: Blöbaum
+      given: Bernd
+  title: Redaktionsorganisation | Journalistikon
+  type: post-weblog
+  URL: https://journalistikon.de/category/redaktionsorganisation/
+
+- id: caseyContentStrategyToolkit2015
+  abstract: >-
+    In this essential guide, Meghan Casey outlines a step-by-step approach for
+    doing content strategy, from planning and creating your content to
+    delivering and managing it. Armed with this book, you can confidently tackle
+    difficult activities like telling your boss or client what’s wrong with
+    their content, getting the budget to do content work, and aligning
+    stakeholders on a common vision. Reading The Content Strategy Toolkit is
+    like having your own personal consulting firm on retainer with a complete
+    array of tools and tips for every challenge you’ll face. In this practical
+    and relevant guide, you’ll learn how to: Identify problems with your content
+    and persuade your bosses it’s worth the time and resources to do it right
+    Make sense of your business environment and understand your audience Get
+    stakeholders aligned on business goals and user needs Set your content
+    strategy and decide how to measure success Create, maintain, and govern
+    on-strategy content You’ll learn to control your content–and not have it
+    control you.
+  author:
+    - family: Casey
+      given: Meghan
+  edition: 1st edition
+  event-place: San Francisco, California
+  ISBN: 978-0-13-410510-9
+  issued:
+    - year: 2015
+      month: 6
+      day: 15
+  language: English
+  number-of-pages: '288'
+  publisher: New Riders
+  publisher-place: San Francisco, California
+  title: >-
+    The Content Strategy Toolkit: Methods, Guidelines, and Templates for Getting
+    Content Right
+  title-short: The Content Strategy Toolkit
+  type: book
+
+- id: kissaneElementsContentStrategy2011
+  abstract: Literaturverz. und Linksammlung S. 76 - 79
+  author:
+    - family: Kissane
+      given: Erin
+  call-number: ST 252 K618
+  collection-title: Brief books for people who make websites
+  event-place: New York, NY
+  ISBN: 978-0-9844425-5-3
+  issued:
+    - year: 2011
+  language: eng
+  number-of-pages: '81'
+  publisher: A Book Apart
+  publisher-place: New York, NY
+  source: search-fhj.obvsg.at
+  title: The elements of content strategy
+  type: book
+
+- id: kuhrtRedaktionsforschungTheorieUnd2002
+  abstract: >-
+    Redaktionsforschung - Theorie und Praxis einer Übung im Grundstudium -
+    Medien - Hausarbeit 2002 - ebook 0,- € - GRIN
+  accessed:
+    - year: 2021
+      month: 11
+      day: 10
+  author:
+    - family: Kuhrt
+      given: Henriette
+  issued:
+    - year: 2002
+  language: de
+  source: www.grin.com
+  title: Redaktionsforschung - Theorie und Praxis einer Übung im Grundstudium
+  type: article
+  URL: https://www.grin.com/document/107147
+
+- id: welchmanManagingChaosDigital2015
+  abstract: >-
+    Few organizations realize a return on their digital investment. They’re
+    distracted by political infighting and technology-first solutions. To reach
+    the next level, organizations must realign their assets—people, content, and
+    technology—by practicing the discipline of digital governance. Managing
+    Chaos inspires new and necessary conversations about digital governance and
+    its transformative power to support creativity, real collaboration, digital
+    quality, and online growth.
+  accessed:
+    - year: 2019
+      month: 8
+      day: 24
+  author:
+    - family: Welchman
+      given: Lisa
+  event-place: Brooklyn, NY
+  issued:
+    - year: 2015
+      month: 2
+      day: 15
+  number-of-pages: '248'
+  publisher: Rosenfeld Media
+  publisher-place: Brooklyn, NY
+  title: 'Managing Chaos: Digital Governance by Design'
+  type: book
+  URL: >-
+    https://www.amazon.com/Managing-Chaos-Digital-Governance-Design-ebook/dp/B00TQ8DNHY/ref=sr_1_1?keywords=managing+chaos+welchman&qid=1566688179&s=books&sr=1-1
+
+csl: apa.csl
+filter: pandoc-citeproc
+link-citations: true
+suppress-bibliography: false
+reference-section-title: Nachweise
+
+title: Editorial Processes
+author: Heinz Wittenbrink
+date: 2021-11-13
+
 ---
 
 # Goals and plan of the course
@@ -12,7 +138,7 @@ title: Redaktionelle Prozesse
 
 ##
 
-Handle editorial roles and processes in your master thesis
+4. Handle editorial roles and processes in your master thesis
 
 <https://docs.google.com/document/d/1XwUh174CTKIW3BbSBIXidmunb1aXa5ounsAv-2nowqE/edit#heading=h.gjdgxs>
 
@@ -71,7 +197,7 @@ Wo Alternativen möglich sind.
 
 > If you rely on internal experts without a dedicated editor and approval process, you’re courting trouble. Kissane p. 66
 
-# Editing as necessary skill and craft
+## Editing as necessary skill and craft
 
 > But the truth is, none of these tools can replace a skilled in-house editor. If your client will be creating and managing more than a few dozen pages of content, they’ll need an editor or internal content strategist to keep things running smoothly. Kissane p. 69
 
@@ -400,12 +526,12 @@ Verbindung von Governance und Content Management. Rollen werden in Bezug auf bei
  * Prepares the budget for annual content efforts
  * Determines the staff resources necessary to achieve the strategy
 
- ##
+##
  >
  * Manages the process of creating and aligning on the content road map and communicates decisions to business partners
  * Ensures that content tools, standards, and guidelines are in place to support content creators, reviewers, and publishers
 
- ##
+##
  >
  * Defines content success metrics, ensures that content effectiveness is measured, and proposes content-improvement projects based on measurement efforts
  * Serves as the content advocate and liaison in discussions about web operations, interactive marketing, technology enhancements, and so on
@@ -585,14 +711,13 @@ Tools such as:
 ## Documentation of Decision Making and Workflows
 
 
-# Editorial teams and digital governance
+## Editorial teams and digital governance
 
 ## Diskussion: Verhältnis zu Content Operations
 
 
 
 
-----
 
 
 
@@ -608,15 +733,6 @@ Tools such as:
 
 
 
-
-
-
-
-
-
-
-
----
 
 
 
@@ -635,7 +751,7 @@ content strategy skillset - tool 15.1
 
 
 
-##     content playbook
+## content playbook
 
 
 
@@ -644,15 +760,6 @@ content strategy skillset - tool 15.1
 ## Task and job descriptions
 
 >     I like to have content creators and publishers fill out a job time-study worksheet
-
-
-
-
-
-
-
-
-
 
 
 ## Mapping existing processes
@@ -690,17 +797,6 @@ content strategy skillset - tool 15.1
 ## woman/man power
 
 > Just as important is ensuring you have the appropriate number of people with the necessary skillsets creating and sharing the right content through effective and efficient processes.
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Governance
@@ -823,10 +919,7 @@ content strategy skillset - tool 15.1
     substance of digital policy should influence the behavior of employees when they are developing material for online channels.
 
 
-(10. November 2021 20:08)
 
-Yellow:
-Untitled section 11
 
     So when you are identifying who should establish digital strategy for your organization, it is especially important to include the right set of resources
 
