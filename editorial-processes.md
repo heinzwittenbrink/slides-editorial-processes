@@ -854,142 +854,153 @@ content strategy skillset - tool 15.1
 
 ##
 
-    but the more obscure but essential digital functions like taxonomy, component content modeling, user experience, and digital analytics development are left without support
+>  but the more obscure but essential digital functions like taxonomy, component content modeling, user experience, and digital analytics development are left without support
 
 
 ##
 
-    Program management is the administrative side of digital. Its function is to enable the digital process by ensuring that the digital team is properly resourced, which includes the management of staff, vendors, and capital expenditures
+>  Program management is the administrative side of digital. Its function is to enable the digital process by ensuring that the digital team is properly resourced, which includes the management of staff, vendors, and capital expenditures
 
 
 ##
 
-    core team has many responsibilities that can be distilled into two functions: program management and product management.
+> core team has many responsibilities that can be distilled into two functions: program management and product management.
 
 
 ##
 
-    product of digital team disorganization is redundancy of effort, which can lead to things like a bad user experience
+>   product of digital team disorganization is redundancy of effort, which can lead to things like a bad user experience
 
 ##
 
-    Well-organized, effective digital teams usually produce a well-organized and effective digital presence.
-
-
-##
-
-    Once these aspects are clearly understood, you will have established a clear resource field upon which to place decision-making authority.
+> Well-organized, effective digital teams usually produce a well-organized and effective digital presence.
 
 
 ##
 
-    This narrow view of the digital team reinforces the idea that digital is a tactical function and not a strategic one that requires planning and resource management.
+> Once these aspects are clearly understood, you will have established a clear resource field upon which to place decision-making authority.
 
 
 ##
 
-    Clearly defined roles and authority are much more important than the organizational placement of your core team.
+>  This narrow view of the digital team reinforces the idea that digital is a tactical function and not a strategic one that requires planning and resource management.
 
 
 ##
 
-    Your digital team is the full set of resources required to keep the digital process functioning for your organization.
+> Clearly defined roles and authority are much more important than the organizational placement of your core team.
 
 
 ##
 
-    there are many different types of digital team configurations. Your job is to discover which configuration will work best for your organization so that you have an appropriate canvas upon which to execute your digital governance design work
+>  Your digital team is the full set of resources required to keep the digital process functioning for your organization.
 
 
 ##
 
-    Just as websites grow organically and without much of a plan, so do digital teams.
+> there are many different types of digital team configurations. Your job is to discover which configuration will work best for your organization so that you have an appropriate canvas upon which to execute your digital governance design work
 
 
 ##
 
-    probably find that your organization is at different levels of maturity for different aspects of the framework
+> Just as websites grow organically and without much of a plan, so do digital teams.
 
 
 ##
 
-    Understand where you are on the digital maturity curve
+> probably find that your organization is at different levels of maturity for different aspects of the framework
 
 
 ##
 
-    The digital governance framework accountability grid. When this effective decentralization of production happens, two important things occur: • The workload and expense of digital developing is shared throughout the organization. • The organization can leverage the knowledge assets of their entire organization to inform and support its digital portfolio.
+> Understand where you are on the digital maturity curve
 
 
 ##
 
-    digital development back into balance by separating day-to-day digital production functions and decision making for strategy, policy, and standards.
+> The digital governance framework accountability grid. When this effective decentralization of production happens, two important things occur: • The workload and expense of digital developing is shared throughout the organization. • The organization can leverage the knowledge assets of their entire organization to inform and support its digital portfolio.
 
 
 ##
 
-    experience, most digital stakeholders are so disinterested in doing the day-to-day grunt work of digital that a relatively small, central digital team is completely overburdened by tactical development tasks, while an army of digital stakeholders (who want to put little or no resources, fiscal or human, and effort into ensuring the work gets done) use their organizational authority to dictate how websites should look,
+>  digital development back into balance by separating day-to-day digital production functions and decision making for strategy, policy, and standards.
 
 
 ##
 
-    What a digital governance framework does is specify who has the authority to make those decisions. This explicit separation of production processes from decision-making authority for standards is what gives the framework its power.
+>  experience, most digital stakeholders are so disinterested in doing the day-to-day grunt work of digital that a relatively small, central digital team is completely overburdened by tactical development tasks, while an army of digital stakeholders (who want to put little or no resources, fiscal or human, and effort into ensuring the work gets done) use their organizational authority to dictate how websites should look,
 
 
 ##
 
-    digital governance framework is a system that delegates authority for digital decision-making about particular digital products and services from the organizational core to other aspects of the organization
+> What a digital governance framework does is specify who has the authority to make those decisions. This explicit separation of production processes from decision-making authority for standards is what gives the framework its power.
 
 
 ##
 
-    Make sure that you document the full range of digital standards, which includes design, editorial, publishing and development, and network and server standards. Often, digital workers just focus on editorial and design standards and neglect the other categories.
+> digital governance framework is a system that delegates authority for digital decision-making about particular digital products and services from the organizational core to other aspects of the organization
+
+
+## Standards
+
+ > Make sure that you document the full range of digital standards, which includes design, editorial, publishing and development, and network and server standards. Often, digital workers just focus on editorial and design standards and neglect the other categories.
 
 
 ##
 
-    how to assign stewardship and authorship to standards.
+ >  how to assign stewardship and authorship to standards.
 
 
 ##
 
-    Standards articulate the exact nature of an organization’s digital portfolio.
+> Standards articulate the exact nature of an organization’s digital portfolio.
+
+
+## Policies
+
+ >  digital governance framework ought to designate a policy steward who is accountable for ensuring that all digital policy issues are addressed.
 
 
 ##
 
-    digital governance framework ought to designate a policy steward who is accountable for ensuring that all digital policy issues are addressed.
+ > That scenario occurs because organizations often conflate policy and standards; however, the two areas are not the same. Policies exist to protect the organization. They do not address online quality and how to achieve it—that is the role of standards.
+
+##
+
+> substance of digital policy should influence the behavior of employees when they are developing material for online channels.
+
+
+## Strategy
+
+>  So when you are identifying who should establish digital strategy for your organization, it is especially important to include the right set of resources
 
 
 ##
 
-    That scenario occurs because organizations often conflate policy and standards; however, the two areas are not the same. Policies exist to protect the organization. They do not address online quality and how to achieve it—that is the role of standards.
-
-##
-
-    substance of digital policy should influence the behavior of employees when they are developing material for online channels.
-
-
-
-
-    So when you are identifying who should establish digital strategy for your organization, it is especially important to include the right set of resources
-
-
-##
-
-    A digital strategy has two facets: guiding principles and performance objectives. • Guiding principles provide stakeholders with a streamlined, qualitative expression of your organization’s high-level digital business intent and values. • Performance objectives quantitatively define what digital success means for an organization.
+>  A digital strategy has two facets: guiding principles and performance objectives. • Guiding principles provide stakeholders with a streamlined, qualitative expression of your organization’s high-level digital business intent and values. • Performance objectives quantitatively define what digital success means for an organization.
 
 
 ##
 
 Es geht auch hier um Rollen, das ist die Verbindung zu redaktionellen Prozessen.
 
-    The work of the framework is to clarify who the decision makers are, but in order to understand who should decide matters related to strategy, policy, and standards, it’s important first to understand what these things are.
+> The work of the framework is to clarify who the decision makers are, but in order to understand who should decide matters related to strategy, policy, and standards, it’s important first to understand what these things are.
 
 
 ##
 
-    websites. A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives. A digital governance framework isn’t bureaucratic and ineffective. Properly designed, a digital governance framework can make your online business machine sing. The proof is out there. Wikipedia is, arguably, one of the most substantively and collaboratively governed websites on the Web, but it is also perceived as a site that fosters a high degree of freedom of expression. The well-defined open standards of the World Wide Web Consortium (W3C) enable the World Wide Web to exist, as it is—without which we would not even be having this conversation. And the multiplicity of purpose and diversity apparent on the World Wide Web speaks for itself. Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. In addition, it needs to intentionally design its digital team so that it can work efficiently and productively. And that’s the work of a digital governance framework. This is your chance to establish the foundational framework that will influence the direction of digital in your organization for years to come. Business leaders and senior digital leaders need to get together and establish how to govern and manage digital effectively in their organizations. Now. Through Managing Chaos, you will learn how to free your organization from debate-stalled stagnation around digital development and establish an environment where an entire organization can work together to successfully leverage all that digital has to offer. What Is Digital Governance? Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services. Having a well-designed digital governance framework minimizes the number of tactical debates regarding the nature and management of an organization’s digital presence by making clear who on your digital team has decision-making authority for these areas: • Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do online? • Digital standards: Who decides the nature of your digital portfolio?
+ > A good digital governance framework will establish a sort of digital development DNA that ensures that your digital presence evolves in a manner that is in harmony with your organization’s strategic objectives. A digital governance framework isn’t bureaucratic and ineffective. 
+
+Properly designed, a digital governance framework can make your online business machine sing. The proof is out there. Wikipedia is, arguably, one of the most substantively and collaboratively governed websites on the Web, but it is also perceived as a site that fosters a high degree of freedom of expression. 
+
+The well-defined open standards of the World Wide Web Consortium (W3C) enable the World Wide Web to exist, as it is—without which we would not even be having this conversation. And the multiplicity of purpose and diversity apparent on the World Wide Web speaks for itself. Your organization needs its own internal W3C, so to speak, so that departments, schools, lines of business—however you segment your organization—can be free to take advantage of digital channels, but within parameters that make sense for the organization’s mission, goals, and bottom line. In addition, it needs to intentionally design its digital team so that it can work efficiently and productively. And that’s the work of a digital governance framework. This is your chance to establish the foundational framework that will influence the direction of digital in your organization for years to come. Business leaders and senior digital leaders need to get together and establish how to govern and manage digital effectively in their organizations. Now. Through Managing Chaos, you will learn how to free your organization from debate-stalled stagnation around digital development and establish an environment where an entire organization can work together to successfully leverage all that digital has to offer. What Is Digital Governance? 
+
+Digital governance is a framework for establishing accountability, roles, and decision-making authority for an organization’s digital presence—which means its websites, mobile sites, social channels, and any other Internet and Web-enabled products and services. Having a well-designed digital governance framework minimizes the number of tactical debates regarding the nature and management of an organization’s digital presence by making clear who on your digital team has decision-making authority for these areas: • 
+
+
+## Strategy - Policies - Standards
+
+> Digital strategy: Who determines the direction for digital? • Digital policy: Who specifies what your organization must and must not do online? • Digital standards: Who decides the nature of your digital portfolio?
 
 
 ##
@@ -1046,44 +1057,44 @@ Es geht auch hier um Rollen, das ist die Verbindung zu redaktionellen Prozessen.
 
 ##
 
-    That means that organizations need to put into place governing principles that maximize the good things that happen and minimize the bad.
+> That means that organizations need to put into place governing principles that maximize the good things that happen and minimize the bad.
 
 
 ##
 
-    Digital will never be “simple.” The very nature of the digital beast implies complexity—complexity in delivery and complexity in the teams that innovate, develop, and manage digital functionality.
+ > Digital will never be “simple.” The very nature of the digital beast implies complexity—complexity in delivery and complexity in the teams that innovate, develop, and manage digital functionality.
 
 
 ##
 
-    manifestation of digital governance problems can lead to complicated outcomes like power struggles and other negative competitive behavior in organizations.
+>  manifestation of digital governance problems can lead to complicated outcomes like power struggles and other negative competitive behavior in organizations.
 
 
 ##
 
-    was chaos, and it became clear that top-down, cross-functional and international coordination was needed to effectively deliver on the promise of the Web. And so we began to experiment with governance models, ultimately landing upon a lead “business council” with supporting cross-functional teams at various levels to help our work be more effective.
+>  was chaos, and it became clear that top-down, cross-functional and international coordination was needed to effectively deliver on the promise of the Web. And so we began to experiment with governance models, ultimately landing upon a lead “business council” with supporting cross-functional teams at various levels to help our work be more effective.
 
 
 ##
 
-    No, standards can enable innovation and creativity. Standards are the bedrock upon which the Internet and World Wide Web rest.
+>  No, standards can enable innovation and creativity. Standards are the bedrock upon which the Internet and World Wide Web rest.
 
 
 ##
 
-    Standards are focused on establishing development parameters for digital practitioners
+>  Standards are focused on establishing development parameters for digital practitioners
 
 
 ##
 
-    Policies and standards are not the same thing. Policies are organizationally focused high-level statements established to manage risk inside an organization
+>  Policies and standards are not the same thing. Policies are organizationally focused high-level statements established to manage risk inside an organization
 
 
 ##
 
-    If you think about it, agile software methodology itself is highly structured with well-defined roles and responsibilities. That’s why it works so well in the right organizational applications.
+>  If you think about it, agile software methodology itself is highly structured with well-defined roles and responsibilities. That’s why it works so well in the right organizational applications.
 
 
 ##
 
-    Digital governance is a discipline that focuses on establishing clear accountability for digital strategy, policy, and standards. A digital governance framework, when effectively designed and implemented, helps to streamline digital development and dampen debates around digital channel “ownership
+> Digital governance is a discipline that focuses on establishing clear accountability for digital strategy, policy, and standards. A digital governance framework, when effectively designed and implemented, helps to streamline digital development and dampen debates around digital channel “ownership
