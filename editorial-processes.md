@@ -173,12 +173,11 @@ link-citations: true
 
 
 
-title: Editorial Processes (for cos20)
+title: Editorial Processes
 author: Heinz Wittenbrink
-date: 2021-11-13
 
 ---
-
+# Editorial processes: Content strategy and editorial quality
 # Preface
 
 ## Github repository
@@ -186,13 +185,13 @@ date: 2021-11-13
 [heinzwittenbrink/slides-editorial-processes](https://github.com/heinzwittenbrink/slides-editorial-processes "heinzwittenbrink/slides-editorial-processes")
 
 
-# Goals and plan of the course
+## Goals and plan of the course
 
 ##
 
 1. Know what editing, editorial processes and an editorial team is
 2. Be able to do consulting for an organisation about the forming and management of an editorial team
-3. Now important factors and influences for the future development of editorial teams
+3. Know important factors and influences for the future development of editorial teams
 
 ##
 
@@ -202,44 +201,107 @@ date: 2021-11-13
 
 ::: notes
 
-We all know these processes, and we all have experience with editorial processes that are not optimal. Conversely, good quality is also related to well-established editorial processes. We also want to gather a lot of our experience today, with the questions:
+We all know these processes, and we all have experience with editorial processes that are not optimal. Conversely, good quality is also related to well-established editorial processes. We also want to gather a lot of our experience, with the questions:
 
-Which factors outside the editorial office play a relevant role.
-Where alternatives are possible.
+Which factors outside the editorial office play a relevant role?
+Where alternatives are possible?
 
 :::
 
 ## Plan today
 
-- Current editorial processes of the participants
-- Roles and problems
-- Break
-- Workflows and Digital Governance
-- Exercise: Editing and Workflow contentstrategy.at
+The craft of editing – Roles of editors and authors
+
+- Content strategy and editorial praxis
+- What is editorial quality?
+- Analysis of an example
+- Exercise: Editing a text in groups
+
+## Second and third part
+
+- How to develop a qualtiy driven editorial process?
+- Tasks: Analysis of a sample process, Concept for contentstrategy.at
+
+## Context
+
+- Editing of articles for contentstrategy.at
+- Documenting a part of this course for contenstrategy.at
+- Protocol?
+
+## Possible Lecture Reports
+
+Lecture 1: What is editorial quality?
+Lecture 2: Types of editorial organisation
+Lecture 3: Editorial roles and workflow
+
+
+# Literature
+
+## Kissane
+
+![](https://cdn.shopify.com/s/files/1/0051/7692/products/aba-000003-pp-4_1100x@2x.progressive.jpg?v=1568667153){width=50%}
+
+[The Elements of Content Strategy, A Book Apart](https://abookapart.com/products/the-elements-of-content-strategy "The Elements of Content Strategy, A Book Apart")
+
+##  Plotnik
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328272321l/544054.jpg){width=30%}
+
+[The Elements of Editing: A Modern Guide... book by Arthur Plotnik](https://www.thriftbooks.com/w/the-elements-of-editing-a-modern-guide-for-editors-and-journalists_arthur-plotnik/510695/#edition=2021774&idiq=24815365 "The Elements of Editing: A Modern Guide... book by Arthur Plotnik")
+
+---
+
+## Plotnik online
+
+<iframe src="https://archive.org/embed/elementsofeditin00plot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[The elements of editing : Internet Archive](https://archive.org/details/elementsofeditin00plot/page/40/mode/2up "The elements of editing : a modern guide for editors and journalists : Plotnik, Arthur : Free Download, Borrow, and Streaming : Internet Archive")
+
+## Google
+
+![](pics/google_search_quality_rater_guidelines.png){width=30%}
+
+[Creating Helpful, Reliable, People-First Content | Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
+
+## Question to the group: Further sources?
 
 # Content strategy and editing
 
 ## Editing as a component of content strategy
 
-> As their content specialists, the more we know about solid editorial practices, the better we can help our clients with the transition to the new world of distributed online publishing. @kissaneElementsContentStrategy2011 p. 21
+> As their content specialists, the more we know about solid editorial practices, the better we can help our clients with the transition to the new world of distributed online publishing. 
 
-##
+@kissaneElementsContentStrategy2011 p. 21
 
-> Editorial work is so closely related to content strategy that questions about the difference between the two often arise. From the outside, content strategy can look quite a lot like the sort of editing found in magazines and newspapers. The editorial world, and that of publishing in general, has a lot to offer us. @kissaneElementsContentStrategy2011 p.16
+## Editing as a root of content strategy
 
-## Die Relevanz der Redaktion, Redakteur:innen als Vertreter:innen der Lesenden
+> Editorial work is so closely related to content strategy that questions about the difference between the two often arise. From the outside, content strategy can look quite a lot like the sort of editing found in magazines and newspapers. The editorial world, and that of publishing in general, has a lot to offer us. 
+
+@kissaneElementsContentStrategy2011 p.16
+
+## The importance of editing
+
+- Editors as delegates of the audience
+- Editors as garants of quality
+- Editors as packagers of information
 
 ## Roles of the content strategist and the editor in chief
 
-> They also need someone to decide how best to communicate it, who should make it, and so on—a sort of combination editor-in-chief and air traffic controller. They need a content strategist. @kissaneElementsContentStrategy2011 p.1
+> They also need someone to decide how best to communicate it, who should make it, and so on—a sort of combination editor-in-chief and air traffic controller. They need a content strategist. 
+
+@kissaneElementsContentStrategy2011 p.1
 
 ##
 
-> Those who do content strategy work from within organizations tend to fill roles quite similar to those of a traditional managing editor: they plan and oversee the communication of new themes and ideas, manage schedules, and collaborate with writers and other content producers. @kissaneElementsContentStrategy2011 p.69
+> Those who do content strategy work from within organizations tend to fill roles quite similar to those of a traditional managing editor: they plan and oversee the communication of new themes and ideas, manage schedules, and collaborate with writers and other content producers. 
 
-## Example
+@kissaneElementsContentStrategy2011 p.69
 
-[content strategist at the city of Leoben](https://www.fresh-content.at/content-strategie-im-oeffentlichen-bereich/ "Fresh Content Content Strategie im öffentlichen Bereich")
+## Examples
+
+[Content strategist at the city of Leoben](https://www.fresh-content.at/content-strategie-im-oeffentlichen-bereich/ "Fresh Content Content Strategie im öffentlichen Bereich")
+
+[Content Strategists: What Do They Do, Anyway? | Intergrowth™](https://inter-growth.co/content-marketing/content-strategist/ "Content Strategists: What Do They Do, Anyway? | Intergrowth™")
 
 ## Content strategies have to be translated into editorial decisions
 
@@ -261,7 +323,7 @@ Where alternatives are possible.
 
 ## Editing is about authority and leadership
 
-> Content creation encompasses writing, illustration, information visualization, metadata and text-equivalent production, and interface writing, and is supported by creative direction and old-fashioned editorial leadership. Kissane, p. 62
+> Content creation encompasses writing, illustration, information visualization, metadata and text-equivalent production, and interface writing, and is supported by creative direction and old-fashioned editorial leadership. @kissaneElementsContentStrategy2011 p. 62
 
 ## Editing as continuous handling of complex situations with unexpected components
 
@@ -301,8 +363,66 @@ Where alternatives are possible.
 
 Plotnik, The Elements of Editing
 
+##
+
+<iframe src="https://archive.org/embed/elementsofeditin00plot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Discussion: Editing for print and digital
 
+## Roles of authors and editors
+
+## Typical editorial practices/tasks
+
+Criteria 
+
+Content
+
+- Imformation
+- Analysis and interpretation
+- Balance
+- Originality
+
+Readabiliry
+
+- Appeal
+- Concreteness and clarity
+- Color and tone
+
+Impact
+
+- Enlightenment
+- Force
+- Relevance
+
+> Some lines of fair play can be drawn, but lightly. A manuscriot's *content* … is the author's province … But the *form* of the final product–its organization, pace. packaging–is what editors like to think is their speciality. 
+
+## Line editing
+
+sentence by sentence, line by line:
+
+carry the author's meaning?
+are my revision's more effective?
+effectiveness of every phrase (grammar)
+numerical/factual/judgmental error
+typos
+details of footnotes etc.
+quotes, links, attributions
+step back, whole and part
+sexism, racism, ageism, ethnocentrism, 
+structure: title, subtitle, lead
+cleared additions with th author
+
+## Exercise
+
+
+This a new article about a burning topic: a UN initiative to ban corporate greenwashing. The article states that a first guidline document publisher yesterday is totally insufficient. This is probaby understandable for an initiated audience, but certainly not for a normal reader of a quality newspaper website.
+
+Please form groups of 4–6 students and edit the first part of the article (before the blog post). You can use the text of the blogpost for editing the text. The result should not be longer than 500 words. contain a teaser text and subheadings and at least 1 illustration (an idea is sufficient).
+
+[Urgent need for regulatory intervention to turn the tide on misleading corporate climate pledges | NewClimate Institute](https://newclimate.org/news/urgent-need-for-regulatory-intervention-to-turn-the-tide-on-misleading-corporate-climate "Urgent need for regulatory intervention to turn the tide on misleading corporate climate pledges | NewClimate Institute")
+
+# Editorial Quality
+# Task: Editing of a sample text
 # Editing, authority and power
 
 ## Auswirkungen der Redaktionsstruktur auf die Inhalte
