@@ -1,181 +1,7 @@
 ---
-references:
-- id: blobaumRedaktionsorganisationJournalistikon
-  accessed:
-    - year: 2021
-      month: 11
-      day: 10
-  author:
-    - family: Blöbaum
-      given: Bernd
-  title: Redaktionsorganisation | Journalistikon
-  type: post-weblog
-  URL: https://journalistikon.de/category/redaktionsorganisation/
-
-- id: caseyContentStrategyToolkit2015
-  abstract: >-
-    In this essential guide, Meghan Casey outlines a step-by-step approach for
-    doing content strategy, from planning and creating your content to
-    delivering and managing it. Armed with this book, you can confidently tackle
-    difficult activities like telling your boss or client what’s wrong with
-    their content, getting the budget to do content work, and aligning
-    stakeholders on a common vision. Reading The Content Strategy Toolkit is
-    like having your own personal consulting firm on retainer with a complete
-    array of tools and tips for every challenge you’ll face. In this practical
-    and relevant guide, you’ll learn how to: Identify problems with your content
-    and persuade your bosses it’s worth the time and resources to do it right
-    Make sense of your business environment and understand your audience Get
-    stakeholders aligned on business goals and user needs Set your content
-    strategy and decide how to measure success Create, maintain, and govern
-    on-strategy content You’ll learn to control your content–and not have it
-    control you.
-  author:
-    - family: Casey
-      given: Meghan
-  edition: 1st edition
-  event-place: San Francisco, California
-  ISBN: 978-0-13-410510-9
-  issued:
-    - year: 2015
-      month: 6
-      day: 15
-  language: English
-  number-of-pages: '288'
-  publisher: New Riders
-  publisher-place: San Francisco, California
-  title: >-
-    The Content Strategy Toolkit: Methods, Guidelines, and Templates for Getting
-    Content Right
-  title-short: The Content Strategy Toolkit
-  type: book
-
-- id: kissaneElementsContentStrategy2011
-  abstract: Literaturverz. und Linksammlung S. 76 - 79
-  author:
-    - family: Kissane
-      given: Erin
-  call-number: ST 252 K618
-  collection-title: Brief books for people who make websites
-  event-place: New York, NY
-  ISBN: 978-0-9844425-5-3
-  issued:
-    - year: 2011
-  language: eng
-  number-of-pages: '81'
-  publisher: A Book Apart
-  publisher-place: New York, NY
-  source: search-fhj.obvsg.at
-  title: The elements of content strategy
-  type: book
-
-- id: kuhrtRedaktionsforschungTheorieUnd2002
-  abstract: >-
-    Redaktionsforschung - Theorie und Praxis einer Übung im Grundstudium -
-    Medien - Hausarbeit 2002 - ebook 0,- € - GRIN
-  accessed:
-    - year: 2021
-      month: 11
-      day: 10
-  author:
-    - family: Kuhrt
-      given: Henriette
-  issued:
-    - year: 2002
-  language: de
-  source: www.grin.com
-  title: Redaktionsforschung - Theorie und Praxis einer Übung im Grundstudium
-  type: article
-  URL: https://www.grin.com/document/107147
-
-- id: schutzenederNeujustierungJournalistikJournalismusforschung2020
-  abstract: >-
-    Relevanz und Fülle der Journalismusforschung sind in den letzten Jahren
-    international enorm gestiegen. Dies hat einerseits mit dem Wandel durch die
-    Digitalisierung von Medien und Gesellschaft zu tun – und andererseits mit
-    der damit verbundenen Transformation und dem Bedeutungszuwachs ihres
-    Forschungsgegenstands. Die Journalismusforschung hat sich aus dem Korsett
-    „Kommunikatorforschung“ befreit, das ihr die allgemeine
-    Kommunikationswissenschaft einst zugeschrieben hat: Mit neuem
-    Selbstbewusstsein rückt sie einen ganzheitlichen Ansatz zur Erforschung und
-    Analyse des Journalismus in der Gesellschaft in den Mittelpunkt. Sie
-    entwickelt Theorien und Methoden weiter – und überdenkt ihr Verhältnis zum
-    Journalismus. Diese Entwicklungen werfen einen neuen Bedarf an
-    Selbstreflexion auf. Genau das hat die Fachgruppe
-    Journalistik/Journalismusforschung der DGPuK auf ihrer Jahrestagung im
-    September 2019 in Eichstätt getan. Unter dem Titel „Neujustierung der
-    Journalistik/Journalismusforschung in der digitalen Gesellschaft“ gab die
-    Eichstätter Tagung auch den Anstoß, ein Selbstverständnispapier zu
-    entwickeln. Dieser Beitrag diskutiert den größeren Kontext der Tagung und
-    führt in die Proceedings ein, in denen zentrale Tagungsbeiträge
-    veröffentlicht sind.
-  accessed:
-    - year: 2021
-      month: 11
-      day: 10
-  author:
-    - family: Schützeneder
-      given: Jonas
-    - family: Meier
-      given: Klaus
-    - family: Springer
-      given: Nina
-  DOI: 10.21241/SSOAR.70811
-  issued:
-    - year: 2020
-  language: de
-  publisher: SSOAR -   GESIS Leibniz Institute for the Social Sciences
-  source: DOI.org (Datacite)
-  title: >-
-    Neujustierung der Journalistik/Journalismusforschung in der digitalen
-    Gesellschaft: Proceedings zur Jahrestagung der Fachgruppe
-    Journalistik/Journalismusforschung der Deutschen Gesellschaft für
-    Publizistik- und Kommunikationswissenschaft 2019, Eichstätt
-  title-short: >-
-    Neujustierung der Journalistik/Journalismusforschung in der digitalen
-    Gesellschaft
-  type: article-journal
-  URL: https://www.ssoar.info/ssoar/handle/document/70811
-  version: 1.0.0
-
-- id: welchmanManagingChaosDigital2015
-  abstract: >-
-    Few organizations realize a return on their digital investment. They’re
-    distracted by political infighting and technology-first solutions. To reach
-    the next level, organizations must realign their assets—people, content, and
-    technology—by practicing the discipline of digital governance. Managing
-    Chaos inspires new and necessary conversations about digital governance and
-    its transformative power to support creativity, real collaboration, digital
-    quality, and online growth.
-  accessed:
-    - year: 2019
-      month: 8
-      day: 24
-  author:
-    - family: Welchman
-      given: Lisa
-  event-place: Brooklyn, NY
-  issued:
-    - year: 2015
-      month: 2
-      day: 15
-  number-of-pages: '248'
-  publisher: Rosenfeld Media
-  publisher-place: Brooklyn, NY
-  title: 'Managing Chaos: Digital Governance by Design'
-  type: book
-  URL: >-
-    https://www.amazon.com/Managing-Chaos-Digital-Governance-Design-ebook/dp/B00TQ8DNHY/ref=sr_1_1?keywords=managing+chaos+welchman&qid=1566688179&s=books&sr=1-1
-
-
-csl: apa.csl
-
-link-citations: true
-
-
-
 title: Editorial Organisation – Roles and Power
 author: Heinz Wittenbrink
-
+link-citations: true
 ---
 
 # Editing, authority and power
@@ -382,19 +208,19 @@ Constructivist approach (Stefan Weber)
 
 > Examples of the manifold aspects of change are the orientation of editorial structures and strategies to digital forms of publication
 
-@schutzenederNeujustierungJournalistikJournalismusforschung2020
+@schuetzenederNeujustierungJournalistikJournalismusforschung2020
 
 #
 
 > Juliane Lischka addresses an essential dilemma of editorial offerings in the digital context: The difficult compatibility of professional standards with economic goals.
 
-@schutzenederNeujustierungJournalistikJournalismusforschung2020
+@schuetzenederNeujustierungJournalistikJournalismusforschung2020
 
 #
 
 > However, the editorial units are still tied to media companies or media houses.
 
-@schutzenederNeujustierungJournalistikJournalismusforschung2020
+@schuetzenederNeujustierungJournalistikJournalismusforschung2020
 
 # ROI as limiting factor for editorial quality and credibility
 
@@ -416,6 +242,8 @@ Constructivist approach (Stefan Weber)
 - Focus on roles, authority and decision finding, work force, allocation of resources
 - Name problems and learnings
 - Condense your insights and present them in the whole group
+
+---
 
 
 -
