@@ -1,9 +1,9 @@
 ---
-title: Online editing and epistemic crisis
+title: Editing for the net and the epistemic crisis
 link-citations: true
 ---
 
-# Online editing and the epistemic crisis
+# Editing for the net and the epistemic crisis
 
 ##  
 
@@ -22,7 +22,7 @@ link-citations: true
 
 ::: 
 
-## The meaning of "epistemic crisis"
+## The relevance of the "epistemic crisis"
 
 ##
 
@@ -109,11 +109,16 @@ Bruno Latour [@latourPetitePhilosophieEnonciation1998]
 - Integrating
 - Linking
 
-## Paradox of online editing
+## Paradox of editing for the net
 
 - Multiplication of references
 - Explicitness of mediations
 
+## 
+
+**Thesis:** 
+
+The higher the number of (implicit and explicit) references from online content to online content, the more important the transparent relations to social practices.
 
 # Strategies of propaganda
 
