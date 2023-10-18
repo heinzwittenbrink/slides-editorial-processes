@@ -220,7 +220,7 @@ Lecture 3: Editorial roles and workflow
 
 
 
-# Literature
+## Literature
 
 - The elements of content strategy
 - The elements of editing
@@ -233,7 +233,7 @@ Lecture 3: Editorial roles and workflow
 
 [The Elements of Content Strategy — A Book Apart](https://elements-of-content-strategy.abookapart.com/ "The Elements of Content Strategy — A Book Apart")
 
-## About Erin Kissan
+## About Erin Kissane
 
 [Erin Kissane's small internet website](https://erinkissane.com/ "Erin Kissane's small internet website")
 
@@ -247,7 +247,7 @@ Lecture 3: Editorial roles and workflow
 [The Elements of Editing: A Modern Guide... book by Arthur Plotnik](https://www.thriftbooks.com/w/the-elements-of-editing-a-modern-guide-for-editors-and-journalists_arthur-plotnik/510695/#edition=2021774&idiq=24815365 "The Elements of Editing: A Modern Guide... book by Arthur Plotnik")
 [@plotnikElementsEditing1982]
 
----
+
 
 ## Plotnik online
 
