@@ -80,27 +80,7 @@ Understanding the basics of *the craft of editing*
 
 16:00 – 18:00: Editing for the net, A.I. and the epistemic crisis  (<https://heinzwittenbrink.github.io/slides-editorial-processes/lecture-4.revealjs.htm#/editing-for-the-net-and-the-epistemic-crisis>)
 
-## Teams contenstrategy.at
 
-- Commissioning editors
-- Writers/editors
-- Final Editors and managing editors
-- Development
-- Social media
-
-::: notes
-
-Aktuelles Dokument: <https://docs.google.com/spreadsheets/d/1mznixzT9apFwHdvNdVuz45vUXeRcZBBqpzCWuty85W8/edit?usp=sharing>
-
-Editorial checklist: <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing>
-
-Lecture reports are always about one of the logical parts of a course. 
-
-It is important to work as a team and to be aware of the work of the other parts of the team.
-
-Key words for the work of the commissioning editors are *overview* and *subject matter expertise*. 
-
-:::
 
 
 ## Context
@@ -223,13 +203,13 @@ Key words for the work of the commissioning editors are *overview* and *subject 
 
 ## Content and packaging
 
-> Some lines of fair play can be drawn, but lightly. A manuscript's *content* … is the author's province … But the *form* of the final product–its organization, pace. packaging–is what editors like to think is their speciality. 
+> Some lines of fair play can be drawn, but lightly. A manuscript's *content* … is the author's province … But the *form* of the final product–its organization, pace. packaging–is what editors like to think is their speciality. [@plotnikElementsEditing1982]
 
 
 
 ## Literature
 
-- The elements of content strategy [@@kissaneElementsContentStrategy2011 ]
+- The elements of content strategy [@kissaneElementsContentStrategy2011 ]
 - The elements of editing [@plotnikElementsEditing1982]
 - Google search central on editorial quality [@googlesearchcentralCreatingHelpfulReliable]
 
@@ -273,6 +253,49 @@ Key words for the work of the commissioning editors are *overview* and *subject 
 
 ## Question to the group: Further sources?
 
+
+# Building teams for contentstrategy.at
+
+## Goals
+
+- publish all articles "in the pipeline"
+- publish 2 new articles per month
+- develop one additional content type
+- develop a taxonomy/navigation structure
+
+## Teams contenstrategy.at
+
+- Commissioning editors
+- Writers/editors
+- Final Editors
+- Managing editors
+- Development
+- Social media
+
+::: notes
+
+Aktuelles Dokument: <https://docs.google.com/spreadsheets/d/1mznixzT9apFwHdvNdVuz45vUXeRcZBBqpzCWuty85W8/edit?usp=sharing>
+
+Editorial checklist: <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing>
+
+Lecture reports are always about one of the logical parts of a course. 
+
+It is important to work as a team and to be aware of the work of the other parts of the team.
+
+Key words for the work of the commissioning editors are *overview* and *subject matter expertise*. 
+
+:::
+
+## Spreadsheet for team building
+
+<https://docs.google.com/spreadsheets/d/1OfQCSNaHcMgQVLxbIdnC3lnBEYi68fsTeL5k04VYGCM/edit?usp=sharing>
+
+## Group work
+
+- Are the roles clear?
+- Who are the representatives of the group?
+
+
 # Editorial Quality
 
 ## Google: Quality and SEO
@@ -303,7 +326,7 @@ Key words for the work of the commissioning editors are *overview* and *subject 
 
 
 
-## Exercise 1 (groupwise)
+## Exercise  (groupwise)
 
 <!--
 
