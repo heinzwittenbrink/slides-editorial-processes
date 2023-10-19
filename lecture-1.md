@@ -50,7 +50,7 @@ Understanding the basics of *the craft of editing*
 - What is editorial quality?
 - Editorial quality and search
 
-## Second and third part
+## Second and third aspect
 
 - Reviewing the editorial process of contentstrategy.at
 - Filling the editorial roles of contentstrategy.at
@@ -78,7 +78,7 @@ Understanding the basics of *the craft of editing*
 
 15:30: Break
 
-16:00 – 18:00: Editing for the net, A.I. and the epistemic crisis
+16:00 – 18:00: Editing for the net, A.I. and the epistemic crisis  (<https://heinzwittenbrink.github.io/slides-editorial-processes/lecture-4.revealjs.htm#/editing-for-the-net-and-the-epistemic-crisis>)
 
 ## Teams contenstrategy.at
 
@@ -112,11 +112,16 @@ Key words for the work of the commissioning editors are *overview* and *subject 
 
 ## Possible Lecture Reports
 
-Lecture 1: What is editorial quality?
-Lecture 2: Types of editorial organisation
-Lecture 3: Editorial roles and workflow
+- What is editorial quality?
+- Editing and AI
+- Types of editorial organisation
+- Editorial roles and workflow
 
-## Possible literature review
+## Possible literature reviews
+
+- Kissane, Elements of content strategy
+- Plotnik, Elements of editing
+- Google on content quality
 
 
 # Web editing as a root of content strategy
@@ -182,7 +187,7 @@ Lecture 3: Editorial roles and workflow
 
 ## Editing as continuous handling of complex situations with unexpected components
 
-> The essence of editorial work lies not in style guides and arguments about grammar, but in the ability to cultivate relationships, manage chaos, and serve readers. It’s not a profession to be learned from books, but these three very different takes will help. Kissane p. 78
+> The essence of editorial work lies not in style guides and arguments about grammar, but in the ability to cultivate relationships, manage chaos, and serve readers. It’s not a profession to be learned from books, but these three very different takes will help. @kissaneElementsContentStrategy2011 p. 78
 
 ## Real world editing
 
@@ -202,7 +207,9 @@ Lecture 3: Editorial roles and workflow
 
 > Editors worth their salt work not for writers or publishers, but for readers. Kissane (2011) p. 17
 
-> Paradoxically, it’s only by working tirelessly for our readers that we can genuinely serve our clients and employers Kissane Kissane (2011) p. 18
+> Paradoxically, it’s only by working tirelessly for our readers that we can genuinely serve our clients and employers Kissane (2011) p. 18
+
+##
 
 > Acting as a user advocate doesn’t make you an impractical idealist. As we’ve learned from our editorial colleagues, if your content doesn’t work for the user, you’ve already failed. User advocacy is simply a way of ensuring that a project achieves business goals. •	 @kissaneElementsContentStrategy2011 p. 47
 
@@ -222,9 +229,9 @@ Lecture 3: Editorial roles and workflow
 
 ## Literature
 
-- The elements of content strategy
-- The elements of editing
-- Google search central on editorial quality 
+- The elements of content strategy [@@kissaneElementsContentStrategy2011 ]
+- The elements of editing [@plotnikElementsEditing1982]
+- Google search central on editorial quality [@googlesearchcentralCreatingHelpfulReliable]
 
 
 ## Kissane
@@ -236,6 +243,8 @@ Lecture 3: Editorial roles and workflow
 ## About Erin Kissane
 
 [Erin Kissane's small internet website](https://erinkissane.com/ "Erin Kissane's small internet website")
+[Mastodon](@kissane@mas.to)
+
 
 
 
