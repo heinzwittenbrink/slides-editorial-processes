@@ -31,9 +31,13 @@ theme: white
 
 We have seen that classic editorial work is one of the roots of content strategy. Today we want to look at how this editorial work can be analysed from a social science perspective and what we can learn from it for content strategy. In doing so, I am deliberately drawing on the study of traditional editorial offices. The transfer service or necessity for us consists above all in considering what is different in the editorial structures we know, why these differences exist, and whether we can perhaps nevertheless learn something for our work from these old studies on journalistic practices. 
 
+The focus here is again on quality and selection, i.e. how decisions are made about what is published and when. These decisions are very closely linked to the power structures in an editorial office and also in the organisation to which the editorial office belongs. As content strategists, we are always the advocates of the users who are interested or should be interested in the content. That's why there are always conflicts with the power structures in organisations in our work.
 
 :::
 
+# Example for the relevance of power in editorial teams:
+
+[Inside Fridays for Future International: This is how Israel haters are hijacking the climate movement | Jewish General](https://www-juedische--allgemeine-de.translate.goog/allgemein/inside-fridays-for-future-international-so-kapern-israelhasser-die-klimabewegung/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp "Inside Fridays for Future International: This is how Israel haters are hijacking the climate movement | Jewish General")
 
 # Special forms of editorial organisation
 
