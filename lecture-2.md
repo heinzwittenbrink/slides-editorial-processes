@@ -2,9 +2,23 @@
 title: Editorial Organisation – Roles and Power
 author: Heinz Wittenbrink
 link-citations: true
+date: 2023-11-22
+theme: white
 ---
 
+
 # Editing, authority and power
+
+
+<style>
+
+    #refs
+
+    div {font-size: small;}
+
+
+    
+</style>
 
 # Team structure and content
 
@@ -13,13 +27,25 @@ link-citations: true
 - It thus determines how the world is presented to the recipients and also to the organization
 - The power relations in the editorial office and the power over the reaction are very relevant for the content
 
+::: notes
+
+We have seen that classic editorial work is one of the roots of content strategy. Today we want to look at how this editorial work can be analysed from a social science perspective and what we can learn from it for content strategy. In doing so, I am deliberately drawing on the study of traditional editorial offices. The transfer service or necessity for us consists above all in considering what is different in the editorial structures we know, why these differences exist, and whether we can perhaps nevertheless learn something for our work from these old studies on journalistic practices. 
+
+
+:::
 
 
 # Special forms of editorial organisation
 
 # Wikipedia/Community
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wikipedians_of_Unilorin_050.jpg/1600px-Wikipedians_of_Unilorin_050.jpg)
+![](pics/Wikipedians_of_Unilorin_050.jpg)
+
+# Wikipedia – Editing with a consensus based ethos
+
+#
+
+[Wikipedia:Editorial oversight and control - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Editorial_oversight_and_control "Wikipedia:Editorial oversight and control - Wikipedia")
 
 
 # Newspaper Old Style
@@ -28,27 +54,54 @@ link-citations: true
 
 aus: @journogyanStructureFunctionsVarious2017 
 
+# Example: Job description for an Editor-in-Chief
+
+[Editor-in-Chief: Everything You Need To Know About the Role | Indeed.com](https://www.indeed.com/career-advice/finding-a-job/editor-in-chief "Editor-in-Chief: Everything You Need To Know About the Role | Indeed.com")
+
 # Newsroom
 
 ![](https://sturmer.at/wp-content/uploads/2018/11/2012-crossmediales-arbeiten-im-newsroom-bpb-600.png)
 
+# Example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNGZAWiKflo?si=5NnFDmkKNIfsRijA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<https://youtu.be/PNGZAWiKflo?si=Hv56evDBZX4-evVY>
+
 # Corporate Newsroom
 
-![](https://dirico.io/wp-content/uploads/2021/08/newsroom-modell-mcschindler.png){width=70%}
+![](pics/die-4-handlungsfelder-des-newsrooms-modell-3.jpg){width=70%}
+
+
+# Example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2M2ysmdhXkI?si=UPZKgGmHUFoylaT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<https://youtu.be/2M2ysmdhXkI?si=oMtiOHeUAPlOXtBH>
 
 # Science
 
 ![](pics/1o5_ldc_2-01.png){width=70%}
 
+[Wie die IPCC-Berichte erstellt werden - de-IPCC](https://www.de-ipcc.de/226.php "Wie die IPCC-Berichte erstellt werden - de-IPCC")
+
+# IPCC Author Experience
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_85UXFAHITU?si=RtHHV1T4WFiYvup8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<https://youtu.be/2M2ysmdhXkI?si=M56ooAlMVJbpZaZd>
+
+
+
 # Research about editorial teams in journalism
-- "Redaktionsforschung"
-- tradition in the "German" tradition of research on journalism
+- "Redaktionsforschung" (Research on editorial teams)
+- tradition in the "German" vein of research on journalism
 - focus on changes induced by commercialization and digitization
 - translated into the organization of journalitic teams, especially news rooms
 
 # Basic text for research of editorial teams
 
-- [„Die Zeitungsredaktion als organisiertes soziales System“](http://transfer.dgpuk.de/abstracts/die-zeitungsredaktion-als-organisiertes-soziales-system-ergebnisse-einer-redaktionsbeobachtung/ "„Die Zeitungsredaktion als organisiertes soziales System“ – Ergebnisse einer Redaktionsbeobachtung – transfer")
+- [„Die Zeitungsredaktion als organisiertes soziales System“](http://transfer.dgpuk.de/abstracts/die-zeitungsredaktion-als-organisiertes-soziales-system-ergebnisse-einer-redaktionsbeobachtung/ "„Die Zeitungsredaktion als organisiertes soziales System“ – Ergebnisse einer Redaktionsbeobachtung – transfer") [@ruhlZeitungsredaktionAlsOrganisiertes1979]
  - [Manfred Rühl - Wikipedia](https://en.wikipedia.org/wiki/Manfred_R%C3%BChl "Manfred Rühl - Wikipedia")
 
 ![](pics/ruehl_zeitungsorganisation.jpeg){width=30%}
@@ -57,7 +110,7 @@ aus: @journogyanStructureFunctionsVarious2017
 
 > This social "system of editing" designed by Rühl assumes that the performance of this system consists in reducing the complexity of the environment in order to ensure its own continued existence. In doing so, he draws on the theory of Niklas Luhmann
 
-@kuhrtRedaktionsforschungTheorieUnd2002
+[@kuhrtRedaktionsforschungTheorieUnd2002]
 
 #
 
@@ -169,7 +222,7 @@ Journalistic practice is not possible without coordination. Usually coordination
 
 @kuhrtRedaktionsforschungTheorieUnd2002
 
-#  
+#
 
 Constructivist approach (Stefan Weber)
 
@@ -234,17 +287,13 @@ Constructivist approach (Stefan Weber)
 - Content strategy as an alternative to traditional forms of describing the "programs" of editorial teams and news rooms
 
 
-# Exercise 2
+# Exercise 
 
-- Please work in groups (the same as for exercise 1)
+- Please work in groups 
 - Name a person to collect and report the results
 - Describe the editorial team you are working in or one you know
 - Focus on roles, authority and decision finding, work force, allocation of resources
-- Name problems and learnings
+- Name problems and learnings – also with regard to the examples in this lecture
 - Condense your insights and present them in the whole group
 
----
-
-
--
-
+# References
