@@ -93,7 +93,7 @@ aus: @journogyanStructureFunctionsVarious2017
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_85UXFAHITU?si=RtHHV1T4WFiYvup8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<https://youtu.be/2M2ysmdhXkI?si=M56ooAlMVJbpZaZd>
+<https://youtu.be/_85UXFAHITU?si=aDVzswBVkNfd-q0b>
 
 
 
