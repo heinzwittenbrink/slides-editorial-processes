@@ -2,7 +2,7 @@
 title: Institutionalising Editorial Quality
 link-citations: true
 author: Heinz Wittenbrink
-date: 2023-11-28
+date: 2024-02-02
 theme: white
 ---
 
@@ -25,7 +25,7 @@ theme: white
 
 ![](pics/nicely-said.jpg)
 
-##  Aspects of  Editing
+#  Aspects of  Editing
 
 ##  Transforming content into usable products
 
@@ -102,7 +102,7 @@ theme: white
  
 ## Standards and accountancy
  
- Decisions are made in a framework and can be justified and improved by referring to that framwork
+ Decisions are made in a framework and can be justified and improved by referring to that framework
  
 
 
