@@ -35,7 +35,7 @@ Das Ziel ist, dass wir als Gruppe lernen.
 
 ::: notes
 
-We all know these processes, and we all have experience with editorial processes that are not optimal. Conversely, good quality is also related to well-established editorial processes. We also want to gather a lot of our experience, with the questions:
+We all know these processes, and we all have experience with editorial processes that are not optimal. Conversely, good quality is also related to well-established editorial processes. We also want to collect and reflect a lot of our experience, with the questions:
 
 Which factors outside the editorial office play a relevant role?
 Where alternatives are possible?
@@ -56,29 +56,39 @@ Understanding the basics of *the craft of editing*
 - Filling the editorial roles of contentstrategy.at
 - Perspective: Ethical and social aspects of editing
 
+## Plan of the course
+
+- Content strategy and editorial quality
+- Editorial quality and standards
+- Editiorial team structure and power dynamics
+- Editing and AI
+
+  
+
 ## Timetable for today
 
-11:00 - 11:15: Introduction
+9:00 - 9:15: Introduction
 
-11:15 – 11:45 Editing as a root of content strategy
+9:15 – 10:45 Input: Editing as a root of content strategy
 
-11:45 - 13:00: Editing and Roles in contentstrategy.at
+11:00 - 12:45: Group work: What is editorial quality?
 
-11:45 – 12:00: Goals
+12:45 – 14:00: Lunch break
 
-12:00 – 12:30: Review of the workflow
+14:00 – 15:15: Group work: Line editing
 
-12:30 – 13:00: Team building, definition of communication channels
+15:15 – 15:30: Break
 
-13:00 – 14:00: Lunch break
+15:30 – 17:00: Editing and contentstrategy.at
 
 
 ---
+<!--
 14:00: Input and tasks: Editorial Quality and CS
 
 15:30: Break
 
-16:00 – 18:00: Editing for the net, A.I. and the epistemic crisis  (<https://heinzwittenbrink.github.io/slides-editorial-processes/lecture-4.revealjs.htm#/editing-for-the-net-and-the-epistemic-crisis>)
+16:00 – 18:00: Editing for the net, A.I. and the epistemic crisis  (<https://heinzwittenbrink.github.io/slides-editorial-processes/lecture-4.revealjs.htm#/editing-for-the-net-and-the-epistemic-crisis>) -->
 
 
 
@@ -87,7 +97,7 @@ Understanding the basics of *the craft of editing*
 
 - Editing of articles for contentstrategy.at
 - Documenting a part of this course for contenstrategy.at
-- Work done by COS21
+- Work done for contentstrategy.at
 - Protocol?
 
 ## Possible Lecture Reports
@@ -106,6 +116,59 @@ Understanding the basics of *the craft of editing*
 
 # Web editing as a root of content strategy
 
+## Editorial practice in our group
+
+- Edititing in my work
+- Editorial tasks
+- Editorial roles
+
+## Literature
+
+- The elements of content strategy [@kissaneElementsContentStrategy2011 ]
+- The elements of editing [@plotnikElementsEditing1982]
+- Google search central on editorial quality [@googlesearchcentralCreatingHelpfulReliable]
+
+
+## Kissane
+
+![](https://cdn.shopify.com/s/files/1/0051/7692/products/aba-000003-pp-4_1100x@2x.progressive.jpg?v=1568667153){width=50%}
+
+[The Elements of Content Strategy — A Book Apart](https://elements-of-content-strategy.abookapart.com/ "The Elements of Content Strategy — A Book Apart")
+
+## About Erin Kissane
+
+[Erin Kissane's small internet website](https://erinkissane.com/ "Erin Kissane's small internet website")
+[Mastodon](@kissane@mas.to)
+
+
+
+
+
+##  Plotnik
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328272321l/544054.jpg){width=30%}
+
+[The Elements of Editing: A Modern Guide... book by Arthur Plotnik](https://www.thriftbooks.com/w/the-elements-of-editing-a-modern-guide-for-editors-and-journalists_arthur-plotnik/510695/#edition=2021774&idiq=24815365 "The Elements of Editing: A Modern Guide... book by Arthur Plotnik")
+[@plotnikElementsEditing1982]
+
+
+
+## Plotnik online
+
+<iframe src="https://archive.org/embed/elementsofeditin00plot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[The elements of editing : Internet Archive](https://archive.org/details/elementsofeditin00plot/page/40/mode/2up "The elements of editing : a modern guide for editors and journalists : Plotnik, Arthur : Free Download, Borrow, and Streaming : Internet Archive")
+
+## Google
+
+![](pics/google_search_quality_rater_guidelines.png){width=30%}
+
+[Creating Helpful, Reliable, People-First Content | Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
+[@googlesearchcentralCreatingHelpfulReliable]
+
+## Question to the group: Further sources?
+
+
 
 ## Editing as a component of content strategy
 
@@ -122,7 +185,7 @@ Understanding the basics of *the craft of editing*
 ## The importance of editing
 
 - Editors as delegates of the audience
-- Editors as garants of quality
+- Editors as guarantors of quality
 - Editors as packagers of information
 
 ## Roles of the content strategist and the editor in chief
@@ -207,52 +270,84 @@ Understanding the basics of *the craft of editing*
 
 
 
-## Literature
-
-- The elements of content strategy [@kissaneElementsContentStrategy2011 ]
-- The elements of editing [@plotnikElementsEditing1982]
-- Google search central on editorial quality [@googlesearchcentralCreatingHelpfulReliable]
 
 
-## Kissane
+# Editorial Quality
 
-![](https://cdn.shopify.com/s/files/1/0051/7692/products/aba-000003-pp-4_1100x@2x.progressive.jpg?v=1568667153){width=50%}
+## Google: Quality and SEO
 
-[The Elements of Content Strategy — A Book Apart](https://elements-of-content-strategy.abookapart.com/ "The Elements of Content Strategy — A Book Apart")
-
-## About Erin Kissane
-
-[Erin Kissane's small internet website](https://erinkissane.com/ "Erin Kissane's small internet website")
-[Mastodon](@kissane@mas.to)
-
-
-
-
-
-##  Plotnik
-
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328272321l/544054.jpg){width=30%}
-
-[The Elements of Editing: A Modern Guide... book by Arthur Plotnik](https://www.thriftbooks.com/w/the-elements-of-editing-a-modern-guide-for-editors-and-journalists_arthur-plotnik/510695/#edition=2021774&idiq=24815365 "The Elements of Editing: A Modern Guide... book by Arthur Plotnik")
-[@plotnikElementsEditing1982]
-
-
-
-## Plotnik online
-
-<iframe src="https://archive.org/embed/elementsofeditin00plot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[The elements of editing : Internet Archive](https://archive.org/details/elementsofeditin00plot/page/40/mode/2up "The elements of editing : a modern guide for editors and journalists : Plotnik, Arthur : Free Download, Borrow, and Streaming : Internet Archive")
-
-## Google
-
-![](pics/google_search_quality_rater_guidelines.png){width=30%}
-
-[Creating Helpful, Reliable, People-First Content | Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
+[Creating Helpful, Reliable, People-First Content | Google Search Central  |  Documentation  |  Google Developers](https://developers.google.com/search/docs/fundamentals/creating-helpful-content "Creating Helpful, Reliable, People-First Content | Google Search Central  |  Documentation  |  Google Developers") 
 [@googlesearchcentralCreatingHelpfulReliable]
 
-## Question to the group: Further sources?
+## {data-background-image="pics/plotnik-content-criteria.png"}
 
+## Content criteria
+
+- Information
+- Analysis and interpretation
+- Balance
+- Originality
+
+## Readability criteria
+
+- Appeal
+- Concreteness and clarity
+- Color and tone
+
+## Impact criteria
+
+- Enlightenment
+- Force
+- Relevance
+
+
+
+## Exercise  (groupwise)
+
+- Form groups of 4 people
+- Analyse one article of contentstrategy.at using the criteria in @plotnikElementsEditing1982, pp.28/29 and @CreatingHelpfulReliable 
+- Make a list of editorial problems and of suggestions for improvement
+- Present the results to the whole group.
+
+
+## {data-background-image="pics/plotnik-line-editing-1.png"}
+
+## {data-background-image="pics/plotnik-line-editing-2.png"}
+
+## Line editing 1
+
+Sentence by sentence, line by line:
+
+- carry the author's meaning?
+- are my revision's more effective?
+- effectiveness of every phrase (grammar)
+
+## Line editing 2
+
+- numerical/factual/judgmental error
+- typos
+- details of footnotes etc.
+- quotes, links, attributions
+
+## Line editing 3
+
+- step back, whole and part
+- sexism, racism, ageism, ethnocentrism, 
+- structure: title, subtitle, lead
+- cleared additions with th author
+
+
+## Exercise 2 (groupwise)
+
+Start with line editing one of the unpublished articles in content strategy at!
+Present the results to the whole group.
+
+
+## Summary and questions
+
+- What did we learn for our practice?
+- What should we learn for our practice?
+- Where do we need a revision of our editorial guidelines?
 
 # Building teams for contentstrategy.at
 
@@ -295,99 +390,5 @@ Key words for the work of the commissioning editors are *overview* and *subject 
 - Are the roles clear?
 - Who are the representatives of the group?
 
-
-# Editorial Quality
-
-## Google: Quality and SEO
-
-[Creating Helpful, Reliable, People-First Content | Google Search Central  |  Documentation  |  Google Developers](https://developers.google.com/search/docs/fundamentals/creating-helpful-content "Creating Helpful, Reliable, People-First Content | Google Search Central  |  Documentation  |  Google Developers") 
-[@googlesearchcentralCreatingHelpfulReliable]
-
-## {data-background-image="pics/plotnik-content-criteria.png"}
-
-## Content criteria
-
-- Imformation
-- Analysis and interpretation
-- Balance
-- Originality
-
-## Readability criteria
-
-- Appeal
-- Concreteness and clarity
-- Color and tone
-
-## Impact criteria
-
-- Enlightenment
-- Force
-- Relevance
-
-
-
-## Exercise  (groupwise)
-
-<!--
-
-[Urgent need for regulatory intervention to turn the tide on misleading corporate climate pledges | NewClimate Institute](https://newclimate.org/news/urgent-need-for-regulatory-intervention-to-turn-the-tide-on-misleading-corporate-climate "Urgent need for regulatory intervention to turn the tide on misleading corporate climate pledges | NewClimate Institute")
-
-::: notes
-
-This a new article about a burning topic: a UN initiative to ban corporate greenwashing. The article states that a first guidline document published yesterday is totally insufficient. This is probaby understandable for an initiated audience, but certainly not for a normal reader of a quality newspaper website. 
-
-:::
-
--->
-
-Please analyse the first paragraphs of one of the unpublished articles of contentstrategy.at based on Plotnik's and Google's criteria. Present the results to the whole group.
-
-
-
-
-
-
-
-
-
-
-## {data-background-image="pics/plotnik-line-editing-1.png"}
-
-## {data-background-image="pics/plotnik-line-editing-2.png"}
-
-## Line editing 1
-
-Sentence by sentence, line by line:
-
-- carry the author's meaning?
-- are my revision's more effective?
-- effectiveness of every phrase (grammar)
-
-## Line editing 2
-
-- numerical/factual/judgmental error
-- typos
-- details of footnotes etc.
-- quotes, links, attributions
-
-## Line editing 3
-
-- step back, whole and part
-- sexism, racism, ageism, ethnocentrism, 
-- structure: title, subtitle, lead
-- cleared additions with th author
-
-
-## Exercise 2 (groupwise)
-
-Start with line editing one of the unpublished articles in content strategy at!
-Present the results to the whole group.
-
-
-## Summary and questions
-
-- What did we learn for our practice?
-- What should we learn for our practice?
-- Where do we need a revision of our editorial guidelines?
 
 ## References
