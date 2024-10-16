@@ -1,7 +1,7 @@
 ---
 title: Editorial Processes 1
 author: Heinz Wittenbrink
-date: 2023-10-19
+date: 2024-10-16
 theme: white
 link-citations: true
 ---
