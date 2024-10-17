@@ -27,6 +27,7 @@ Das Ziel ist, dass wir als Gruppe lernen.
 
 :::
 
+
 ##
 
 4. Handle editorial roles and processes in your master thesis
@@ -41,6 +42,11 @@ Which factors outside the editorial office play a relevant role?
 Where alternatives are possible?
 
 ::: 
+
+## Base for grading
+
+- Please write (individually short minutes after every session)
+- Please write  a short summary of what you have learned at the end of the course and include a reflection about the relevance of editorial quality for your actual or future professional practice
 
 ## Goals today
 
@@ -126,7 +132,8 @@ Understanding the basics of *the craft of editing*
 
 - The elements of content strategy [@kissaneElementsContentStrategy2011 ]
 - The elements of editing [@plotnikElementsEditing1982]
-- Google search central on editorial quality [@googlesearchcentralCreatingHelpfulReliable]
+- Google search central on editorial quality [@CreatingHelpfulReliable]
+- Google Quality Rater Guidelines [@googleSearchQualityRating2024]
 
 
 ## Kissane
@@ -138,7 +145,8 @@ Understanding the basics of *the craft of editing*
 ## About Erin Kissane
 
 [Erin Kissane's small internet website](https://erinkissane.com/ "Erin Kissane's small internet website")
-[Mastodon](@kissane@mas.to)
+
+[\@kissane\@mas.to](https://graz.social/@kissane@mas.to "Erin Kissane - graz.social")
 
 
 
@@ -163,8 +171,7 @@ Understanding the basics of *the craft of editing*
 
 ![](pics/google_search_quality_rater_guidelines.png){width=30%}
 
-[Creating Helpful, Reliable, People-First Content | Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
-[@googlesearchcentralCreatingHelpfulReliable]
+Google search central on editorial quality [@CreatingHelpfulReliable], Google Quality Rater Guidelines [@googleSearchQualityRating2024]
 
 ## Question to the group: Further sources?
 
@@ -309,6 +316,13 @@ Understanding the basics of *the craft of editing*
 - Make a list of editorial problems and of suggestions for improvement
 - Present the results to the whole group.
 
+## Sample articles:
+
+- [Strategy meets organisational communication: A discussion of 4 approaches | Content Strategy Knowledge Base](https://www.contentstrategy.at/lecture-reports/strategy-meets-organisational-communication-a-discussion-of-4-approaches)
+- [Knowledge is power! – How analytics and metrics can improve your company | Content Strategy Knowledge Base](https://www.contentstrategy.at/lecture-reports/knowledge-is-power-how-analysis-and-metrics-can-improve-your-company "Knowledge is power! – How analytics and metrics can improve your company | Content Strategy Knowledge Base")
+
+
+# Line editing
 
 ## {data-background-image="pics/plotnik-line-editing-1.png"}
 
@@ -342,6 +356,8 @@ Sentence by sentence, line by line:
 Start with line editing one of the unpublished articles in content strategy at!
 Present the results to the whole group.
 
+Examples: <https://www.contentstrategy.at/admin/entries/lectureReports/63587-aesthetic-usability-effect>,<https://www.contentstrategy.at/admin/entries/lectureReports/81865-the-importance-of-ethics-in-content-strategy>
+
 
 ## Summary and questions
 
@@ -349,6 +365,7 @@ Present the results to the whole group.
 - What should we learn for our practice?
 - Where do we need a revision of our editorial guidelines?
 
+<!--
 # Building teams for contentstrategy.at
 
 ## Goals
@@ -390,5 +407,6 @@ Key words for the work of the commissioning editors are *overview* and *subject 
 - Are the roles clear?
 - Who are the representatives of the group?
 
+-->
 
 ## References
