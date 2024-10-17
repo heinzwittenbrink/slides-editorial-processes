@@ -45,8 +45,8 @@ Where alternatives are possible?
 
 ## Base for grading
 
-- Please write (individually short minutes after every session)
-- Please write  a short summary of what you have learned at the end of the course and include a reflection about the relevance of editorial quality for your actual or future professional practice
+- Please write (individually) short minutes after every session.
+- Please write  a short summary of what you have learned at the end of the course and include a reflection about the relevance of editorial quality for your actual or future professional practice.
 
 ## Goals today
 
