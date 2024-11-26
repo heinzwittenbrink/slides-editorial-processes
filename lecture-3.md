@@ -6,7 +6,7 @@ date: 2024-11-26
 theme: white
 ---
 
-
+#
 
 <style>
 
@@ -14,22 +14,22 @@ theme: white
 
     div {font-size: small;}
 
+    section#footnotes p  {font-size: small;}
+
 
     
 </style>
 
-# Task
+* Markdown version: <https://github.com/heinzwittenbrink/slides-editorial-processes/blob/main/lecture-3.md> 
+* Pdf (with annotations): <https://heinzwittenbrink.github.io/slides-editorial-processes/lecture-3.pdf>
 
-1. Please form groups as for the preceding tasks
-2. Please name implicit or explicit editorial standard in an editorial team you know
-3. Who defined these standards?
-4. What happens if they are not met?
-5. Does the relevance of editorial standards have consequences for your work as a content strategist?
+# Goals
 
-Please use the input of the presentation and post the results in the channel!
-
-
-
+1. Understand the differences between effectiveness and quality
+2. Reflect about the function of standards for the evaluation of quality
+3. Know examples of standards which are important for editorial quality
+4. Know important content strategy texts about standards and quality
+5. Reflect about the relevance of standards in our professional practice
 
 # Theses
 
@@ -41,10 +41,6 @@ Please use the input of the presentation and post the results in the channel!
 
 - Content strategies are needed because the impact of content should be targeted and is made possible by the quality of the content.
 - Determining the goals to be achieved through content and setting standards require digital governance.
-
-
-
-
 
 # Thesis 1: Effectiveness vs. quality
 
@@ -74,6 +70,21 @@ If we look at the beginnings of content strategy on the web, it is precisely thi
 
 :::
 
+# Material: Lucie Hyde on KPIs and Goals
+
+<https://de.slideshare.net/luciehyde/lucie-hyde-csa2013keynote10thingsivelearned> [@hyde10ThingsIve2013]
+
+# 
+
+>  MEASUREMENT IS ESSENTIAL BUT KPIs ARE NOT GOALS
+
+> Measuring effectiveness is essential if we are to succeed
+
+#
+
+> Quality is NOT the same as effectiveness. Effectiveness is more important. A robust measurement framework should include IMPACT and HEALTH measurements. Outcome-based goals are also important – but they often (usually) include more than content.
+
+
 # Thesis 2: Interdependence of effectiveness and quality
 
 Effectiveness and quality of content cannot be reduced to one another and cannot be separated from one another.[^dichotomy]
@@ -95,9 +106,6 @@ Perhaps to put it another way and to anticipate a little: in order to achieve a 
 :::
 
 
-
-
-	
 
 # Thesis 3: Standards vs. measurement
 
@@ -145,6 +153,47 @@ However, content only has an impact on the user if its quality is right. The use
 
 :::
 
+# Content Marketing's Code of Ethics
+
+> Content marketing should seek to adhere to stricter standards of reporting than traditional journalism, due to its different legal position and increased commercial motivations. [@pulizziEpicContentMarketing2013, chapter "Content Marketing Code of Ethics"]
+
+#
+
+> Content marketers should take care to disclose the sponsorship and intent of their work while abiding by the following practices:
+
+> Adhere to journalism’s core values of honesty, integrity, accountability, and responsibility. 
+
+> Acknowledge facts that may compromise the integrity of a story or opinion.
+
+#
+
+> Minimize potential harm to sources or subjects of stories.
+
+> Expose truth as fully as possible.
+
+> Always credit sources of content or ideas, never plagiarizing or repurposing stories or prose, whether one’s own or another’s, whether written content, photography, or other media, whether the original source is known or not.
+
+#
+
+> Fulfill promises made to contributors and sources in the course of reporting.
+
+> Ensure that the reader understands the source, sponsor, and intent of the content
+
+> Disclose all potential conflicts of interest or appearance of conflict."
+
+
+# Examples for standards
+
+* [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/guidelines "Guidelines") [@bbcEditorialGuidelines2024]
+* CEN Workshop Agreement 17493: Journalism Trust Initiative [@europeancommitteeforstandardizationCENWorkshopAgreement2019]
+
+
+# Example of a standard for contentstrategy.at
+
+ <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> [@cos23studentsChecklistTemplateRevising2023] (Thx to the COS21!)
+
+
+
 # Thesis 4: Standards and content strategy
 
   Content strategies are needed because the impact of content should be targeted and is made possible by the quality of the content.
@@ -159,6 +208,12 @@ In her book Managing Chaos [@welchmanManagingChaosDigital2015], Sarah Welchman w
 
 Standards should not be confused with guidelines or style guides, which refer to formal details or to the fact that it is easy to determine whether certain criteria are met. The style guides define how certain standards are achieved&mdash;they are rooted in the standards, so to speak&mdash;but as such they only define whether these standards are implemented. This is easy to distinguish in the case of scientific standards, for example. The scientific standard includes correct citation, i.e. citing the source for all statements and showing where it can be found. However, whether this requirement is implemented by adhering to the APA citation guidelines, as we do here in the degree program, or by using others, e.g. the Chicago Manuel of Style, is a matter for a style guide. In the same way, it is a standard to reach users in a certain situation in the appropriate way and not to discriminate against them. This can then result in statements in the style guide, e.g. for addressing users, as we know from the media and other companies. However, these style guide rules alone do not form the standard.  The standard should also be formulated as such. The transitions here are of course fluid.
 :::
+
+# Material: Content Strategists as advocates of standards
+
+<https://wittenbrink-net.translate.goog/zielsetzung-und-messung-der-arbeit-von-contentstrategen-wirksamkeit-und-qualitat/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp> [@wittenbrinkZielsetzungUndMessung2016]
+
+	
 	
 # Thesis 5: Standards and governance
 
@@ -226,30 +281,14 @@ Licence to operate [… ] refers to the social acceptance of companies. This is 
 
 -->
 
-# Materials 1: Example of a standard
+# Lisa Welchman on Standards
 
- <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> [@cos23studentsChecklistTemplateRevising2023] (Thx to the COS21!)
-
-# Materials 2: Content Strategists as advocates of standards
-
-<https://wittenbrink-net.translate.goog/zielsetzung-und-messung-der-arbeit-von-contentstrategen-wirksamkeit-und-qualitat/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp> [@wittenbrinkZielsetzungUndMessung2016]
-
-
-# Materials 3: Lucie Hyde on KPIs and Goals
-
-<https://de.slideshare.net/luciehyde/lucie-hyde-csa2013keynote10thingsivelearned> [@hyde10ThingsIve2013]
-
-# 
-
->  MEASUREMENT IS ESSENTIAL BUT KPIs ARE NOT GOALS
-
-> Measuring effectiveness is essential if we are to succeed
-> 
-> Quality is NOT the same as effectiveness. Effectiveness is more important. A robust measurement framework should include IMPACT and HEALTH measurements. Outcome-based goals are also important – but they often (usually) include more than content.
+[Managing Chaos - Lisa Welchman.epub](../../../../mnt/Daten Heinz/Nextcloud/Calibre/Lisa Welchman/Managing Chaos (53)/Managing Chaos - Lisa Welchman.epub) 
+(Link to local version [@welchmanManagingChaosDigital2015, Chapter Digital Standards])
 
 
 
-# Materials 4: AI Support for the evaluation of content
+# Preview: AI Support for the evaluation of content
 
 [Home - Acrolinx](https://www.acrolinx.com/de/ "Home - Acrolinx")
 
