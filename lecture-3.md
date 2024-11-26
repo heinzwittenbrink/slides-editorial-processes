@@ -8,6 +8,15 @@ theme: white
 
 
 
+<style>
+
+    #refs
+
+    div {font-size: small;}
+
+
+    
+</style>
 
 # Task
 
@@ -114,7 +123,7 @@ Standards are something like explicit rules. This is relatively clear in the cas
 
 I have already said that the quality of texts, of content, is generally a matter of joint assessment by senders and recipients, and it is fitting that such standards are generally also publicly accessible to users or readers. Quality newspapers, for example, publish their standards and thus allow readers to determine whether texts meet these standards. If you want to ensure that your own texts adhere to certain standards, and if you also want to let readers know what quality you are delivering to them, then communicating standards is a good way of doing this. 
 
-A few years ago, for example, Joe Pulizzi, one of the most important theorists of content marketing, called for content marketers to adhere to journalistic standards, and to do so more strictly than traditional journalistic media.  The reason for this is that there is often a risk of manipulation in content marketing in particular, so adhering to journalistic standards ensures that the accusation of manipulation is not justified - of course only if these standards are actually applied.
+A few years ago, for example, Joe Pulizzi, one of the most important theorists of content marketing, called for content marketers to adhere to journalistic standards, and to do so more strictly than traditional journalistic media [@pulizziEpicContentMarketing2013, chapter "Content Marketing Code of Ethics"].  The reason for this is that there is often a risk of manipulation in content marketing in particular, so adhering to journalistic standards ensures that the accusation of manipulation is not justified - of course only if these standards are actually applied.
 
 With this in mind, I would now like to argue in favor of giving standards a central role in editorial work. As soon as standards are set, it is relatively easy to say what quality you want to achieve and whether you are achieving quality, even if in individual cases it can always be debated whether a particular piece of content actually meets a standard or not. However, this debatability is fundamentally linked to rules, and it does not mean that the standards are meaningless.
 
@@ -146,7 +155,7 @@ As already mentioned, content strategists are at least partly responsible for th
 
 On the one hand, standards can be used to measure whether the content being produced now is actually of the quality it should be. Above all, however, content strategists can ensure that an organization's content is of a certain quality by working on the joint definition of standards. Of course, simply selecting standards is not enough; it's also about who is responsible for meeting those standards and how to get an organization to actually implement them.
 
-In her book Managing Chaos, Sarah Welchman writes extensively about standards, which she sees as one of the pillars of digital governance. She is not only concerned with content but with every form of action in digital markets, but the relationship to content is relatively clear. Welchman is primarily concerned with the question of who is responsible for compliance with standards.  Content strategists are needed to become aware of the relevance of standards for content in the first place, but they are not usually in a position of power to actually set these standards. As a rule, this actually requires the leadership of an organization that must specify which standards must or must not be adhered to for publications. The task of content strategists is then to make it clear that these decisions must be made and to ensure that they are taken into account in the production of content. For example, they have to argue how much manpower is required to follow a certain standard, and they have to advocate, for example, that appropriate training takes place in the company. Content strategists are then something like the guardians of standards in the company. Even if they are not solely responsible for setting standards, creating the conditions for their compliance and ensuring that they are adhered to on an ongoing basis, they must ensure that these standards are implemented in practice. Operationally, compliance with the standards is the task of editorial teams. Here we can see how closely content strategy and editorial work are linked.
+In her book Managing Chaos [@welchmanManagingChaosDigital2015], Sarah Welchman writes extensively about standards, which she sees as one of the pillars of digital governance. She is not only concerned with content but with every form of action in digital markets, but the relationship to content is relatively clear. Welchman is primarily concerned with the question of who is responsible for compliance with standards.  Content strategists are needed to become aware of the relevance of standards for content in the first place, but they are not usually in a position of power to actually set these standards. As a rule, this actually requires the leadership of an organization that must specify which standards must or must not be adhered to for publications. The task of content strategists is then to make it clear that these decisions must be made and to ensure that they are taken into account in the production of content. For example, they have to argue how much manpower is required to follow a certain standard, and they have to advocate, for example, that appropriate training takes place in the company. Content strategists are then something like the guardians of standards in the company. Even if they are not solely responsible for setting standards, creating the conditions for their compliance and ensuring that they are adhered to on an ongoing basis, they must ensure that these standards are implemented in practice. Operationally, compliance with the standards is the task of editorial teams. Here we can see how closely content strategy and editorial work are linked.
 
 Standards should not be confused with guidelines or style guides, which refer to formal details or to the fact that it is easy to determine whether certain criteria are met. The style guides define how certain standards are achieved&mdash;they are rooted in the standards, so to speak&mdash;but as such they only define whether these standards are implemented. This is easy to distinguish in the case of scientific standards, for example. The scientific standard includes correct citation, i.e. citing the source for all statements and showing where it can be found. However, whether this requirement is implemented by adhering to the APA citation guidelines, as we do here in the degree program, or by using others, e.g. the Chicago Manuel of Style, is a matter for a style guide. In the same way, it is a standard to reach users in a certain situation in the appropriate way and not to discriminate against them. This can then result in statements in the style guide, e.g. for addressing users, as we know from the media and other companies. However, these style guide rules alone do not form the standard.  The standard should also be formulated as such. The transitions here are of course fluid.
 :::
@@ -219,16 +228,16 @@ Licence to operate [… ] refers to the social acceptance of companies. This is 
 
 # Materials 1: Example of a standard
 
- <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> (Thx to the COS21!)
+ <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> [@cos23studentsChecklistTemplateRevising2023] (Thx to the COS21!)
 
 # Materials 2: Content Strategists as advocates of standards
 
-<https://wittenbrink-net.translate.goog/zielsetzung-und-messung-der-arbeit-von-contentstrategen-wirksamkeit-und-qualitat/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp>
+<https://wittenbrink-net.translate.goog/zielsetzung-und-messung-der-arbeit-von-contentstrategen-wirksamkeit-und-qualitat/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp> [@wittenbrinkZielsetzungUndMessung2016]
 
 
 # Materials 3: Lucie Hyde on KPIs and Goals
 
-<https://de.slideshare.net/luciehyde/lucie-hyde-csa2013keynote10thingsivelearned>
+<https://de.slideshare.net/luciehyde/lucie-hyde-csa2013keynote10thingsivelearned> [@hyde10ThingsIve2013]
 
 # 
 
@@ -249,6 +258,13 @@ Use of ChatGBT to support editiorial standards?
 [^dichotomy]: I understand this dichotomy of effectiveness and quality based on the role of standards, which we have encountered on several occasions in content strategy. I would like to continue with an idea that is also essentially present in Hyde: quality, unlike effectiveness, cannot be determined quantitatively, but can only be determined in relation to standards. Whether something is “good” can only be understood in relation to normative guidelines. The standards on which the creation of the content is based can be described as the normative specifications. We call something good when it meets a standard. Nevertheless, it is of course very difficult to determine where quality lies in detail.
 
     What comes to mind here is the concept of [quality without a name](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=http://c2.com/cgi/wiki?QualityWithoutaName "Quality Withouta Name") that [Christopher Alexander](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=https://de.wikipedia.org/wiki/Christopher_Alexander "Christopher Alexander - Wikipedia") speaks of. One can only speak to a limited extent, if at all, about measuring or measurability of quality. (During our presence week 2016 in London, we were able to attend two presentations from companies that produce software that helps organizations comply with standards: [ActiveStandards](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=https://www.activestandards.com/ "ActiveStandards |  End-to-end solutions for digital governance") and [Acrolinx](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=http://www.acrolinx.com/ "Home |  Acrolinx") .)
+
+
+# Sources
+
+
+
+    
 
 
 
