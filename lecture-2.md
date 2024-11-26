@@ -2,7 +2,7 @@
 title: Editorial Organisation – Roles and Power
 author: Heinz Wittenbrink
 link-citations: true
-date: 2023-11-22
+date: 2024-11-13
 theme: white
 ---
 
@@ -91,9 +91,9 @@ aus: @journogyanStructureFunctionsVarious2017
 
 # IPCC Author Experience
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_85UXFAHITU?si=RtHHV1T4WFiYvup8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cTaFy7Sgu-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<https://youtu.be/_85UXFAHITU?si=aDVzswBVkNfd-q0b>
+<https://www.youtube.com/watch?v=cTaFy7Sgu-I>
 
 
 
@@ -103,7 +103,7 @@ aus: @journogyanStructureFunctionsVarious2017
 - focus on changes induced by commercialization and digitization
 - translated into the organization of journalitic teams, especially news rooms
 
-# Basic text for research of editorial teams
+# Basic text for research on editorial teams
 
 - [„Die Zeitungsredaktion als organisiertes soziales System“](http://transfer.dgpuk.de/abstracts/die-zeitungsredaktion-als-organisiertes-soziales-system-ergebnisse-einer-redaktionsbeobachtung/ "„Die Zeitungsredaktion als organisiertes soziales System“ – Ergebnisse einer Redaktionsbeobachtung – transfer") [@ruhlZeitungsredaktionAlsOrganisiertes1979]
  - [Manfred Rühl - Wikipedia](https://en.wikipedia.org/wiki/Manfred_R%C3%BChl "Manfred Rühl - Wikipedia")
