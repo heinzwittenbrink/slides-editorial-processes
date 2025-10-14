@@ -1,7 +1,7 @@
 ---
 title: Editorial Processes 1
 author: Heinz Wittenbrink
-date: 2024-10-16
+date: 2025-10-13
 theme: white
 link-citations: true
 ---
@@ -20,21 +20,13 @@ link-citations: true
 1. Know what editing, editorial processes and an editorial team is
 2. Be able to do consulting for an organisation about the forming and management of an editorial team
 3. Know important factors and influences for the future development of editorial teams
+4. Handle editorial roles and processes in your master thesis
+
 
 ::: notes
 
 Das Ziel ist, dass wir als Gruppe lernen.
 
-:::
-
-
-##
-
-4. Handle editorial roles and processes in your master thesis
-
-<https://docs.google.com/document/d/1XwUh174CTKIW3BbSBIXidmunb1aXa5ounsAv-2nowqE/edit#heading=h.gjdgxs>
-
-::: notes
 
 We all know these processes, and we all have experience with editorial processes that are not optimal. Conversely, good quality is also related to well-established editorial processes. We also want to collect and reflect a lot of our experience, with the questions:
 
@@ -59,7 +51,7 @@ Understanding the basics of *the craft of editing*
 ## Second and third aspect
 
 - Reviewing the editorial process of contentstrategy.at
-- Filling the editorial roles of contentstrategy.at
+- Understanding the editorial roles of contentstrategy.at
 - Perspective: Ethical and social aspects of editing
 
 ## Plan of the course
@@ -75,20 +67,20 @@ Understanding the basics of *the craft of editing*
 
 9:00 - 9:15: Introduction
 
-9:15 – 10:45 Input: Editing as a root of content strategy
+9:15 – 9:45 Input: Editing as a root of content strategy
 
-11:00 - 12:45: Group work: What is editorial quality?
+9:45 – 10:15 Practical experience with editing 
 
-12:45 – 14:00: Lunch break
+10:15 - 10:30 Coffee Break
 
-14:00 – 15:15: Group work: Line editing
+10:30 – 11:15 Input: Editiorial Quality
 
-15:15 – 15:30: Break
+11:20 – 12:00: Group work: Editing and line editing
 
-15:30 – 17:00: Editing and contentstrategy.at
+12:00 – 12: 15 Break 
 
+12:15 – 13:00: Editorial roles and contentstrategy.at
 
----
 <!--
 14:00: Input and tasks: Editorial Quality and CS
 
@@ -115,7 +107,7 @@ Understanding the basics of *the craft of editing*
 
 ## Possible literature reviews
 
-- Kissane, Elements of content strategy
+- Kissane, Elements of content strategy (Review)
 - Plotnik, Elements of editing
 - Google on content quality
 
@@ -132,15 +124,15 @@ Understanding the basics of *the craft of editing*
 
 - The elements of content strategy [@kissaneElementsContentStrategy2011 ]
 - The elements of editing [@plotnikElementsEditing1982]
-- Google search central on editorial quality [@CreatingHelpfulReliable]
-- Google Quality Rater Guidelines [@googleSearchQualityRating2024]
+- Google search central on editorial quality [@googlesearchcentralCreatingHelpfulReliableb]
+- Google Quality Rater Guidelines [@googleSearchQualityRating2025]
 
 
 ## Kissane
 
 ![](https://cdn.shopify.com/s/files/1/0051/7692/products/aba-000003-pp-4_1100x@2x.progressive.jpg?v=1568667153){width=50%}
 
-[The Elements of Content Strategy — A Book Apart](https://elements-of-content-strategy.abookapart.com/ "The Elements of Content Strategy — A Book Apart")
+[The Elements of Content Strategy, A Book Apart](https://abookapart.com/products/the-elements-of-content-strategy.html "The Elements of Content Strategy, A Book Apart")
 
 ## About Erin Kissane
 
@@ -163,15 +155,17 @@ Understanding the basics of *the craft of editing*
 
 ## Plotnik online
 
+<!--
 <iframe src="https://archive.org/embed/elementsofeditin00plot" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+-->
 
 [The elements of editing : Internet Archive](https://archive.org/details/elementsofeditin00plot/page/40/mode/2up "The elements of editing : a modern guide for editors and journalists : Plotnik, Arthur : Free Download, Borrow, and Streaming : Internet Archive")
 
-## Google
+- [x] Google
 
 ![](pics/google_search_quality_rater_guidelines.png){width=30%}
 
-Google search central on editorial quality [@CreatingHelpfulReliable], Google Quality Rater Guidelines [@googleSearchQualityRating2024]
+Google search central on editorial quality [@googlesearchcentralCreatingHelpfulReliableb], Google Quality Rater Guidelines [@googleSearchQualityRating2025]
 
 ## Question to the group: Further sources?
 
@@ -209,9 +203,9 @@ Google search central on editorial quality [@CreatingHelpfulReliable], Google Qu
 
 ## Examples
 
-[Content strategist at the city of Leoben](https://www.fresh-content.at/content-strategie-im-oeffentlichen-bereich/ "Fresh Content Content Strategie im öffentlichen Bereich")
+[(Senior) Content Strategist & Editor (m/w/d)](https://www.groundies.com/de/content-strategist-editor-m-w-d/?srsltid=ARcRdnqzLmTUfDXvPOaTHkdLrf2c4Ri2mrttKrETV-TNsT6DItLxeC1q "(Senior) Content Strategist & Editor (m/w/d)")
 
-[Content Strategists: What Do They Do, Anyway? | Intergrowth™](https://inter-growth.co/content-marketing/content-strategist/ "Content Strategists: What Do They Do, Anyway? | Intergrowth™")
+[Content Strategist - Weber Shandwick](https://webershandwick.com/work-at-weber/careers?gh_jid=7989407002 "Content Strategist - Weber Shandwick")
 
 ## Content strategies have to be translated into editorial decisions
 
@@ -276,9 +270,6 @@ Google search central on editorial quality [@CreatingHelpfulReliable], Google Qu
 > Some lines of fair play can be drawn, but lightly. A manuscript's *content* … is the author's province … But the *form* of the final product–its organization, pace. packaging–is what editors like to think is their speciality. [@plotnikElementsEditing1982]
 
 
-
-
-
 # Editorial Quality
 
 ## Google: Quality and SEO
@@ -307,19 +298,6 @@ Google search central on editorial quality [@CreatingHelpfulReliable], Google Qu
 - Force
 - Relevance
 
-
-
-## Exercise  (groupwise)
-
-- Form groups of 4 people
-- Analyse one article of contentstrategy.at using the criteria in @plotnikElementsEditing1982, pp.28/29 and @CreatingHelpfulReliable 
-- Make a list of editorial problems and of suggestions for improvement
-- Present the results to the whole group.
-
-## Sample articles:
-
-- [Strategy meets organisational communication: A discussion of 4 approaches | Content Strategy Knowledge Base](https://www.contentstrategy.at/lecture-reports/strategy-meets-organisational-communication-a-discussion-of-4-approaches)
-- [Knowledge is power! – How analytics and metrics can improve your company | Content Strategy Knowledge Base](https://www.contentstrategy.at/lecture-reports/knowledge-is-power-how-analysis-and-metrics-can-improve-your-company "Knowledge is power! – How analytics and metrics can improve your company | Content Strategy Knowledge Base")
 
 
 # Line editing
@@ -351,13 +329,28 @@ Sentence by sentence, line by line:
 - cleared additions with th author
 
 
+## Exercise  (groupwise)
+
+- Form groups of 4 people
+- Analyse one article of contentstrategy.at using the criteria in @plotnikElementsEditing1982, pp.28/29 and  Google [-@@googleSearchQualityRating2025] 
+- Make a list of editorial problems and of suggestions for improvement
+- Present the results to the whole group.
+
+## Sample articles:
+
+- Content for Complex Digital Environments: The Basics <https://www.contentstrategy.at/lecture-reports/content-for-complex-digital-environments>
+- Strategy meets organisational communication: A discussion of 4 approaches <https://www.contentstrategy.at/lecture-reports/strategy-meets-organisational-communication-a-discussion-of-4-approaches>
+
+
+<!--
+
 ## Exercise 2 (groupwise)
 
 Start with line editing one of the unpublished articles in content strategy at!
 Present the results to the whole group.
 
 Examples: <https://www.contentstrategy.at/admin/entries/lectureReports/63587-aesthetic-usability-effect>,<https://www.contentstrategy.at/admin/entries/lectureReports/81865-the-importance-of-ethics-in-content-strategy>
-
+-->
 
 ## Summary and questions
 
