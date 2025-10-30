@@ -344,11 +344,17 @@ Constructivist approach (Stefan Weber)
 
 # Exercise 
 
-- Please work in groups 
-- Name a person to collect and report the results
-- Describe the editorial team you are working in or one you know
-- Focus on roles, authority and decision finding, work force, allocation of resources
-- Name problems and learnings – also with regard to the examples in this lecture
+- Please work in groups for about 20 minutes
+- Name a person per group to collect and report the results
+- Describe the different editiorial roles in contentstrategy.at and possible improvements
+- What is the contribution of each role to the quality of the product?
+
+---
+
+- Which roles are missing?
+- Where does/should communication about editorial quality take place?
+- How ist authority handled and how should it be handled?
+- Is there something like a member role (Luhmann, see presentation)? What is it releationship to the different work roles?
 - Condense your insights and present them in the whole group
 
 # References
