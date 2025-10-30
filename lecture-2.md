@@ -2,7 +2,7 @@
 title: Editorial Organisation – Roles and Power
 author: Heinz Wittenbrink
 link-citations: true
-date: 2024-11-13
+date: 2025-10-30
 theme: white
 ---
 
@@ -97,11 +97,29 @@ aus: @journogyanStructureFunctionsVarious2017
 
 
 
+# Content Teams
+
+[@hicksContentTeamStructure2025]
+
+# Small Business Content Team Structure (1-4 Members)
+
+![](pics/Small-Content-Team-Structure-2-300x145.avif)
+
+
+# Mid-Size Company Content Team Structure (5-10 Members)
+
+![](pics/Mid-Size-Content-Team-Structure.avif)
+
+# Enterprise Content Team Structure (11+ People)
+
+![](pics/Enterprise-Content-Team-Structure.avif)
+
+
 # Research about editorial teams in journalism
 - "Redaktionsforschung" (Research on editorial teams)
 - tradition in the "German" vein of research on journalism
-- focus on changes induced by commercialization and digitization
-- translated into the organization of journalitic teams, especially news rooms
+- [ ] - focus on changes induced by commercialization and digitization
+- translated into the organization of journalistic teams, especially news rooms
 
 # Basic text for research on editorial teams
 
