@@ -1,7 +1,7 @@
 ---
 title: Editorial Processes
 author: Heinz Wittenbrink
-date: Winter 2023/24
+date: Winter 2024/25
 theme: white
 ---
 
