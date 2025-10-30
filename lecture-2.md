@@ -101,6 +101,39 @@ aus: @journogyanStructureFunctionsVarious2017
 
 [@hicksContentTeamStructure2025]
 
+# Roles
+
+
+- Content strategists
+- Content creators and content writers
+- Content editors and quality assurance team members
+- SEO specialists
+- Visual content creators
+
+---
+
+- Content managers and project coordination roles
+- Social media specialists and social media management positions
+
+# Centralized Content Team Model
+
+![](pics/Centralized-Team-Model-768x333.avif)
+
+# Decentralized Content Team Model
+
+![](pics/Decentralized-Team-Model.avif)
+
+
+# Hybrid Content Team Model
+
+![](pics/Hybrid-Team-Model.avif)
+
+---
+
+- Agency style content team models
+- Cross-functional content team integration strategies
+
+
 # Small Business Content Team Structure (1-4 Members)
 
 ![](pics/Small-Content-Team-Structure-2-300x145.avif)
