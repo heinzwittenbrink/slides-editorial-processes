@@ -2,7 +2,7 @@
 title: Editorial Quality, Standards and Governance
 link-citations: true
 author: Heinz Wittenbrink
-date: 2024-11-26
+date: 2025-11-13
 theme: white
 ---
 
@@ -188,9 +188,11 @@ However, content only has an impact on the user if its quality is right. The use
 * CEN Workshop Agreement 17493: Journalism Trust Initiative [@europeancommitteeforstandardizationCENWorkshopAgreement2019]
 
 
-# Example of a standard for contentstrategy.at
+# Example of a standard for government content
 
- <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> [@cos23studentsChecklistTemplateRevising2023] (Thx to the COS21!)
+[Content design: planning, writing and managing content - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design "Content design: planning, writing and managing content - Guidance - GOV.UK") [@ContentDesignPlanning]
+<!--
+ <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> [@cos23studentsChecklistTemplateRevising2023] (Thx to the COS21!) -->
 
 
 
@@ -283,14 +285,14 @@ Licence to operate [… ] refers to the social acceptance of companies. This is 
 
 # Lisa Welchman on Standards
 
-[Managing Chaos - Lisa Welchman.epub](../../../../mnt/Daten Heinz/Nextcloud/Calibre/Lisa Welchman/Managing Chaos (53)/Managing Chaos - Lisa Welchman.epub) 
+[Managing Chaos - Lisa Welchman.epub](../../../../mnt/wwn-0x50014ee2bfaa3da7-part1/Nextcloud/Calibre/Lisa Welchman/Managing Chaos (53)/) 
 (Link to local version [@welchmanManagingChaosDigital2015, Chapter Digital Standards])
 
 
 
 # Preview: AI Support for the evaluation of content
 
-[Home - Acrolinx](https://www.acrolinx.com/de/ "Home - Acrolinx")
+[Home - Acrolinx](https://www.acrolinx.com/ "Home - Acrolinx")
 
 Use of ChatGBT to support editiorial standards? 
 
