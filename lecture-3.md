@@ -31,6 +31,25 @@ theme: white
 4. Know important content strategy texts about standards and quality
 5. Reflect about the relevance of standards in our professional practice
 
+# Exercise
+
+* Please watch the presentation and/or the recording.
+
+- Form groups of approximately 5 people.
+
+* In each group, formulate questions and statements on the topic of standards.
+
+---
+
+- Define which standards may be relevant for [contentstrategy.at](http://contentstrategy.at). (Think about the purpose of the channel from your perspective as content strategy students. How can it support your reputation as academically trained content strategists?)
+
+* Develop ideas on how compliance with these standards can be ensured at [contentstrategy.at](http://contentstrategy.at).
+
+- Post the results in the course's Slack Channel.
+
+Time: By the end of the month. Use the next session (25 November) for the meeting, as I will probably not be able to attend.I am looking forward to your ideas!
+
+
 # Theses
 
 - The effectiveness and quality of content are two frames of reference that can be used to direct and evaluate the results of content strategists' work.
