@@ -41,13 +41,15 @@ theme: white
 
 # Use cases
 
+Whiteboard: <https://zoom.us/wb/doc/3ez-yznYRK6FS_bnHJW12Q/p/185742368702464>
+
 # Example
 
   [ChatGPT Protocol](ai-material.pdf)
 
 # What is generative AI?
 
-* Large Language Models and Machine Learnings
+* Large Language Models and Machine Learning
 * Chatbots and other applications
 
 # Affordances and limits of generative AI
@@ -130,7 +132,9 @@ Harvard Business School [Marketing AI Guidelines | About](https://www.hbs.edu/ab
 * Human oversight
 * Transparence via tags ("Created by AI")
 
+# Ideas for editorial guidelines on the use of AI
 
+Whiteboard: <https://zoom.us/wb/doc/h28zwgP4QjqVxckhSiWhTg/p/185954636333056>
 
 
 
