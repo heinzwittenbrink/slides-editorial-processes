@@ -26,6 +26,12 @@ theme: white
 * Different work and life situations
 * Limited knowledge
 
+# Problems not sufficiently mentioned here
+
+* Resource use / ecology [@costaIntelligenceArtificielleVrai2025]
+* Techfascism ([Refusing Tech Fascism](https://error417.expectation.fail/406/tech-fascism-not-acceptable/essay-refusing-tech-fascism-by-tante "R𰁉𰁠𰆒𰅸𰂈𰄱𰁩 𰆄𰁇C𰂀 𰁡𰀁𰅴𰀥𰂆SM") @geuterRefusingTechFascism2025)
+* Intellectual property
+
 # Goals
 
 * Exchange of experience
