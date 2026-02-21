@@ -27,7 +27,7 @@ theme: white
 
 ## Vibe-Coding and Agentic AI in the Software Industry
 
-* Example: [OpenClaw — Personal AI Assistant]("OpenClaw — Personal AI Assistant" https://openclaw.ai/)
+* Example: [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
 * Gold rush atmosphere and *vampirism* [@yeggeAIVampire2026]
 * Criticism of the risks [@geuterDiffusionResponsibility2026]
 
@@ -53,7 +53,7 @@ theme: white
 * Agents can further develop applications
 
 ## Developing Agents Using Natural Language
-* Agents are available to developers and end users, e.g., [Google Opal]("Opal  |  Google for Developers" https://developers.google.com/opal)
+* Agents are available to developers and end users, e.g., [Google Opal](https://developers.google.com/opal "Opal  |  Google for Developers")
 * They can be developed without programming skills, at least as prototypes
 
 ## Use of Different LLMs
@@ -62,8 +62,8 @@ theme: white
 * Billing is via subscriptions or usage time
 
 ## Standardisation
-* Open source protocal for connecting software and models: [Model Context Protocol]("What is the Model Context Protocol (MCP)? - Model Context Protocol" https://modelcontextprotocol.io/docs/getting-started/intro)
-* Example: [Zotero MCP]("GitHub - cookjohn/zotero-mcp: Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元 数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP." https://github.com/cookjohn/zotero-mcp)
+* Open source protocal for connecting software and models: [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro "What is the Model Context Protocol (MCP)? - Model Context Protocol")
+* Example: [Zotero MCP](https://github.com/cookjohn/zotero-mcp "GitHub - cookjohn/zotero-mcp: Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元 数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP.")
 
 # Examples of Agentic AI
 
@@ -77,9 +77,9 @@ theme: white
 # Corporate and Company Strategies
 
 ## Expansion of Google Cloud as an Agent Platform
-* [Vertex AI Agent Builder]("Vertex AI Agent Builder | Google Cloud" https://cloud.google.com/products/agent-builder)
+* [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder)
 * Wide range of offerings
-* Integration with Gemini: [Vertex AI vs Gemini: Which One Should You Choose in 2025?]("Vertex AI vs Gemini: Which One Should You Choose in 2025?" https://www.agiyes.com/aireviews/vertex-ai-vs-gemini/)
+* Integration with Gemini: [Vertex AI vs Gemini: Which One Should You Choose in 2025?](https://www.agiyes.com/aireviews/vertex-ai-vs-gemini/ "Vertex AI vs Gemini: Which One Should You Choose in 2025?" )
 * Close linkage with other Google services
 
 ## Development of Campaigns and Advertisements as a Service at Facebook
@@ -126,9 +126,9 @@ theme: white
 
 # Sources of Information
 ## Online Expertise
-* [AI in Marketing recent news | Content Marketing Institute]("AI in Marketing recent news | Content Marketing Institute" https://contentmarketinginstitute.com/strategy-planning/ai-in-marketing)
-* [Derek Martin]("Advanced Marketing with Derek Martin | Substack" https://derekfmartin.substack.com/)
-* [Amy Balliett]("Latest from the Blog - Amy Balliett" https://amyballiett.com/#/latest-from-the-blog)
+* [AI in Marketing recent news | Content Marketing Institute](https://contentmarketinginstitute.com/strategy-planning/ai-in-marketing "AI in Marketing recent news | Content Marketing Institute")
+* [Derek Martin](https://derekfmartin.substack.com/ "Advanced Marketing with Derek Martin | Substack")
+* [Amy Balliett](https://amyballiett.com/#/latest-from-the-blog "Latest from the Blog - Amy Balliett")
 * ...
 
 ## References
