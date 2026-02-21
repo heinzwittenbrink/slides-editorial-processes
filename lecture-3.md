@@ -2,24 +2,52 @@
 title: Editorial Quality, Standards and Governance
 link-citations: true
 author: Heinz Wittenbrink
-date: 2024-01-19
+date: 2025-11-13
 theme: white
 ---
 
+#
+
+<style>
+
+    #refs
+
+    div {font-size: small;}
+
+    section#footnotes p  {font-size: small;}
 
 
+    
+</style>
 
-# Task
+* Markdown version: <https://github.com/heinzwittenbrink/slides-editorial-processes/blob/main/lecture-3.md> 
+* Pdf (with annotations): <https://heinzwittenbrink.github.io/slides-editorial-processes/lecture-3.pdf>
 
-1. Please form groups as for the preceding tasks
-2. Please name implicit or explicit editorial standard in an editorial team you know
-3. Who defined these standards?
-4. What happens if they are not met?
-5. Does the relevance of editorial standards have consequences for your work as a content strategist?
+# Goals
 
-Please use the input of the presentation and post the results in the channel!
+1. Understand the differences between effectiveness and quality
+2. Reflect about the function of standards for the evaluation of quality
+3. Know examples of standards which are important for editorial quality
+4. Know important content strategy texts about standards and quality
+5. Reflect about the relevance of standards in our professional practice
 
+# Exercise
 
+* Please watch the presentation and/or the recording.
+
+- Form groups of approximately 5 people.
+
+* In each group, formulate questions and statements on the topic of standards.
+
+---
+
+- Define which standards may be relevant for [contentstrategy.at](http://contentstrategy.at). (Think about the purpose of the channel from your perspective as content strategy students. How can it support your reputation as academically trained content strategists?)
+
+* Develop ideas on how compliance with these standards can be ensured at [contentstrategy.at](http://contentstrategy.at).
+
+- Post the results in the course's Slack Channel.
+
+Time: By the end of the month. Use the next session (25 November) for the meeting, as I will probably not be able to attend.I am looking forward to your ideas!
 
 
 # Theses
@@ -33,10 +61,6 @@ Please use the input of the presentation and post the results in the channel!
 - Content strategies are needed because the impact of content should be targeted and is made possible by the quality of the content.
 - Determining the goals to be achieved through content and setting standards require digital governance.
 
-
-
-
-
 # Thesis 1: Effectiveness vs. quality
 
 The effectiveness and quality of content are two frames of reference that can be used to direct and evaluate the results of content strategists' work.
@@ -47,10 +71,9 @@ This first thesis relates to two different aspects of content that we come acros
 
 The first aspect is easier to grasp.  It is the aspect of content effectiveness. This is simply about wanting to achieve a goal with a piece of content. In many cases, this goal is a monetary goal. Either I want to sell the content itself or I want to sell something with the content. I can then easily recognize the effectiveness and also measure whether I actually sell something with the content. Of course, it's only that simple in theory. In practice, it is often not so easy to decide whether and which content contributed to the sale of something.
 
+A distinction must be made between the effectiveness of the content and whether this content is good in the broadest sense. This word *good* is difficult to define, but whoever deals with content uses the idea that content is more or less good or that publications are more or less good. This *goodness* or quality of content is a prerequisite for achieving something with the content, but there is no direct one-to-one relationship between the two.  Of course, poor content can also achieve goals under certain conditions. And whether a piece of content is good or not and whether I want to publish good content or not can also be independent of achieving a goal.
 
-A distinction must be made between the effectiveness of the content and whether this content is good in the broadest sense. This word *good* is difficult to define, but whoever deals with content uses the idea that content is more or less good or that publications are more or less good. This goodness or quality of content is a prerequisite for achieving something with the content, but there is no direct one-to-one relationship between the two.  Of course, poor content can also achieve goals under certain conditions. And whether a piece of content is good or not and whether I want to publish good content or not can also be independent of achieving a goal.
-
-The contrast can be clearly illustrated using the example of traditional journalism&mdas;as well as many of the issues relating to the quality of content and editing. In traditional journalism, there is a strict separation between editorial and marketing. Marketing must not influence the editorial team. For example, it is not allowed to say: You have to write an article that supports the sale of this or that product for which we were able to place advertisements. What journalists do must not depend on whether the newspaper or magazine or whatever publication sells better or worse afterwards. They have to work according to other criteria, namely so-called journalistic criteria.  In the long run, as is often assumed, good quality will also promote sales. But this does not necessarily have to be the case. There may be completely different motives for good quality, e.g. the ethics of the people who make a newspaper.
+The contrast can be clearly illustrated using the example of traditional journalism&mdash;as well as many of the issues relating to the quality of content and editing. In traditional journalism, there is a strict separation between editorial and marketing. Marketing must not influence the editorial team. For example, it is not allowed to say: You have to write an article that supports the sale of this or that product for which we were able to place advertisements. What journalists do must not depend on whether the newspaper or magazine or whatever publication sells better or worse afterwards. They have to work according to other criteria, namely so-called journalistic criteria.  In the long run, as is often assumed, good quality will also promote sales. But this does not necessarily have to be the case. There may be completely different motives for good quality, e.g. the ethics of the people who make a newspaper.
 
 In this lecture, I don't just want to deal with why we need good content, but above all with how we can recognize it and whether quality can also be measured.
 
@@ -66,17 +89,30 @@ If we look at the beginnings of content strategy on the web, it is precisely thi
 
 :::
 
+# Material: Lucie Hyde on KPIs and Goals
+
+<https://de.slideshare.net/luciehyde/lucie-hyde-csa2013keynote10thingsivelearned> [@hyde10ThingsIve2013]
+
+# 
+
+>  MEASUREMENT IS ESSENTIAL BUT KPIs ARE NOT GOALS
+
+> Measuring effectiveness is essential if we are to succeed
+
+#
+
+> Quality is NOT the same as effectiveness. Effectiveness is more important. A robust measurement framework should include IMPACT and HEALTH measurements. Outcome-based goals are also important – but they often (usually) include more than content.
+
+
 # Thesis 2: Interdependence of effectiveness and quality
 
 Effectiveness and quality of content cannot be reduced to one another and cannot be separated from one another.[^dichotomy]
 
 ::: notes
 
-The fact that effectiveness and quality cannot be separated from each other is due at least in part to the fact that content requires trust in order to be effective. Content is only taken seriously if it is trusted, and trust in turn depends very much on whether the author of the content is trusted. As a rule, you are not in a position to check whether content is correct yourself. If you were, you would probably not need the content. You have to believe that the content is correct, and this belief depends on whether you believe the people or authorities who publish a particular piece of content.
+The fact that effectiveness and quality cannot be separated from each other is due at least in part to the fact that content requires trust in order to be effective. Content is only taken seriously if it is trusted, and trust in turn depends very much on whether the author of the content is trusted. As a rule, you are not in a position to check whether content is correct yourself. If you were, you would probably not need the content. You have to believe that the content is *correct* or *true*, and this belief depends on whether you believe the people or authorities who publish a particular piece of content.
 
-
-
-But you can also start from the quality of a piece of content and ask what its effectiveness looks like. Here we can say that for at least almost all content that is created and produced, there is also a purpose that goes beyond the mere content. Dissertations, for example, are not written for many readers, but to achieve a certain academic degree. Even if someone writes for themselves alone, they may expect the content to have an effect on the author themselves, e.g. to help clarify certain thoughts or remind them of certain things. The content always has a purpose, which is not just the purpose of the content.
+But you can also start from the quality of a piece of content and ask what its effectiveness looks like. Here we can say that for at least almost all content that is created and produced, there is also a purpose that goes beyond the mere content. Dissertations, for example, are not written to be read by many readers, but to achieve a certain academic degree. Even if someone writes for themselves alone, they may expect the content to have an effect on the author themselves, e.g. to help clarify certain thoughts or remind them of certain things. The content always has a purpose, which is not just the purpose of the content.
 
 Standards are a crucial means of establishing this trust.
 
@@ -89,9 +125,6 @@ Perhaps to put it another way and to anticipate a little: in order to achieve a 
 :::
 
 
-
-
-	
 
 # Thesis 3: Standards vs. measurement
 
@@ -115,7 +148,9 @@ In order to answer the question of why it is not possible to measure quality her
 
 Standards are something like explicit rules. This is relatively clear in the case of scientific standards. It is similar with journalistic standards, which are often formulated in well-known journalistic style guides, e.g. the Yahoo style guide. These are also rules that are not only implicitly adhered to, but that are explicitly specified to the employees of a journalistic editorial team, for example.
 
-I have already said that the quality of texts, of content, is generally a matter of joint assessment by senders and recipients, and it is fitting that such standards are generally also publicly accessible to users or readers. Quality newspapers, for example, publish their standards and thus allow readers to determine whether texts meet these standards. If you want to ensure that your own texts adhere to certain standards, and if you also want to let readers know what quality you are delivering to them, then communicating standards is a good way of doing this. A few years ago, for example, Joe Pulizzi, one of the most important theorists of content marketing, called for content marketers to adhere to journalistic standards, and to do so more strictly than traditional journalistic media.  The reason for this is that there is often a risk of manipulation in content marketing in particular, so adhering to journalistic standards ensures that the accusation of manipulation is not justified - of course only if these standards are actually applied.
+I have already said that the quality of texts, of content, is generally a matter of joint assessment by senders and recipients, and it is fitting that such standards are generally also publicly accessible to users or readers. Quality newspapers, for example, publish their standards and thus allow readers to determine whether texts meet these standards. If you want to ensure that your own texts adhere to certain standards, and if you also want to let readers know what quality you are delivering to them, then communicating standards is a good way of doing this. 
+
+A few years ago, for example, Joe Pulizzi, one of the most important theorists of content marketing, called for content marketers to adhere to journalistic standards, and to do so more strictly than traditional journalistic media [@pulizziEpicContentMarketing2013, chapter "Content Marketing Code of Ethics"].  The reason for this is that there is often a risk of manipulation in content marketing in particular, so adhering to journalistic standards ensures that the accusation of manipulation is not justified - of course only if these standards are actually applied.
 
 With this in mind, I would now like to argue in favor of giving standards a central role in editorial work. As soon as standards are set, it is relatively easy to say what quality you want to achieve and whether you are achieving quality, even if in individual cases it can always be debated whether a particular piece of content actually meets a standard or not. However, this debatability is fundamentally linked to rules, and it does not mean that the standards are meaningless.
 
@@ -137,6 +172,46 @@ However, content only has an impact on the user if its quality is right. The use
 
 :::
 
+# Content Marketing's Code of Ethics
+
+> Content marketing should seek to adhere to stricter standards of reporting than traditional journalism, due to its different legal position and increased commercial motivations. [@pulizziEpicContentMarketing2013, chapter "Content Marketing Code of Ethics"]
+
+#
+
+> Content marketers should take care to disclose the sponsorship and intent of their work while abiding by the following practices:
+
+> Adhere to journalism’s core values of honesty, integrity, accountability, and responsibility. 
+
+> Acknowledge facts that may compromise the integrity of a story or opinion.
+
+#
+
+> Minimize potential harm to sources or subjects of stories.
+
+> Expose truth as fully as possible.
+
+> Always credit sources of content or ideas, never plagiarizing or repurposing stories or prose, whether one’s own or another’s, whether written content, photography, or other media, whether the original source is known or not.
+
+#
+
+> Fulfill promises made to contributors and sources in the course of reporting.
+
+> Ensure that the reader understands the source, sponsor, and intent of the content
+
+> Disclose all potential conflicts of interest or appearance of conflict."
+
+
+# Examples for standards
+
+* [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/guidelines "Guidelines") [@bbcEditorialGuidelines2024]
+* CEN Workshop Agreement 17493: Journalism Trust Initiative [@europeancommitteeforstandardizationCENWorkshopAgreement2019]
+
+
+# Example of a standard for government content
+
+[Content design: planning, writing and managing content - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design "Content design: planning, writing and managing content - Guidance - GOV.UK") [@ContentDesignPlanning]
+<!--
+ <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> [@cos23studentsChecklistTemplateRevising2023] (Thx to the COS21!) -->
 
 
 
@@ -150,16 +225,16 @@ As already mentioned, content strategists are at least partly responsible for th
 
 On the one hand, standards can be used to measure whether the content being produced now is actually of the quality it should be. Above all, however, content strategists can ensure that an organization's content is of a certain quality by working on the joint definition of standards. Of course, simply selecting standards is not enough; it's also about who is responsible for meeting those standards and how to get an organization to actually implement them.
 
-In her book Managing Chaos, Sarah Welchman writes extensively about standards, which she sees as one of the pillars of digital governance. She is not only concerned with content but with every form of action in digital markets, but the relationship to content is relatively clear. Welchman is primarily concerned with the question of who is responsible for compliance with standards.  Content strategists are needed to become aware of the relevance of standards for content in the first place, but they are not usually in a position of power to actually set these standards. As a rule, this actually requires the leadership of an organization that must specify which standards must or must not be adhered to for publications. The task of content strategists is then to make it clear that these decisions must be made and to ensure that they are taken into account in the production of content. For example, they have to argue how much manpower is required to follow a certain standard, and they have to advocate, for example, that appropriate training takes place in the company. Content strategists are then something like the guardians of standards in the company. Even if they are not solely responsible for setting standards, creating the conditions for their compliance and ensuring that they are adhered to on an ongoing basis, they must ensure that these standards are implemented in practice. Operationally, compliance with the standards is the task of editorial teams. Here we can see how closely content strategy and editorial work are linked.
+In her book Managing Chaos [@welchmanManagingChaosDigital2015], Sarah Welchman writes extensively about standards, which she sees as one of the pillars of digital governance. She is not only concerned with content but with every form of action in digital markets, but the relationship to content is relatively clear. Welchman is primarily concerned with the question of who is responsible for compliance with standards.  Content strategists are needed to become aware of the relevance of standards for content in the first place, but they are not usually in a position of power to actually set these standards. As a rule, this actually requires the leadership of an organization that must specify which standards must or must not be adhered to for publications. The task of content strategists is then to make it clear that these decisions must be made and to ensure that they are taken into account in the production of content. For example, they have to argue how much manpower is required to follow a certain standard, and they have to advocate, for example, that appropriate training takes place in the company. Content strategists are then something like the guardians of standards in the company. Even if they are not solely responsible for setting standards, creating the conditions for their compliance and ensuring that they are adhered to on an ongoing basis, they must ensure that these standards are implemented in practice. Operationally, compliance with the standards is the task of editorial teams. Here we can see how closely content strategy and editorial work are linked.
 
 Standards should not be confused with guidelines or style guides, which refer to formal details or to the fact that it is easy to determine whether certain criteria are met. The style guides define how certain standards are achieved&mdash;they are rooted in the standards, so to speak&mdash;but as such they only define whether these standards are implemented. This is easy to distinguish in the case of scientific standards, for example. The scientific standard includes correct citation, i.e. citing the source for all statements and showing where it can be found. However, whether this requirement is implemented by adhering to the APA citation guidelines, as we do here in the degree program, or by using others, e.g. the Chicago Manuel of Style, is a matter for a style guide. In the same way, it is a standard to reach users in a certain situation in the appropriate way and not to discriminate against them. This can then result in statements in the style guide, e.g. for addressing users, as we know from the media and other companies. However, these style guide rules alone do not form the standard.  The standard should also be formulated as such. The transitions here are of course fluid.
-
-
-
-
-
-
 :::
+
+# Material: Content Strategists as advocates of standards
+
+<https://wittenbrink-net.translate.goog/zielsetzung-und-messung-der-arbeit-von-contentstrategen-wirksamkeit-und-qualitat/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp> [@wittenbrinkZielsetzungUndMessung2016]
+
+	
 	
 # Thesis 5: Standards and governance
 
@@ -171,9 +246,9 @@ Standards should not be confused with guidelines or style guides, which refer to
 
 ::: notes
 
-I would now like to go into this topic of governance in more detail, although it needs to be dealt with in its own right and is also covered here in the course. *Governance is the term used to describe the way in which an organization is controlled, i.e. what the *government* does. The term comes from the Latin word for the helmsman, *gubernator*.  Good governance in a country ensures that it is governed properly, and likewise, good governance in an organization ensures that goals are achieved while all parts of the organization work to support those goals and the achievement of those goals.
+I would now like to go into this topic of governance in more detail, although it needs to be dealt with in its own right and is also covered here in the program. *Governance* is the term used to describe the way in which an organization is controlled, i.e. what the *government* does. The term comes from the Latin word for the helmsman, *gubernator*.  Good governance in a country ensures that it is governed properly, and likewise, good governance in an organization ensures that goals are achieved while all parts of the organization work to support those goals and the achievement of those goals.
 
-In her book Managing Chaos, Sarah Welchman divides governance into three major areas: strategy, standards and policies. We deal with the topic of strategy again and again here at university, and it actually makes up our core content. By policies, Welshman means everything that serves to prevent risks. In the area of content, for example, a policy is not to use copyrighted material. If this policy is not adhered to, this can lead to lawsuits that cost a lot of money. Another policy is to avoid discrimination. Here, too, negative consequences are to be feared. However, the policy does not positively define how the organization achieves its goals. This positive definition is the task of the standards. The standards determine what the ambition of the organization is. Quality journalism, to come back to this example, strives to meet high standards of impartiality and transparency in its research Tabloid journalism is much more lax in these standards, so that it is not even measured against these quality criteria.
+In her book Managing Chaos, Sarah Welchman divides governance into three major areas: strategy, standards and policies. We deal with the topic of strategy again and again here at university, and it actually makes up our core content. By policies, Welshman means everything that serves to prevent risks. In the area of content, for example, a policy is not to use copyrighted material. If this policy is not adhered to, this can lead to lawsuits that cost a lot of money. Another policy is to avoid discrimination. Here, too, negative consequences are to be feared. However, the policy does not positively define how the organization achieves its goals. This positive definition is the task of the standards. The standards determine what the ambition of the organization is. Quality journalism, to come back to this example, strives to meet high standards of impartiality and transparency in its research. Tabloid journalism is much more lax in these standards, so that it is often not even measured against these quality criteria.
 
 In her book, Sarah Welchman always starts from the tasks and team structure of an organization. She first defines who belongs to the team and how, and also includes all external parties with whom the organization works. Then she tries to find out how the responsibilities for strategy, policies and standards are currently distributed, so she does something like an audit, and then she develops a suitable distribution of the various roles for the organization. Her book contains various examples of how the governance of organizations is regulated, and it is mainly because of these practical examples that it is so important.
 
@@ -227,38 +302,29 @@ Licence to operate [… ] refers to the social acceptance of companies. This is 
 
 -->
 
-# Materials 1: Example of a standard
+# Lisa Welchman on Standards
 
- <https://docs.google.com/document/d/1inTQYltJnPZfDpDdYoSZEvyKDkhU_bkbEDGVZ_GP-W8/edit?usp=sharing> (Thx to the COS21!)
-
-# Materials 2: Content Strategists as advocates of standards
-
-<https://wittenbrink-net.translate.goog/zielsetzung-und-messung-der-arbeit-von-contentstrategen-wirksamkeit-und-qualitat/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp>
-
-
-# Materials 3: Lucie Hyde on KPIs and Goals
-
-<https://de.slideshare.net/luciehyde/lucie-hyde-csa2013keynote10thingsivelearned>
-
-# 
-
->  MEASUREMENT IS ESSENTIAL BUT KPIs ARE NOT GOALS
-
-> Measuring effectiveness is essential if we are to succeed
-> 
-> Quality is NOT the same as effectiveness. Effectiveness is more important. A robust measurement framework should include IMPACT and HEALTH measurements. Outcome-based goals are also important – but they often (usually) include more than content.
+[Managing Chaos - Lisa Welchman.epub](../../../../mnt/wwn-0x50014ee2bfaa3da7-part1/Nextcloud/Calibre/Lisa Welchman/Managing Chaos (53)/) 
+(Link to local version [@welchmanManagingChaosDigital2015, Chapter Digital Standards])
 
 
 
-# Materials 4: AI Support for the evaluation of content
+# Preview: AI Support for the evaluation of content
 
-[Home - Acrolinx](https://www.acrolinx.com/de/ "Home - Acrolinx")
+[Home - Acrolinx](https://www.acrolinx.com/ "Home - Acrolinx")
 
 Use of ChatGBT to support editiorial standards? 
 
 [^dichotomy]: I understand this dichotomy of effectiveness and quality based on the role of standards, which we have encountered on several occasions in content strategy. I would like to continue with an idea that is also essentially present in Hyde: quality, unlike effectiveness, cannot be determined quantitatively, but can only be determined in relation to standards. Whether something is “good” can only be understood in relation to normative guidelines. The standards on which the creation of the content is based can be described as the normative specifications. We call something good when it meets a standard. Nevertheless, it is of course very difficult to determine where quality lies in detail.
 
     What comes to mind here is the concept of [quality without a name](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=http://c2.com/cgi/wiki?QualityWithoutaName "Quality Withouta Name") that [Christopher Alexander](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=https://de.wikipedia.org/wiki/Christopher_Alexander "Christopher Alexander - Wikipedia") speaks of. One can only speak to a limited extent, if at all, about measuring or measurability of quality. (During our presence week 2016 in London, we were able to attend two presentations from companies that produce software that helps organizations comply with standards: [ActiveStandards](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=https://www.activestandards.com/ "ActiveStandards |  End-to-end solutions for digital governance") and [Acrolinx](https://translate.google.com/website?sl=de\&tl=en\&hl=de\&client=webapp\&u=http://www.acrolinx.com/ "Home |  Acrolinx") .)
+
+
+# Sources
+
+
+
+    
 
 
 

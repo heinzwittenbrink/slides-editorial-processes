@@ -2,7 +2,7 @@
 title: Editorial Organisation – Roles and Power
 author: Heinz Wittenbrink
 link-citations: true
-date: 2023-11-22
+date: 2025-10-30
 theme: white
 ---
 
@@ -91,19 +91,70 @@ aus: @journogyanStructureFunctionsVarious2017
 
 # IPCC Author Experience
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_85UXFAHITU?si=RtHHV1T4WFiYvup8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cTaFy7Sgu-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<https://youtu.be/_85UXFAHITU?si=aDVzswBVkNfd-q0b>
+<https://www.youtube.com/watch?v=cTaFy7Sgu-I>
 
+
+
+# Content Teams
+
+[@hicksContentTeamStructure2025]
+
+# Roles
+
+
+- Content strategists
+- Content creators and content writers
+- Content editors and quality assurance team members
+- SEO specialists
+- Visual content creators
+
+---
+
+- Content managers and project coordination roles
+- Social media specialists and social media management positions
+
+# Centralized Content Team Model
+
+![](pics/Centralized-Team-Model-768x333.avif)
+
+# Decentralized Content Team Model
+
+![](pics/Decentralized-Team-Model.avif)
+
+
+# Hybrid Content Team Model
+
+![](pics/Hybrid-Team-Model.avif)
+
+---
+
+- Agency style content team models
+- Cross-functional content team integration strategies
+
+
+# Small Business Content Team Structure (1-4 Members)
+
+![](pics/Small-Content-Team-Structure-2-300x145.avif)
+
+
+# Mid-Size Company Content Team Structure (5-10 Members)
+
+![](pics/Mid-Size-Content-Team-Structure.avif)
+
+# Enterprise Content Team Structure (11+ People)
+
+![](pics/Enterprise-Content-Team-Structure.avif)
 
 
 # Research about editorial teams in journalism
 - "Redaktionsforschung" (Research on editorial teams)
 - tradition in the "German" vein of research on journalism
-- focus on changes induced by commercialization and digitization
-- translated into the organization of journalitic teams, especially news rooms
+- [ ] - focus on changes induced by commercialization and digitization
+- translated into the organization of journalistic teams, especially news rooms
 
-# Basic text for research of editorial teams
+# Basic text for research on editorial teams
 
 - [„Die Zeitungsredaktion als organisiertes soziales System“](http://transfer.dgpuk.de/abstracts/die-zeitungsredaktion-als-organisiertes-soziales-system-ergebnisse-einer-redaktionsbeobachtung/ "„Die Zeitungsredaktion als organisiertes soziales System“ – Ergebnisse einer Redaktionsbeobachtung – transfer") [@ruhlZeitungsredaktionAlsOrganisiertes1979]
  - [Manfred Rühl - Wikipedia](https://en.wikipedia.org/wiki/Manfred_R%C3%BChl "Manfred Rühl - Wikipedia")
@@ -293,11 +344,17 @@ Constructivist approach (Stefan Weber)
 
 # Exercise 
 
-- Please work in groups 
-- Name a person to collect and report the results
-- Describe the editorial team you are working in or one you know
-- Focus on roles, authority and decision finding, work force, allocation of resources
-- Name problems and learnings – also with regard to the examples in this lecture
+- Please work in groups for about 20 minutes
+- Name a person per group to collect and report the results
+- Describe the different editiorial roles in contentstrategy.at and possible improvements
+- What is the contribution of each role to the quality of the product?
+
+---
+
+- Which roles are missing?
+- Where does/should communication about editorial quality take place?
+- How ist authority handled and how should it be handled?
+- Is there something like a member role (Luhmann, see presentation)? What is it releationship to the different work roles?
 - Condense your insights and present them in the whole group
 
 # References
